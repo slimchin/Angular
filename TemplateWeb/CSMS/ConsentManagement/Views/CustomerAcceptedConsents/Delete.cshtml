@@ -1,0 +1,156 @@
+﻿@model ConsentManament.Models.ConsentManageModels.QueryCustomerAcceptedConsentModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+    @*<div class="d-sm-flex align-items-center justify-content-between mb-4">
+            <h3 class="h3 mb-0 text-gray-800"><a href="@Url.Action("List", "CustomerAcceptedConsents")">CUSTOMER CONSENT DATA</a>-><a href="@Url.Action("Create", "CustomerAcceptedConsents")">ADD NEW</a></h3>
+
+        </div>*@
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800"></h1>
+    <p class="mb-4">@*DataTables is a third party plugin that is used to generate the demo table below. For more information about DataTables, please visit the <a target="_blank" href="https://datatables.net">official DataTables documentation</a>.*@</p>
+    <div class="container">
+
+        <div class="row" style="padding-top:10px">
+            <div class="col-2" style="text-align:right">
+            </div>
+            <div class="col-6">
+                <section class="inside-title" style="text-align: left;">
+                    <h3 class="main-title" style="color:red"> ลบข้อมูล Consent </h3>
+                </section>
+            </div>
+        </div>
+        <hr />
+        <form id="form2">
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    <h5>เลขที่บัญชีลูกค้า</h5>
+                </div>
+                <div class="col-6">
+                    <h5>@Model.consentAcceptedForm.accountNo</h5>
+                </div>
+            </div>
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    <h5>Product Name</h5>
+                </div>
+                <div class="col-6">
+                    <h5>@Model.consentAcceptedForm.productName</h5>
+                </div>
+            </div>
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    <h5>Form ID</h5>
+                </div>
+                <div class="col-6">
+                    <span>
+                        <h5>@Model.consentAcceptedForm.consentFormID</h5>
+                    </span>
+                </div>
+            </div>
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    <h5>Form Name</h5>
+                </div>
+                <div class="col-6">
+                    <span>
+                        <h5>@Model.consentAcceptedForm.consentFormName</h5>
+                    </span>
+                </div>
+            </div>
+            <hr />
+            @foreach (var m in Model.consentAcceptedDetail)
+            {
+
+                <div class="row" style="padding-top:10px">
+                    <div class="col-2" style="text-align:right">
+                        <h5>@*@m.consentOrder*@</h5>
+
+
+                    </div>
+                    <div class="col-10">
+
+                        <span>
+                            @if (m.IsAccept == true)
+                            {
+                                <input type="checkbox" name="Order" value="@m.Consent.consentID" id="Order" checked="checked" disabled="disabled">
+                            }
+                            else
+                            {
+                                <input type="checkbox" name="Order" value="@m.Consent.consentID" id="Order" disabled="disabled">
+                            }
+
+                            @m.Consent.contentText
+                        </span>
+
+                    </div>
+                </div>
+            }
+            <div id="ConsentUpdateResultPartial">
+                @{Html.RenderPartial("ConsentSaveResultPartial");}
+            </div>
+            <hr />
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    <h5>Remark</h5>
+                </div>
+                <div class="col-10" style="text-align:right">
+                    <textarea name="remark" id="remark" class="form-control" rows="2" placeholder="กรุณาระบุเหตุผลความยาวไม่น้อยกว่า 20 ตัวอักษร"></textarea>
+                </div>
+            </div>
+            <hr />
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    @*<h5>Consent Form</h5>*@
+                </div>
+                <div class="col-6">
+                    <div class="row">
+                        @*<div class="col-sm-4">
+                                <button type="button" id="" class="btn-sm btn-block" style="background-color:#00235D; border-color: #00235D;color:white">กลับ</button>
+                            </div>*@
+                        <div class="col-sm-4">
+                            <button type="button" id="back" class="btn-sm btn-block " style="">กลับ</button>
+                        </div>
+
+                        <div class="col-sm-4">
+                            <button type="button" id="btnDeleteConsent" class="btn-sm btn-block btn-danger" style="color:white">ยืนยันการลบข้อมูล</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <input type="hidden" name="accountNo" id="accountNo" value="@Model.consentAcceptedForm.accountNo" />
+            <input type="hidden" name="productName" id="productName" value="@Model.consentAcceptedForm.productName" />
+        </form>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+    $(function () {
+        $('#back').click(function () {
+            $('#form2').attr('action', 'List');
+            $('#form2').submit();
+        });
+    });
+    $(function () {
+        $('#btnDeleteConsent').click(function () {
+            if ($('#remark').val().length < 20) {
+                alert('กรุณาระบุเหตุผลความยาวไม่น้อยกว่า 20 ตัวอักษร');
+                return;
+            }
+            $.post('DeleteConsentResultPartial', {
+                accountNo: $('#accountNo').val(),
+                productName: $('#productName').val(),
+                remark: $('#remark').val()
+            }, function (data) {
+                $("#ConsentUpdateResultPartial").html(data);
+            });
+        });
+    });
+</script>

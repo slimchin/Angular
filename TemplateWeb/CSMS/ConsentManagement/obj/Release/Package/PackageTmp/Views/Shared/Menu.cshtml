@@ -1,0 +1,93 @@
+﻿<!-- Divider -->
+<hr class="sidebar-divider">
+<!-- Nav Item - Dashboard -->
+    @if (ViewBag.Active == "DashBoard")
+    {
+        <li class="nav-item active">
+            <a class="nav-link" href="@Url.Action("Dashboard", "Home")">
+                <i class="fas fa-fw fa-tachometer-alt"></i>
+                <span>Dashboard</span>
+            </a>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item ">
+            <a class="nav-link" href="@Url.Action("Dashboard", "Home")">
+                <i class="fas fa-fw fa-tachometer-alt"></i>
+                <span>Dashboard</span>
+            </a>
+        </li>
+    }      
+@*<hr class="sidebar-divider">
+<div class="sidebar-heading fas fa-cog">
+    Administrator
+</div>
+@if (ViewBag.Active == "Users")
+{
+    <li class="nav-item active">
+        <a class="nav-link" href="@Url.Action("index", "Users")">
+            <i class="fas fa-cog"></i>
+            <span>Users Management</span>
+        </a>
+    </li>
+}
+else
+{
+    <li class="nav-item">
+        <a class="nav-link" href="@Url.Action("index", "Users")">
+            <i class="fas fa-cog"></i>
+            <span>Users Management</span>
+        </a>
+    </li>
+}*@
+
+
+<!-- Divider -->
+<hr class="sidebar-divider">
+
+<!-- Heading -->
+<div class="sidebar-heading fas fa-th-list">
+    Consent Management
+</div>
+@if (ViewBag.Active == "ConsentForm")
+{
+    <li class="nav-item active">
+        <a class="nav-link" href="@Url.Action("ConsentForm", "ConsentManagement")">
+            <i class="fas fa-th-list "></i>
+            <span>Consent Form</span>
+        </a>
+    </li>
+}
+else
+{
+    <li class="nav-item ">
+        <a class="nav-link" href="@Url.Action("ConsentForm", "ConsentManagement")">
+            <i class="fas fa-th-list "></i>
+            <span>Consent Form</span>
+        </a>
+    </li>
+}
+@if (ViewBag.Active == "CustomerAcceptedList")
+{
+    <li class="nav-item active">
+        <a class="nav-link" href="@Url.Action("List", "CustomerAcceptedConsents")">
+            <i class="fas fa-th-list "></i>
+            <span>Customer Consent Data</span>
+        </a>
+    </li>
+}
+else
+{
+    <li class="nav-item ">
+        <a class="nav-link" href="@Url.Action("List", "CustomerAcceptedConsents")">
+            <i class="fas fa-th-list "></i>
+            <span>Customer Consent Data</span>
+        </a>
+    </li>
+}
+
+
+
+<!-- Divider -->
+<hr class="sidebar-divider d-none d-md-block">

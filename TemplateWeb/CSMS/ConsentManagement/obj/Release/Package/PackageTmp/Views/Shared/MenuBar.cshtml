@@ -1,0 +1,160 @@
+﻿@*@using WebApplication1.Models
+    @model MainMenu*@
+@{ if (Session["usr"] != null)
+    {
+        <div id="menubox" class="navbar navbar-default" role="navigation" style="margin:0px;padding:0px">
+            <ul class="nav navbar-nav">
+                <li class="menu1" id="mnuAccountManagement">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">1.Account Management<b class="caret"></b></a>
+                    <ul class="dropdown-menu multi-level">
+                        <li class="menu1" id="mnuViewShareholderProfile"><a href=@Url.Action("ViewShareholderProfile", "ViewShareholderProfiles")>1.1 View Shareholder Profile</a></li>
+                        @*<li class="menu1" id="mnuDeclareBondInvestor"><a href=@Url.Action("GotoPage", "DeclareBondInvestor")>1.1 Declare Bond Investor Type</a></li>
+                            <li class="menu1" id="mnuConfirmChangeAddress"><a href=@Url.Action("GotoPage", "ConfirmChangeAddress")>1.2 Confirm Change Address</a></li>
+                            <li class="menu1" id="mnuAccountOtherEmailMaintenance"><a href=@Url.Action("AccountOtherEmail", "AccountOtherEmail")>1.3 Account Other Email Maintenance</a></li>
+                            <li class="menu1" id="mnuCreditBalanceRevenueStampMaintenance"><a href=@Url.Action("CreditBalanceRevenueStamp", "CreditBalanceRevenueStamp")>1.4 แก้ไขรายงานการเพิ่มวงเงิน Credit Balance </a></li>
+                            <li class="menu1" id="mnuEntryBondCreditLimit"><a href=@Url.Action("EntryBondCreditLimit", "EntryBondCreditLimit")>1.5 บันทึกรายการขอวงเงินตราสารหนี้ </a></li>
+                            <li class="menu1" id="mnuEntryBondCreditRemark"><a href=@Url.Action("EntryBondCreditRemark", "EntryBondCreditRemark")>1.6 บันทึก Remark ขอวงเงินตราสารหนี้ </a></li>
+                            <li class="menu1" id="mnuMemoOfCreditLineRequest"><a href=@Url.Action("MemoOfCreditLineRequest", "MemoOfCreditLineRequest")>1.7 Memo Of Credit Line Request</a></li>
+                            <li class="menu1" id="mnuEntryParentAccountNo"><a href=@Url.Action("EntryParentAccountNo", "EntryParentAccountNo")>1.8 Pool Account Trading Entry</a></li>
+                            <li class="menu1" id="mnuOpenAcc"><a href=@Url.Action("OpenAcc", "OpenAcc")>1.9 Open Account</a></li>*@
+                    </ul>
+                </li>
+                @*<li class="menu1" id="mnuImportFile">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">9.Import File<b class="caret"></b></a>
+                    <ul class="dropdown-menu multi-level">
+                        <li class="menu1" id="mnuImportShareHolderProfileFromTSD"><a href=@Url.Action("Import", "ImportShareHolderProfiles")>9.1 Import Share Holder Profile From TSD</a></li>
+                    </ul>
+                </li>*@
+
+            </ul>
+
+            <div style="width:100px;height:50px;background-color:pink;float:right">
+                <div style="position:static;margin-top:15px;text-align:center">@Html.ActionLink("[Log Out]", "Logout", "Login")</div>
+            </div>
+            <div style="width:100px;height:50px;background-color:paleturquoise;float:right">
+                <div style="position:static;margin-top:15px;text-align:center">@Html.ActionLink("[ConsentManament]", "Index", "Form")</div>
+            </div>
+            <div style="width:100px;height:50px;background-color:aliceblue;float:right">
+                @*<div style="position:static;margin-top:15px;text-align:center"><a href="http://backoffice:8070/BackOfficePortal/Form">[Portal]</a></div>*@
+                <div style="position:static;margin-top:15px;text-align:center"><a href="https://backoffice.asiaplus.co.th/BackOfficePortal/Form">[Portal]</a></div>
+            </div>
+
+        </div>
+
+        <div id="programinfobox" style="width:300px;background-color:aquamarine ;float:right">
+            <div style="position:static;margin-top:0px;text-align:right">
+                <span style="color:darkblue">@DateTime.Now.DayOfWeek  @DateTime.Now.Day/@DateTime.Now.Month.ToString("00")/@DateTime.Now.Year &nbsp;&nbsp;&nbsp;</span>
+                <br />
+                <span style="color:darkblue">โปรแกรม: @Session["ProCode"] เวอร์ชั่น @Session["ProVersion"] &nbsp;&nbsp;&nbsp;</span>
+                <br />
+                <span style="color:darkblue">ผู้ใช้งาน: @Session["UserName"] &nbsp;&nbsp;&nbsp;</span>
+            </div>
+        </div>
+
+    }
+}
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var tempMenu = [];
+        $('li.menu1').each(function () {
+            tempMenu.push({ "menuId": $(this).attr('id'), "menulink": $(this).find('a:first').attr('href') });
+            $(this).find('a:first').attr('href', '#');
+        });
+
+
+        //tempMenu.forEach(function (entry) {
+        //    console.log(entry.menuId + '  -  ' + entry.menulink);
+        //});
+
+
+        //var NameId = 'chkCRBM';
+        //var test = $('li#' + NameId).find('a:first').attr('href');
+        //console.log(test);
+
+
+
+        var menulinkLinethrough = $('li.menu1').find('a');
+        menulinkLinethrough.css('text-decoration', 'line-through');
+
+
+        var menulink = $("ul.nav").find("a:not(.dropdown-toggle)");
+        menulink.click(function (e) {
+            if (typeof $(this).attr('href') != typeof undefined && $(this).attr('href') != false)
+            {
+                if ($(this).css('text-decoration') == 'line-through')
+                {
+                    alert('คุณไม่มีสิทธิใช้เมนูนี้ !!!');
+                    return false;
+                }
+                if ($(this).attr('href') == '#')
+                {
+                    alert('เมนูนี้ยังไม่ได้สร้าง Link !!!');
+                    return false;
+                }
+            }
+        });
+
+
+        $.getJSON('@Url.Action("GetMenuPermission","Login")', function (data) {
+            $.each(data, function (index,val) {
+                //console.log(index.toString() + '-' + val);
+                var m = $('li#' + val + '>a');
+                if (typeof m.attr('href') != typeof undefined && m.attr('href') != false)
+                {
+                    @*switch (val)
+                    {
+                        case "chkEntry": m.attr('href', '#'); m.css('text-decoration', 'none');  break;
+                        case "chkLoad": m.attr('href', '@Url.Action("gotofrmConfirmationReportBymarketing","Form")'); m.css('text-decoration', 'none'); break;
+                        case "chkLoadBond": m.attr('href', '@Url.Action("gotofrmConfirmationReportBymarketing","Form")'); m.css('text-decoration', 'none');  break;
+                        case "chkReport": m.attr('href', '#'); m.css('text-decoration', 'none');  break;
+                        case "chkCRBM": m.attr('href', '@Url.Action("gotofrmConfirmationReportBymarketing","Form")'); m.css('text-decoration', 'none');  break;
+                        default: m.attr('href', '#');
+                    }*@
+
+                    tempMenu.forEach(function (entryObj) {
+                        if (val == entryObj.menuId)
+                        {
+                            m.attr('href', entryObj.menulink);
+                            m.css('text-decoration', 'none');
+                        }
+                    });
+                }
+            });
+        });
+    });
+</script>
+@*<script type="text/javascript">
+        $(document).ready(function () {
+
+            var menulink = $("ul.nav").find("a:not(.dropdown-toggle)");
+            menulink.css('text-decoration', 'line-through');
+
+            menulink.click(function (e) {
+                if (typeof $(this).attr('href') != typeof undefined && $(this).attr('href') != false)
+                {
+                    if ($(this).attr('href') == '#')
+                    {
+                        alert('คุณไม่มีสิทธิใช้เมนูนี้ !!!');
+                        return false;
+                    }
+                }
+            });
+
+
+            $.getJSON('@Url.Action("GetMenuPermission","Login")', function (data) {
+                $.each(data, function (index,val) {
+                    //console.log(index.toString() + '-' + val);
+                    var m = $('li#' + val + '>a');
+                    if (typeof m.attr('href') != typeof undefined && m.attr('href') != false)
+                    {
+                        switch (val)
+                        {
+                            case "chk020732": m.attr('href', '@Url.Action("OutputVatReport", "ReportOutputVatReport")'); m.css('text-decoration', 'none'); break;
+                            default: m.attr('href', '#');
+                        }
+                    }
+                });
+            });
+        });
+    </script>*@

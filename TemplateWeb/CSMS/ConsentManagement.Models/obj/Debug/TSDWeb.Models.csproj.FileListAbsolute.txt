@@ -1,0 +1,15 @@
+E:\MyJob\MVC\TSDWeb\TSDWeb.Models\bin\Debug\TSDWeb.Models.dll
+E:\MyJob\MVC\TSDWeb\TSDWeb.Models\bin\Debug\TSDWeb.Models.pdb
+E:\MyJob\MVC\TSDWeb\TSDWeb.Models\obj\Debug\TSDWeb.Models.csprojResolveAssemblyReference.cache
+E:\MyJob\MVC\TSDWeb\TSDWeb.Models\obj\Debug\TSDWeb.Models.dll
+E:\MyJob\MVC\TSDWeb\TSDWeb.Models\obj\Debug\TSDWeb.Models.pdb
+E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Models\bin\Debug\TSDWeb.Models.dll
+E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Models\bin\Debug\TSDWeb.Models.pdb
+E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Models\obj\Debug\TSDWeb.Models.csprojResolveAssemblyReference.cache
+E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Models\obj\Debug\TSDWeb.Models.dll
+E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Models\obj\Debug\TSDWeb.Models.pdb
+D:\SuchinBackup\MVC\Consent\TSDWeb.Models\bin\Debug\TSDWeb.Models.dll
+D:\SuchinBackup\MVC\Consent\TSDWeb.Models\bin\Debug\TSDWeb.Models.pdb
+D:\SuchinBackup\MVC\Consent\TSDWeb.Models\obj\Debug\TSDWeb.Models.csprojResolveAssemblyReference.cache
+D:\SuchinBackup\MVC\Consent\TSDWeb.Models\obj\Debug\TSDWeb.Models.dll
+D:\SuchinBackup\MVC\Consent\TSDWeb.Models\obj\Debug\TSDWeb.Models.pdb

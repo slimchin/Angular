@@ -1,0 +1,5 @@
+E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Models\bin\Release\TSDWeb.Models.dll
+E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Models\bin\Release\TSDWeb.Models.pdb
+E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Models\obj\Release\TSDWeb.Models.csprojResolveAssemblyReference.cache
+E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Models\obj\Release\TSDWeb.Models.dll
+E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Models\obj\Release\TSDWeb.Models.pdb

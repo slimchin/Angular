@@ -1,0 +1,131 @@
+﻿@model List<ConsentManament.Models.ConsentManageModels.ConsentFormHeaderModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h1 class="h3 mb-0 " style="color:#00235D">CUSTOMER CONSENT FORM</h1>
+        @*<a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i class="fas fa-download fa-sm text-white-50"></i> Generate Report</a>*@
+    </div>
+    @*<div class="d-sm-flex align-items-center justify-content-between mb-4">
+            <div class="col-md-2">
+                <a href="#" class="btn btn-primary btn-icon-split">
+                    <span class="icon text-white-50">
+                        <i class="fas fa-clipboard-list"></i>
+                    </span>
+                    <span class="text">TOTAL ACCOUNT</span>
+                </a>
+            </div>
+        </div>*@
+    @*<h3 class="h3 mb-2 text-gray-800">Tables</h3>*@
+    @*<p class="mb-4">
+            <a href="@Url.Action("index", "Home")">Home</a>->
+            <a href="@Url.Action("index", "CustomerAcceptedConsents")">Customer Consent Data</a>
+        </p>*@
+
+    @*<a href="@Url.Action("create", "ConsentManagement")" class="btn btn-info btn-icon-split">
+            <span class="icon text-white-50">
+                <i class="fas fa-plus-circle"></i>
+            </span>
+
+            <span class="text" style="color:aliceblue">Add New Consent Version</span>
+        </a>*@
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800"></h1>
+    <p class="mb-4">@*DataTables is a third party plugin that is used to generate the demo table below. For more information about DataTables, please visit the <a target="_blank" href="https://datatables.net">official DataTables documentation</a>.*@</p>
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+
+
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Customer Consent Data</h6>
+        </div>
+
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable1" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th width="350px">Consent Form ID</th>
+                            <th width="150px" style="text-align:center">Consent Form Name</th>
+                            <th>Consent Title</th>
+                            <th>Create Date</th>
+                            @*<th width="150px" style="text-align:center">Status</th>*@
+                            <th width="150px" style="text-align:center">Action</th>
+                        </tr>
+                    </thead>
+                    @*<tfoot>
+                            <tr>
+                                <th>Trasaction Date</th>
+                                <th style="text-align:center">A/C No</th>
+                                <th>Customer Name</th>
+                                <th>Consent Form</th>
+                                <th>Status</th>
+                                <th style="text-align:center">Action</th>
+                            </tr>
+                        </tfoot>*@
+                    <tbody>
+                        @{
+                            if (Model != null)
+                            {
+                                foreach (var x in Model)
+                                {
+                                    <tr id="@x.consentFormID">
+                                        <td style="text-align:left">@x.consentFormID</td>
+                                        <td style="text-align:center">@x.consentFormName</td>
+                                        <td style="text-align:left">@x.titleName</td>
+                                        <td style="text-align:left">@x.ConsentFormDate</td>
+                                        
+                                        <td style="text-align:center">
+                                            <a href="#">
+                                                <span class="align-text-top" onclick="ShowConsentDetail('@x.consentFormID');">Detail</span>
+                                            </a>
+
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        }
+                        @*<tr>
+                                <td>CAM1860</td>
+                                <td>Colt Army Model 1860</td>
+                                <td>External QA</td>
+                                <td>User2</td>
+                                <td>2020/01/08</td>
+                                <td>
+                                    <a asp-controller="ManageProducts" asp-action="Edit">
+                                        <span class="align-text-top">Edit</span>
+                                    </a>
+                                </td>
+                            </tr>*@
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div id="ShowConsentDetailPartial">
+    @{Html.RenderPartial("ShowConsentDetailPartial");}
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#dataTable1').DataTable({
+            "order": [[0, "desc"]]
+        });
+    });
+
+    function ShowConsentDetail(consent_form_id) {
+
+        $.post('ShowConsentDetailPartial', { consent_form_id: consent_form_id }, function (data) {
+            $("#ShowConsentDetailPartial").html(data);
+            $('#ShowConsentDetailModal').modal('show');
+        });
+
+    }
+
+</script>

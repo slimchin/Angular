@@ -1,0 +1,56 @@
+﻿
+<style>
+
+</style>
+<!-- Custom Font Size Utilities -->
+
+<div class="modal fade" id="ShowConsentDetailModal" role="dialog">
+    <div class="modal-dialog modal-xl ">
+        <div class="card shadow col-xl-12">
+
+            @{
+                if (ViewBag.ConsentDetail != null)
+                {
+                    <div class="card-header  col-xl-12">
+                        <h5>@ViewBag.ConsentDetail.consentFormName</h5>
+                        @*<h6 class="m-0 font-weight-bold text-primary">Transaction ID: @Model.consentAcceptedForm.transactionID</h6>*@
+                    </div>
+
+
+                        <div class="card-body">
+                            <div>
+                                <strong>@ViewBag.ConsentDetail.consentHeader</strong>
+                            </div>
+
+                            <hr />
+                            @foreach (var m in ViewBag.ConsentDetail.consent)
+                            {
+
+                                <div class="row">
+                                    <div class="col-md-1" style="text-align:center">
+                                        <strong style="color:darkseagreen ">@m.consentOrder</strong>
+                                    </div>
+                                    <div class="col-md-11">
+                                        @m.contentText
+                                    </div>
+                                </div>
+                                <hr />
+                            }
+                            @*<div>
+                                    <strong>Date Time: @Model.</strong>
+                                </div>*@
+                            <div>
+                                <strong>@ViewBag.ConsentDetail.consentFooter</strong>
+                            </div>
+                        </div>
+                }
+            }
+            <div class="modal-footer">
+                <button class="btn btn-primary" type="button" id="btnCancelSave2" name="btnCancelSave2" value="Cancel" data-dismiss="modal"> Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,101 @@
+﻿@model List<ConsentManament.Models.ConsentManageModels.ConsentFormHeaderModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+    @*<div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h3 class="h3 mb-0 text-gray-800"><a href="@Url.Action("List", "CustomerAcceptedConsents")">CUSTOMER CONSENT DATA</a>-><a href="@Url.Action("Create", "CustomerAcceptedConsents")">ADD NEW</a></h3>
+        
+    </div>*@
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800"></h1>
+    <p class="mb-4">@*DataTables is a third party plugin that is used to generate the demo table below. For more information about DataTables, please visit the <a target="_blank" href="https://datatables.net">official DataTables documentation</a>.*@</p>
+
+    <div class="container">
+        <section class="inside-title" style="text-align: left;">
+            <h3 class="main-title" style="color:#00235D">เพิ่มข้อมูล Consent สำหรับลูกค้า offline</h3>
+        </section>
+        <hr />
+        <form>
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    <h5>เลขที่บัญชีลูกค้า</h5>
+                </div>
+                <div class="col-6">
+                    <input name="accountNo" id="accountNo" class="form-control" placeholder="เลขที่บัญชีลูกค้า 5 หลัก" maxlength="5" style="width:400px">
+                </div>
+            </div>
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    <h5>Consent Form</h5>
+                </div>
+                <div class="col-6">
+                    @Html.DropDownList("ConsentForm", new SelectList(ViewBag.ConsentForm, "Value", "Text", "Value"), new { @class = "form-control", @Style = "width: 400px;" })
+                </div>
+            </div>
+            <div id="ConsentFormSelectPartial">
+                @{Html.RenderPartial("ConsentFormSelectPartial");}
+            </div>
+            <div id="ConsentSaveResultPartial">
+                @{Html.RenderPartial("ConsentSaveResultPartial");}
+            </div>
+            <hr />
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    @*<h5>Consent Form</h5>*@
+                </div>
+                <div class="col-6">
+                    <div class="row">
+                        @*<div class="col-sm-4">
+                            <button type="button" id="" class="btn-sm btn-block" style="background-color:#00235D; border-color: #00235D;color:white">กลับ</button>
+                        </div>*@
+                        <div class="col-sm-4">
+                            <button type="reset" id="reset" class="btn-sm btn-block " style="">ล้างหน้าจอ</button>
+                        </div>
+                        <div class="col-sm-4">
+                            <button type="button" id="btnSaveConsent" class="btn-sm btn-block btn-success" style="color:white">บันทึก</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+        </form>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    $(function () {
+        $('#reset').click(function () {
+
+            $('#ConsentSaveResultPartial2').hide();
+            $('#ConsentSaveResultPartial2HR').hide();
+        });
+    });
+    $(function () {
+        $('#btnSaveConsent').click(function () {
+            var consents = [];
+            var sumVolume = 0;
+            $("input:checkbox[name=Order]:checked").each(function () {
+                consents.push($(this).val());
+                
+            });
+            $.post('ConsentSaveResultPartial', { consentID: consents.join(','), accountNo: $('#accountNo').val(),
+                consentIDStr: $('#consentIDStr').val(), consentFormID: $('#consentFormIDStr').val()
+            }, function (data) {
+                $("#ConsentSaveResultPartial").html(data);
+            });
+        });
+    });
+
+    $(function () {
+        $('#ConsentForm').click(function () {
+            $.post('ConsentFormSelectPartial', { consentFormID: $('#ConsentForm').val() }, function (data) {
+                $("#ConsentFormSelectPartial").html(data);
+            });
+        });
+    });
+</script>

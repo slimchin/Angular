@@ -1,0 +1,144 @@
+﻿@model ConsentManament.Models.ConsentManageModels.QueryCustomerAcceptedConsentModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+    @*<div class="d-sm-flex align-items-center justify-content-between mb-4">
+            <h3 class="h3 mb-0 text-gray-800"><a href="@Url.Action("List", "CustomerAcceptedConsents")">CUSTOMER CONSENT DATA</a>-><a href="@Url.Action("Create", "CustomerAcceptedConsents")">ADD NEW</a></h3>
+
+        </div>*@
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800"></h1>
+    <p class="mb-4">@*DataTables is a third party plugin that is used to generate the demo table below. For more information about DataTables, please visit the <a target="_blank" href="https://datatables.net">official DataTables documentation</a>.*@</p>
+
+    <div class="container">
+        <section class="inside-title" style="text-align: left;">
+            <h3 class="main-title" style="color:#00235D">แก้ไขข้อมูล Consent สำหรับลูกค้า offline</h3>
+        </section>
+        <hr />
+        <form id="form2">
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    <h5>เลขที่บัญชีลูกค้า</h5>
+                </div>
+                <div class="col-6">
+                    <h5>@Model.consentAcceptedForm.accountNo</h5>
+                </div>
+            </div>
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    <h5>Product Name</h5>
+                </div>
+                <div class="col-6">
+                    <h5>@Model.consentAcceptedForm.productName</h5>
+                </div>
+            </div>
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    <h5>Form ID</h5>
+                </div>
+                <div class="col-6">
+                    <span>
+                        <h5>@Model.consentAcceptedForm.consentFormID</h5>
+                    </span>
+                </div>
+            </div>
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    <h5>Form Name</h5>
+                </div>
+                <div class="col-6">
+                    <span>
+                        <h5>@Model.consentAcceptedForm.consentFormName</h5>
+                    </span>
+                </div>
+            </div>
+            <hr />
+            @foreach (var m in Model.consentAcceptedDetail)
+            {
+
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    <h5>@*@m.consentOrder*@</h5>
+
+
+                </div>
+                <div class="col-10">
+
+                    <span>
+                        @if (m.IsAccept == true)
+                        {
+                            <input type="checkbox" name="Order" value="@m.Consent.consentID" id="Order" checked="checked"> 
+                        }
+                        else
+                        {
+                            <input type="checkbox" name="Order" value="@m.Consent.consentID" id="Order">
+                        }
+                        
+                        @m.Consent.contentText
+                    </span>
+
+                </div>
+            </div>
+            }
+            <div id="ConsentUpdateResultPartial">
+                @{Html.RenderPartial("ConsentSaveResultPartial");}
+            </div>
+            <hr />
+            
+            <div class="row" style="padding-top:10px">
+                <div class="col-2" style="text-align:right">
+                    @*<h5>Consent Form</h5>*@
+                </div>
+                <div class="col-6">
+                    <div class="row">
+                        @*<div class="col-sm-4">
+                        <button type="button" id="" class="btn-sm btn-block" style="background-color:#00235D; border-color: #00235D;color:white">กลับ</button>
+                    </div>*@
+                        <div class="col-sm-4">
+                            <button type="button" id="back" class="btn-sm btn-block " style="">กลับ</button>
+                        </div>
+
+                        <div class="col-sm-4">
+                            <button type="button" id="btnUpdateConsent" class="btn-sm btn-block btn-success" style="color:white">บันทึก</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <input type="hidden" name="accountNo" id="accountNo" value="@Model.consentAcceptedForm.accountNo" />
+            <input type="hidden" name="consentIDStr" id="consentIDStr" value="@ViewBag.consentIDStr" />
+            <input type="hidden" name="consentFormIDStr" id="consentFormIDStr" value="@Model.consentAcceptedForm.consentFormID" />
+            <input type="hidden" name="consentIDStr" id="consentIDStr" value="@ViewBag.consentIDStr" />
+        </form>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+    $(function () {
+        $('#back').click(function () {
+            $('#form2').attr('action', 'List');
+            $('#form2').submit();
+        });
+    });
+    $(function () {
+        $('#btnUpdateConsent').click(function () {
+            var consents = [];
+            var sumVolume = 0;
+            $("input:checkbox[name=Order]:checked").each(function () {
+                consents.push($(this).val());
+
+            });
+            $.post('ConsentUpdateResultPartial', {
+                consentID: consents.join(','), accountNo: $('#accountNo').val(),
+                consentIDStr: $('#consentIDStr').val(), consentFormID: $('#consentFormIDStr').val()
+            }, function (data) {
+                $("#ConsentUpdateResultPartial").html(data);
+            });
+        });
+    });
+</script>

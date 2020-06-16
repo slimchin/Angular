@@ -1,0 +1,10 @@
+E:\MyJob\MVC\TSDWeb\ASPS.Core\bin\Debug\ASPS.Core.dll
+E:\MyJob\MVC\TSDWeb\ASPS.Core\bin\Debug\ASPS.Core.pdb
+E:\MyJob\MVC\TSDWeb\ASPS.Core\obj\Debug\ASPS.Core.csprojResolveAssemblyReference.cache
+E:\MyJob\MVC\TSDWeb\ASPS.Core\obj\Debug\ASPS.Core.dll
+E:\MyJob\MVC\TSDWeb\ASPS.Core\obj\Debug\ASPS.Core.pdb
+E:\SuchinBackup\MVC\TSDWeb\ASPS.Core\bin\Debug\ASPS.Core.dll
+E:\SuchinBackup\MVC\TSDWeb\ASPS.Core\bin\Debug\ASPS.Core.pdb
+E:\SuchinBackup\MVC\TSDWeb\ASPS.Core\obj\Debug\ASPS.Core.csprojResolveAssemblyReference.cache
+E:\SuchinBackup\MVC\TSDWeb\ASPS.Core\obj\Debug\ASPS.Core.dll
+E:\SuchinBackup\MVC\TSDWeb\ASPS.Core\obj\Debug\ASPS.Core.pdb

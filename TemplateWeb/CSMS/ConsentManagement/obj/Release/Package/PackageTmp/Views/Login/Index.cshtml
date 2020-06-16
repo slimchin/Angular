@@ -1,0 +1,79 @@
+﻿<div class="row">
+    <div class="col-lg-4"></div>
+    <div class="col-lg-4">
+        <div class="p-5">
+            <div class="text-center">
+                <h1 class="h4 text-gray-900 mb-4">Login</h1>
+            </div>
+            <form class="user" method="post">
+                <div class="form-group">
+                    <input class="form-control form-control-user" id="inputUser" aria-describedby="emailHelp" type="email" placeholder="Enter User... " >
+                </div>
+                <div class="form-group">
+                    <input class="form-control form-control-user" id="inputPassword" type="password" placeholder="Password" >
+                </div>
+                <button type="button" class="btn btn-primary btn-user btn-block" id="btnSubmitLogin">
+                    Login
+                </button>
+                @*<button style="" type="button" onclick="test('');"  class="btn btn-success" id="eee" name="btnSubmitLogin">Submit Order</button>*@
+                <hr>
+            </form>
+
+        </div>
+    </div>
+    <div class="col-lg-4"></div>
+</div>
+<script type="text/javascript">
+    //function Login() {
+    //    $.post('Login/LogInProcess', { user: $('#inputUser').val(), password: $('#inputPassword').val() }, function (response) {
+    //         console.log(response);
+    //         //   let arr = [];
+    //         //   for (const prop in response) {
+    //         //     arr.push(response[prop]);
+    //         //   }
+    //         //console.log(arr[1]);
+    //         //console.log(arr[0]);
+
+    //         //   if (arr[0]!= "1") {
+    //         //       alert(arr[1]);
+    //         //       return false;
+    //         //   } else {
+
+    //         //       window.location.href = 'Index';
+    //         //   }
+    //         //   }
+    //        );
+    //}
+    $(function () {
+        $('#btnSubmitLogin').click(function () {
+            //alert('Test');
+            $.post('@Url.Action("LogInProcess", "Login")', { user: $('#inputUser').val(), password: $('#inputPassword').val() }, function (response) {
+                console.log(response);
+                if (response.LoginStatus != 1) {
+                    alert(response.LoginDetail);
+                    return false;
+                } else {
+                    window.location.href = '@Url.Action("Dashboard", "Home")';
+                }
+
+                //   let arr = [];
+                //   for (const prop in response) {
+                //     arr.push(response[prop]);
+                //   }
+                //console.log(arr[1]);
+                //console.log(arr[0]);
+
+                //   if (arr[0]!= "1") {
+                //       alert(arr[1]);
+                //       return false;
+                //   } else {
+
+                     //window.location.href = 'Index';
+                //   }
+                //   }
+            });
+        });
+    });
+
+
+</script>
