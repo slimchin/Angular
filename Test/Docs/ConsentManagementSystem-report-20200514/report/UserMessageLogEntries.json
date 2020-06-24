@@ -1,0 +1,4325 @@
+{
+"UserMessageList":
+[
+{
+"DbId": "2CB94F2FCAF14EA78CCAE2692B78A496",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 0,
+"Time": "2020-05-14 09:49:42",
+"Severity": "Info",
+"Text": "Initializing Scan"
+},
+{
+"DbId": "D7ABB4140A624001B63B0CC124D68C56",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 1,
+"Time": "2020-05-14 09:49:42",
+"Severity": "Info",
+"Text": "Engine Version: 7.2.112.1"
+},
+{
+"DbId": "5C2DCF6318444EA6BA7CC8696DB726E7",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 2,
+"Time": "2020-05-14 09:49:44",
+"Severity": "Info",
+"Text": "License Verification Completed"
+},
+{
+"DbId": "A6DB00728D7F4DBD9A94332B4D8436F2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 3,
+"Time": "2020-05-14 09:49:47",
+"Severity": "Info",
+"Text": "Proxy settings for Internet Explorer will be used for scan."
+},
+{
+"DbId": "63FEB0637A3E41D996D28EAE5D927C85",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 4,
+"Time": "2020-05-14 09:49:47",
+"Severity": "Info",
+"Text": "The following browser will be used in the scan: Chrome"
+},
+{
+"DbId": "A3EE19165506472DA4E9AE8389023857",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 5,
+"Time": "2020-05-14 09:50:05",
+"Severity": "Info",
+"Text": "Initialization completed"
+},
+{
+"DbId": "1097A0DD09434280BF310B0C522A33C4",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 6,
+"Time": "2020-05-14 09:50:05",
+"Severity": "Info",
+"Text": "Running 'Regular' scan"
+},
+{
+"DbId": "4D0639D0BA1D484991D4487DBB9A6AC1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 7,
+"Time": "2020-05-14 09:50:05",
+"Severity": "Info",
+"Text": "Scanning Started"
+},
+{
+"DbId": "A71AB095B8B64EF984DBAD786602EA05",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 8,
+"Time": "2020-05-14 09:50:05",
+"Severity": "Info",
+"Text": "Attempting login in session 'Authentication with Macro: ConsentManagementSystem.rec'"
+},
+{
+"DbId": "F261FF69F9054B0481E83AB19A110C15",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 9,
+"Time": "2020-05-14 09:50:47",
+"Severity": "Good",
+"Text": "Session 'Authentication with Macro: ConsentManagementSystem.rec' logged in"
+},
+{
+"DbId": "7DE6AD74BDBB41D6A351B2160310FF05",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 10,
+"Time": "2020-05-14 09:52:39",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C280CB24BAB7487AB5D970B329CAABB7",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 11,
+"Time": "2020-05-14 09:52:39",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "139D2058B5B348F1A6B720FF084DC882",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 12,
+"Time": "2020-05-14 09:52:39",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AA5B018F29F141E684790C774F8BDA3D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 13,
+"Time": "2020-05-14 09:52:39",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3A1221737FF3487883A6687347B1619C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 14,
+"Time": "2020-05-14 09:52:39",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "777675ACD6F34E1E9B853A2C91483962",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 15,
+"Time": "2020-05-14 09:52:40",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E13B8F61F3034527A1E5940231CDD231",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 16,
+"Time": "2020-05-14 09:52:40",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E3CFE69E72A44A418478103DC332C125",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 17,
+"Time": "2020-05-14 09:52:40",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "17485D1AD79F42A48067D78C4A72F2C4",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 18,
+"Time": "2020-05-14 09:52:40",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "344E7502766D49C58B57114595B7D00A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 19,
+"Time": "2020-05-14 09:52:40",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "DB16E3065A73481090B0E7678744F081",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 20,
+"Time": "2020-05-14 09:52:40",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "05CB38DAA00B4807988A85ABA549B2E2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 21,
+"Time": "2020-05-14 09:52:40",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "EFB58006131743E7B49CDBC53BCBD0A9",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 22,
+"Time": "2020-05-14 09:52:40",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "ADBF4B008DDB47ACBD435CDDA6740854",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 23,
+"Time": "2020-05-14 09:52:40",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "ED9FC2B843174BF596BA2E431DFA340D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 24,
+"Time": "2020-05-14 09:52:40",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AF48EC2F496D4A818C71BCDEDEAEB916",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 25,
+"Time": "2020-05-14 09:52:41",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "42F9E064CD5443F58D7CFA7E0A7972F2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 26,
+"Time": "2020-05-14 09:52:41",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C8F409A75F2D4940972B596119F9526D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 27,
+"Time": "2020-05-14 09:52:41",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "39EA111CEF5940C7AC38FF74DD87AE31",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 28,
+"Time": "2020-05-14 09:52:41",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9437C52569FB439CBE5361589340398D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 29,
+"Time": "2020-05-14 09:52:41",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E7E020CF083442E3936378B3F625CFB1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 30,
+"Time": "2020-05-14 09:52:41",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B6BD8BF7B4034453BE422B77C6DCA8A2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 31,
+"Time": "2020-05-14 09:52:41",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AA51661CF9C84573A7C8595CF0A4BFEB",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 32,
+"Time": "2020-05-14 09:52:41",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "024A3BED7F1F4385936F0C266C9757F8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 33,
+"Time": "2020-05-14 09:52:41",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "63435A354B26427F98F45675815665D8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 34,
+"Time": "2020-05-14 09:52:42",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "88A868397A824223A994426D4ACF97CA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 35,
+"Time": "2020-05-14 09:52:42",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "459B873550DF427CA10D56EDDD84C9D5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 36,
+"Time": "2020-05-14 09:52:42",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "71EAC2FAF91F4E67A37A845BFBED2B69",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 37,
+"Time": "2020-05-14 09:52:42",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3846767C13574B1B9A95E0F4B95F3A1A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 38,
+"Time": "2020-05-14 09:52:42",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AC8C8D1BA4AD4E37832535A478147A8F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 39,
+"Time": "2020-05-14 09:52:42",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A15AD939053A45F0B028EAE1A80D2C60",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 40,
+"Time": "2020-05-14 09:52:42",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "938A8FC5371745169C16D553D064559C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 41,
+"Time": "2020-05-14 09:52:42",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E9EAC23F9B9F461786017691A65F4343",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 42,
+"Time": "2020-05-14 09:52:42",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "42B2BE3E474740308527B746BCC7F381",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 43,
+"Time": "2020-05-14 09:52:42",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D91C18D8A316453FA9092FED32952B06",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 44,
+"Time": "2020-05-14 09:52:43",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B3AD6AB5F44D4F49893603AC44AFD0DA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 45,
+"Time": "2020-05-14 09:52:43",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B8C56C7B79BA496FA1B742A9DE04F328",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 46,
+"Time": "2020-05-14 09:52:43",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "1CC50A81852348B5A942A295BF9B94E6",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 47,
+"Time": "2020-05-14 09:52:43",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C82CD2FBA02F45458EFD8EA661EA6195",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 48,
+"Time": "2020-05-14 09:52:43",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3038C23E71D84BF19BB58E5A99590E6A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 49,
+"Time": "2020-05-14 09:52:43",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3E97E9D5A07C476EB8722BC2D606A307",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 50,
+"Time": "2020-05-14 09:52:43",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "37234C45A43E47AC96B09AF40BD5FFD8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 51,
+"Time": "2020-05-14 09:52:43",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "2D6A459A8479421798B4B6D7F7EF16D5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 52,
+"Time": "2020-05-14 09:52:43",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "FF6E35171E1B44EF8F03AB03F2B31F7C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 53,
+"Time": "2020-05-14 09:52:44",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "08592CE037824F969876573880AADBBF",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 54,
+"Time": "2020-05-14 09:52:44",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "CFCBC6BC2BD14FF3A1F1EB7167FD46A7",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 55,
+"Time": "2020-05-14 09:52:44",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AB7D5F9C0BD043748318B4C57502C178",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 56,
+"Time": "2020-05-14 09:52:44",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9A3588EFDF104D808C9FCE91CD7AC2EC",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 57,
+"Time": "2020-05-14 09:52:44",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C4F47C4DFD0949FDB906850E9A9F4BA8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 58,
+"Time": "2020-05-14 09:52:44",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "F246BBDF81294E3BA5667752FB83D540",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 59,
+"Time": "2020-05-14 09:52:44",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "5A1A77C72C0E4692B742171C0F849444",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 60,
+"Time": "2020-05-14 09:52:44",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "82D2F74D0DEB4BC5B9F02D3034796CC0",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 61,
+"Time": "2020-05-14 09:52:44",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4AF3ED2AC7F74D18B8F21BADCADC0EAF",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 62,
+"Time": "2020-05-14 09:52:45",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D8022023907D445490F1B7001CF3CD3C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 63,
+"Time": "2020-05-14 09:52:45",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "DFC754D01AAC428B88BF80D1C0495888",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 64,
+"Time": "2020-05-14 09:52:45",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "FF45DCEC9C394053B76DD86EEFDB563C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 65,
+"Time": "2020-05-14 09:52:45",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4FD6F8ECD2354A73957EEA3FA0CE9AE9",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 66,
+"Time": "2020-05-14 09:52:45",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "632C77F2559A4DB187D4D73FB59F9D2B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 67,
+"Time": "2020-05-14 09:52:45",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "ACD124FC08FC4072BEE08A3A80A09E13",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 68,
+"Time": "2020-05-14 09:52:45",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "81A7F4C951FF4241A25B90A3C23BCD34",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 69,
+"Time": "2020-05-14 09:52:45",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "0C7E8AB2622E4BF0B5D72887FD1A4020",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 70,
+"Time": "2020-05-14 09:52:45",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "58DEE86BB0744D008EDACA643D2CDCA0",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 71,
+"Time": "2020-05-14 09:52:46",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "7A659245906E47E2B92A3B75AEA389B5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 72,
+"Time": "2020-05-14 09:52:46",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8FD5EF880ACC410BAA1D87CFF5437CF2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 73,
+"Time": "2020-05-14 09:52:46",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "FC65B013B93449FC8A646B76649CD47B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 74,
+"Time": "2020-05-14 09:52:46",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "97B1F80F9FD448B7BC760BD7BA0FE44F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 75,
+"Time": "2020-05-14 09:52:46",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A1A884D7EE4E418EA5CDF905537FAD76",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 76,
+"Time": "2020-05-14 09:52:46",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "270DBF3BEEAB415D934DF05E594DADF9",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 77,
+"Time": "2020-05-14 09:52:46",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "48D2017A54294422B93FB2D869F85012",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 78,
+"Time": "2020-05-14 09:52:47",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6EE4FD02355E49FEACAA17CB96F634AF",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 79,
+"Time": "2020-05-14 09:52:47",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "1EEB94BB3FB14AEB954404DF695FDB6E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 80,
+"Time": "2020-05-14 09:52:47",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8A5397D73DA24897A78BD0A7BB31B69B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 81,
+"Time": "2020-05-14 09:52:47",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4F93426528C34F05BE9221BD3A838190",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 82,
+"Time": "2020-05-14 09:52:47",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "0061CBEC8EBE417290AE667D5CBC0065",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 83,
+"Time": "2020-05-14 09:52:47",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "DC1E51346832470CBACF1BF51C8A1176",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 84,
+"Time": "2020-05-14 09:52:47",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "7B2EDC2C884548B1BF5FFD4CCF7F284B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 85,
+"Time": "2020-05-14 09:52:47",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "020241C7FC024555817782A3B564A4B8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 86,
+"Time": "2020-05-14 09:52:47",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "DFA986C0A4FF4CB49ABDDB77B25F8AE1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 87,
+"Time": "2020-05-14 09:52:48",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6F5B44324C11446C9AC8ACFA147E5DAC",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 88,
+"Time": "2020-05-14 09:52:48",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "67639261F5DF4395BA37FD604A6C2E97",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 89,
+"Time": "2020-05-14 09:52:48",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A4BB5C8B4EA445489A5C1ED67B1AD0C5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 90,
+"Time": "2020-05-14 09:52:48",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "EEBB120A87DB49E49EBD00EA172D33B9",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 91,
+"Time": "2020-05-14 09:52:48",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "ECDEF464871E42D3B1CEF09503FE50FC",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 92,
+"Time": "2020-05-14 09:52:48",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "0AE6D5BD73B24FAA866D4C4A435A03E2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 93,
+"Time": "2020-05-14 09:52:48",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D13CFBA960FE44C7A4F216C14A0B33EE",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 94,
+"Time": "2020-05-14 09:52:48",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C497ACA0B43D40CFA8716724439A9167",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 95,
+"Time": "2020-05-14 09:52:48",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9B1335AFDDD44018A1470E4DE2A42D08",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 96,
+"Time": "2020-05-14 09:52:49",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9A79E22AC757459CA03420EAE8B03921",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 97,
+"Time": "2020-05-14 09:52:49",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "DE98E6BB72CE49EAAFC28682877EB2BF",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 98,
+"Time": "2020-05-14 09:52:49",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "DFA80BD5D1024D97950F5533AF0C35A5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 99,
+"Time": "2020-05-14 09:52:49",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "7527E2C781584BE39E0F2FFB2744EE55",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 100,
+"Time": "2020-05-14 09:52:49",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A020D3F9FFEA4AAC91830085538AB916",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 101,
+"Time": "2020-05-14 09:52:49",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9DA015FCEE0E40AD99DF416112AF9BD2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 102,
+"Time": "2020-05-14 09:52:49",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AAEFB05EBD8A4E22AA578DA2CCEA30CD",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 103,
+"Time": "2020-05-14 09:52:49",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "2889CB4070554AF8B12692576445884B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 104,
+"Time": "2020-05-14 09:52:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4C468D19512045AB805EE623D83D8248",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 105,
+"Time": "2020-05-14 09:52:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "FA47E055C83D4F6C9F953D4D5501D149",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 106,
+"Time": "2020-05-14 09:52:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8BA524A7E8A14528BEF0AD94C328B209",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 107,
+"Time": "2020-05-14 09:52:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6865A2FB497540C79DCAE7B6D6C6A024",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 108,
+"Time": "2020-05-14 09:52:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "2DAD45EAF4254975A06740B433245DA4",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 109,
+"Time": "2020-05-14 09:52:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3A5A8EEC99E64BFBB55D47ECEAFCD125",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 110,
+"Time": "2020-05-14 09:52:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "124E517DC5B94A809CF61A95DE3221F1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 111,
+"Time": "2020-05-14 09:52:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "F30D78429D0F45F09237FBF6F6082A6E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 112,
+"Time": "2020-05-14 09:52:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "196F06338D9B4FA5BB59416B1E6D5466",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 113,
+"Time": "2020-05-14 09:52:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "95AD220189E442ED95E8A278099EF6C2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 114,
+"Time": "2020-05-14 09:52:51",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "53059F7471E6411CB20EB516F382B14D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 115,
+"Time": "2020-05-14 09:52:51",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9C9FC11A87984DABA41E87FAFDE0F80D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 116,
+"Time": "2020-05-14 09:52:51",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "FF87299DB7E34A1286748D769C9CD92E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 117,
+"Time": "2020-05-14 09:52:51",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "BFFB3FC82B1344EC867751CF0E5DC821",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 118,
+"Time": "2020-05-14 09:52:51",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "28FE6D4DD3F8410AA51B6910747F0530",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 119,
+"Time": "2020-05-14 09:52:51",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E443D54FB3204627A6083F106C05B637",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 120,
+"Time": "2020-05-14 09:52:51",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "1536EBFD6C8B4627859DB316F88C0CB8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 121,
+"Time": "2020-05-14 09:52:51",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "711FF43CA2A7414DB9CD1754B432614E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 122,
+"Time": "2020-05-14 09:52:51",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4D02AF88BBD942249A33D898570AC21A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 123,
+"Time": "2020-05-14 09:52:52",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E725F1B2A2DB451DA392067DD8D89340",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 124,
+"Time": "2020-05-14 09:52:52",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "72CD34F90DA64A9898331B29405ADEE8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 125,
+"Time": "2020-05-14 09:52:52",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "CD025B50E6BA41009AFBCEA44BC630E0",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 126,
+"Time": "2020-05-14 09:52:52",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "50DDC6B6F3C247BFBE1CD176CF9A335A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 127,
+"Time": "2020-05-14 09:52:52",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "41BC5ECB730042FDB7865AA6D32AF8C5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 128,
+"Time": "2020-05-14 09:52:52",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C08F970B85C546EFB191EF7F92F154ED",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 129,
+"Time": "2020-05-14 09:52:52",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E992B110A6604615AEF8964460B3ED69",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 130,
+"Time": "2020-05-14 09:52:52",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "FF5DCEF0569F4E5BB8FEA546F78CFBFC",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 131,
+"Time": "2020-05-14 09:52:52",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "BDF1614FE8E041808BECD82813FC3146",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 132,
+"Time": "2020-05-14 09:52:53",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "BA372066F85448E49BFC71C75D9F337E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 133,
+"Time": "2020-05-14 09:52:53",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "325DB170C4504ED8A73EA465B7D9A9B6",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 134,
+"Time": "2020-05-14 09:52:53",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "DBA7404D35024C8FA17FBA070F69AA51",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 135,
+"Time": "2020-05-14 09:52:53",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A609ECCA066C4343B70EC9F3F2BAB6BC",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 136,
+"Time": "2020-05-14 09:52:53",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "DBE5A0FAD1794685BEDF44A77D6A0F27",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 137,
+"Time": "2020-05-14 09:52:53",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "13093037C44C45B68367ED8C7D7474F9",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 138,
+"Time": "2020-05-14 09:52:53",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "54F03E3C73E247D6A1BBDC7B3B54C6BA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 139,
+"Time": "2020-05-14 09:52:53",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "F23BB008A68749E98FE1FA7624780ECE",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 140,
+"Time": "2020-05-14 09:52:53",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "DC47D9CCF71F4A94805BE68558FE5BD2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 141,
+"Time": "2020-05-14 09:52:54",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "F7FEB227F5804BDCB36A56516F1194EE",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 142,
+"Time": "2020-05-14 09:52:54",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "84D27B24D58B4993872D94B4425FC0BB",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 143,
+"Time": "2020-05-14 09:52:54",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E718B82609FB41FDBF2C002658A98909",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 144,
+"Time": "2020-05-14 09:52:54",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "512E21EF631343E0B8B068841D7E7ECB",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 145,
+"Time": "2020-05-14 09:52:54",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "2FA98B1B0DFC437099112593C6590860",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 146,
+"Time": "2020-05-14 09:52:54",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "23AEE139D2F94E46BD72C4D3F523416E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 147,
+"Time": "2020-05-14 09:52:54",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "5B72B7578FA143CF8D9B2BB0D3D3CF48",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 148,
+"Time": "2020-05-14 09:52:54",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "841C8AF63A7746299091AEEDA1A02719",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 149,
+"Time": "2020-05-14 09:52:54",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C7CBA8DCD572406CB09B82BE5AA13C05",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 150,
+"Time": "2020-05-14 09:52:54",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8AACADB02936440CA79239D7C145839A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 151,
+"Time": "2020-05-14 09:52:55",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D2AED8E56DB04FC499853CBE4B742DFE",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 152,
+"Time": "2020-05-14 09:52:55",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C445C9AA8BB944DEB1A10AC406BCD0B4",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 153,
+"Time": "2020-05-14 09:52:55",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3BF5F8A31F044C728D89C70C2948F07B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 154,
+"Time": "2020-05-14 09:52:55",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "36DE884007164B79BEE3620DF3142C0C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 155,
+"Time": "2020-05-14 09:52:55",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6376F709B8C5412AB5EC843B50DD1F14",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 156,
+"Time": "2020-05-14 09:52:55",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AD8FF080DD5B4709A3925515ADA4FBE7",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 157,
+"Time": "2020-05-14 09:52:55",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "BBCC0574E122406494D06479C9804337",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 158,
+"Time": "2020-05-14 09:52:55",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D0C0FA007B7A48E882F85ADE1AEE6709",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 159,
+"Time": "2020-05-14 09:52:55",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B863BD955186462383EEC0ADB02E5D92",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 160,
+"Time": "2020-05-14 09:52:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4F941C2908DB4A2B818C4F7C08D936D3",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 161,
+"Time": "2020-05-14 09:52:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B8A59A4DCCD146DBBEA69ADFB0C7A611",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 162,
+"Time": "2020-05-14 09:52:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "5F95668651F34AA8B3A76F15B5975B88",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 163,
+"Time": "2020-05-14 09:52:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D1284B7144D340DD9D7AC1FC3A647C04",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 164,
+"Time": "2020-05-14 09:52:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C062079D808A407BA52275AEECB605B3",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 165,
+"Time": "2020-05-14 09:52:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3EAC15E173C34000AAB0D9BF4F71BAA2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 166,
+"Time": "2020-05-14 09:52:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C8F20C65CE3B4EFE8C1ACCEF0E1FA206",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 167,
+"Time": "2020-05-14 09:52:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "DEB07A2B9D6840B6A19709045DDB649F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 168,
+"Time": "2020-05-14 09:52:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8D5F9D8CA3904D7BB0C294E0B4B261C3",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 169,
+"Time": "2020-05-14 09:52:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9F7DD62A349840EE8A0E4434E386E04F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 170,
+"Time": "2020-05-14 09:52:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "074BDAF53EE94B2FBF41A9153C683DCB",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 171,
+"Time": "2020-05-14 09:52:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D62A830B390844DDA1F4C7F0BC7E97B5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 172,
+"Time": "2020-05-14 09:52:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E435FF7BCCB74256BD7BFA0C38108DCB",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 173,
+"Time": "2020-05-14 09:52:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6846B4447343400F86D078F11E5C9A45",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 174,
+"Time": "2020-05-14 09:52:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "394D115D31C94503BAA4392A81A25EA8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 175,
+"Time": "2020-05-14 09:52:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "EAA76BF0D7AB43D5B843E89C8EE02547",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 176,
+"Time": "2020-05-14 09:52:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "23929BB9F536466A87456A4ED327BCAD",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 177,
+"Time": "2020-05-14 09:52:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "16BF553FA1B64B9698BC2937C26053F6",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 178,
+"Time": "2020-05-14 09:52:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "17F5F3BC7B9D4C0CBC2F7C543A52F470",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 179,
+"Time": "2020-05-14 09:52:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "0686E605EAC2422AAE8943156D691C56",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 180,
+"Time": "2020-05-14 09:52:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6601EB903FD24E4AA3B6776EA7AE422D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 181,
+"Time": "2020-05-14 09:52:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3E9B8FAB43FB452380442C74709BDCAA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 182,
+"Time": "2020-05-14 09:52:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4A5D51C7004B4563B7039FDC9DD53646",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 183,
+"Time": "2020-05-14 09:52:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "F181E5C2CDFE48939194D0B215A7F674",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 184,
+"Time": "2020-05-14 09:52:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A119910F4D5F410D96A70EA28708E805",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 185,
+"Time": "2020-05-14 09:52:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E632880D37EA481B818228CF10DF7B3E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 186,
+"Time": "2020-05-14 09:52:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "516479F80F404582AE5AB8E22C0A30A1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 187,
+"Time": "2020-05-14 09:52:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D8664532190A483990782C7CCD8903BD",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 188,
+"Time": "2020-05-14 09:52:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AD85C45E36FB48F7875019A3DF8CA0B1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 189,
+"Time": "2020-05-14 09:52:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "20F7AEF315E94BFF99DCC0A4D06753FC",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 190,
+"Time": "2020-05-14 09:52:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "FAE8BC51C0344D4EA1782D67BFE42614",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 191,
+"Time": "2020-05-14 09:52:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "5AEDFD67AA714C7884752B70B986B497",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 192,
+"Time": "2020-05-14 09:52:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "CF3842ABF6C14A328A81B7DDB37EC8C5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 193,
+"Time": "2020-05-14 09:52:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A28A9E4F141A4EFD96FA7BF6DD6F4AB8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 194,
+"Time": "2020-05-14 09:52:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3827A1436E0B4D0983A0A380085906F3",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 195,
+"Time": "2020-05-14 09:52:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "354380C66CFD457A94AAD5CFD6F04966",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 196,
+"Time": "2020-05-14 09:52:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4DF0085F644A4859AC9266B12DD65FDA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 197,
+"Time": "2020-05-14 09:53:00",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8CA10EA6B42F4D4F8F036D5E72FBAB70",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 198,
+"Time": "2020-05-14 09:53:00",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "0FF708C7D51C4C7A9BCE1C663F20549B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 199,
+"Time": "2020-05-14 09:53:00",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "257D50C311784FDB9735CE30F7E2333E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 200,
+"Time": "2020-05-14 09:53:00",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "F2A3BACD57694EBAA1ABFC51196F9790",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 201,
+"Time": "2020-05-14 09:53:01",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "432746F3100D4A388080D1DA966C2D21",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 202,
+"Time": "2020-05-14 09:53:01",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "61F1CB117DCA4427864DC67BC60DB24E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 203,
+"Time": "2020-05-14 09:53:01",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "648C23F496464D0BA99809E81D21F2CA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 204,
+"Time": "2020-05-14 09:53:01",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "488BAD9674C84BFEA2DF94FBBA2947BF",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 205,
+"Time": "2020-05-14 09:53:01",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "F8D75C93AF2C4896A8A52767D63E8466",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 206,
+"Time": "2020-05-14 09:53:01",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "5EB57B45BF504F73AAB8876696F1E634",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 207,
+"Time": "2020-05-14 09:53:01",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "2724AD1AC7814BFEBA09A7189D528264",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 208,
+"Time": "2020-05-14 09:53:01",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "FC2471BA490949FDB406FB56102CF782",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 209,
+"Time": "2020-05-14 09:53:02",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4A8F831D71634CB8883BBF4CBF0D2848",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 210,
+"Time": "2020-05-14 09:53:02",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "49A718BE8EE54F66AB3D73242BA908C5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 211,
+"Time": "2020-05-14 09:53:02",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A4C2EB75831F413BB395F27BFC438B0E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 212,
+"Time": "2020-05-14 09:53:02",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AEA263ACC6C442CF861BC300E254A9D6",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 213,
+"Time": "2020-05-14 09:53:03",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4878475D50A74B3AAE66910D49F383C1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 214,
+"Time": "2020-05-14 09:53:03",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "21830866D183425B9931F0830BCC08BF",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 215,
+"Time": "2020-05-14 09:53:03",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6865B195A475455D912B17BB35F54F47",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 216,
+"Time": "2020-05-14 09:53:03",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9D3EB591B323440DAC4456E52A03785F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 217,
+"Time": "2020-05-14 09:53:03",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "73CD64FB2B5342689F1014EB2416C529",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 218,
+"Time": "2020-05-14 09:53:04",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "203A4B3F40A248B084E043CB356809B5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 219,
+"Time": "2020-05-14 09:53:04",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4838ED301D4E487F9EDA89D04AB520CE",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 220,
+"Time": "2020-05-14 09:53:04",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3D6CD5B2A079482A90E1D6462CFF2B5F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 221,
+"Time": "2020-05-14 09:53:04",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "F73C90F30D6346A2B42CF3B0FCD13E39",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 222,
+"Time": "2020-05-14 09:53:04",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "CCBDA8DCF5D246F6852CEDDB91C0AF8C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 223,
+"Time": "2020-05-14 09:53:04",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "7527E178E07B419AADE7D670988C5D03",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 224,
+"Time": "2020-05-14 09:53:04",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4F27D58E7C82452C8B42967205E4F14D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 225,
+"Time": "2020-05-14 09:53:05",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "20564275D77C4C34A66D8C682176F4DA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 226,
+"Time": "2020-05-14 09:53:05",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6E0F0DBD7064449C8765FA68D543BEFD",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 227,
+"Time": "2020-05-14 09:53:05",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8713A4CF04BA43FC9E8E496580D4F24D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 228,
+"Time": "2020-05-14 09:53:05",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AE20F93ED61B4C38B23CBFD9FCD5F211",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 229,
+"Time": "2020-05-14 09:53:06",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A1C2B956C8134A8D8CD357EF79BEC192",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 230,
+"Time": "2020-05-14 09:53:06",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9029D28970234FA3B652CC984E36A25D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 231,
+"Time": "2020-05-14 09:53:06",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "BB4B1E3232954C9BA762F33B11CC5256",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 232,
+"Time": "2020-05-14 09:53:06",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E6C5F29A18844827A25B8C558CBC4C13",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 233,
+"Time": "2020-05-14 09:53:06",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "799BA4D3C0204E86A10B5A5C7F179502",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 234,
+"Time": "2020-05-14 09:53:06",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "EF604C2AC1D34F8E8989FB324C74C003",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 235,
+"Time": "2020-05-14 09:53:06",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "887FAFB1C4794711A4AC5D070C20A3AB",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 236,
+"Time": "2020-05-14 09:53:06",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "40864CE52AA2480995244CD1F7E7BFF7",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 237,
+"Time": "2020-05-14 09:53:07",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "7A4A0A91EA654389B991FE475A72074E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 238,
+"Time": "2020-05-14 09:53:07",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "09DADA1DA2EB4B97B4AC9D619A371719",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 239,
+"Time": "2020-05-14 09:53:07",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "7C309B0E6EB341A2A98A0E5A6726934E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 240,
+"Time": "2020-05-14 09:53:07",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "743C5CE5B668412F81267B928188281D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 241,
+"Time": "2020-05-14 09:53:07",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E6217130BBDC42459D81CB93DEBA2AFA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 242,
+"Time": "2020-05-14 09:53:08",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E4E2736DB47C43D2983D607650E09C29",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 243,
+"Time": "2020-05-14 09:53:08",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AD5AAC1EB3A04B3080465DCB6C065D97",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 244,
+"Time": "2020-05-14 09:53:08",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D53045AD7C104115A177046B60F0A7FC",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 245,
+"Time": "2020-05-14 09:53:08",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "DB0D440916DE467A944E32D23A29125B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 246,
+"Time": "2020-05-14 09:53:08",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B23B55DCF01044C8B48AFC0CA4C2C7CF",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 247,
+"Time": "2020-05-14 09:53:08",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "60DA2CE8E3D64362A58DB4AB1DBC31F9",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 248,
+"Time": "2020-05-14 09:53:08",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6BF1179BC3E34E31AD5D304219987DF1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 249,
+"Time": "2020-05-14 09:53:08",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9DE26CE9B7854788886EE3981EE38EFE",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 250,
+"Time": "2020-05-14 09:53:09",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "784231C4071E4ACF875B166C435D7464",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 251,
+"Time": "2020-05-14 09:53:09",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "51C060BC27E843B9A35F52B1534CD2F4",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 252,
+"Time": "2020-05-14 09:53:09",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "990EA2C68932420D938FFDBF9308DF2A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 253,
+"Time": "2020-05-14 09:53:09",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6456FFA9C9FA4A2B93EDA4BA03771A48",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 254,
+"Time": "2020-05-14 09:53:09",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "0FA9E0BD7035403AA5905BA084AE3D02",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 255,
+"Time": "2020-05-14 09:53:10",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "460275E4793945F9BD73EC3474C51E6E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 256,
+"Time": "2020-05-14 09:53:10",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C739B0A93FA041E3AF525FC0310D145A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 257,
+"Time": "2020-05-14 09:53:10",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "392E98C07C6340B492C7991F347D15BF",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 258,
+"Time": "2020-05-14 09:53:10",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9E31DF9F7ED9430DB73BE29958CEF15F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 259,
+"Time": "2020-05-14 09:53:10",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6007BD6558AD4AB79F38C455C2CADCC0",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 260,
+"Time": "2020-05-14 09:53:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9F8375E841A141C7B7703C16735462BE",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 261,
+"Time": "2020-05-14 09:53:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "761B348BE8564E719BAC296C50C00D12",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 262,
+"Time": "2020-05-14 09:53:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "56FBE1AD53694B979D1D9A683C3121B2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 263,
+"Time": "2020-05-14 09:53:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E8881587E3E5403BAD033EDE6020AF4C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 264,
+"Time": "2020-05-14 09:53:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "0085F8300C2144CCAD1DB762E6FCDCC3",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 265,
+"Time": "2020-05-14 09:53:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C380834ECEF5434CAB2E464C4FCE8FD3",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 266,
+"Time": "2020-05-14 09:53:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "7FE2CBCCC44843EDAEF2084D8560E6A4",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 267,
+"Time": "2020-05-14 09:53:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "208E3EA54CF8493C89D58099721AD20F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 268,
+"Time": "2020-05-14 09:53:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C9B9F1F0032E48CF81A90B271B15923D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 269,
+"Time": "2020-05-14 09:53:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "40856C48910443C69353DCE987EE02FB",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 270,
+"Time": "2020-05-14 09:53:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "BC4D091391F74005BF3B8E0D81CCB5C5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 271,
+"Time": "2020-05-14 09:53:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "707E9156012B4C69BD7E3DD9EBE4106C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 272,
+"Time": "2020-05-14 09:53:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D8E81AB41DEF4C94BC5EEF3981B48E16",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 273,
+"Time": "2020-05-14 09:53:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "133253D7DD1B41E9ACE5F4FF5F9E2FB6",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 274,
+"Time": "2020-05-14 09:53:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "76DEA5A1CBAD4E1D98DD5459BAC059DC",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 275,
+"Time": "2020-05-14 09:53:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E632E563ABC7429092CF5DCB6B44920A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 276,
+"Time": "2020-05-14 09:53:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "19AC6FD37A2749A8820E8FD2874582DD",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 277,
+"Time": "2020-05-14 09:53:13",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8510ED59E8A34D9EB82E27F62AEE20EA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 278,
+"Time": "2020-05-14 09:53:13",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A8E29B66346C4760BF0A5200D52933DA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 279,
+"Time": "2020-05-14 09:53:13",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B0D4878394624B30B2BAF2ED77780D4A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 280,
+"Time": "2020-05-14 09:53:14",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "FA5A87D72DCF4E89AA5F999F9FA7D8A0",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 281,
+"Time": "2020-05-14 09:53:14",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8A91ACC6E4844E56B788ECED2158F1D8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 282,
+"Time": "2020-05-14 09:53:14",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "389D8E394FC64F47B6C017BCF2C44077",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 283,
+"Time": "2020-05-14 09:53:14",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "FBAB0730852E4BAF805ED4DFCAFB1E0A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 284,
+"Time": "2020-05-14 09:53:15",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B6DC1F5A1FED48F28FCB0DD2D248D94E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 285,
+"Time": "2020-05-14 09:53:15",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "7ECA1FEA553D41DA956A68D6FBD7295B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 286,
+"Time": "2020-05-14 09:53:15",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "32C08AFD34E146DF9DC15F4D29B97448",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 287,
+"Time": "2020-05-14 09:53:15",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "85C5A78B191F4662A5B62428F5F73161",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 288,
+"Time": "2020-05-14 09:53:15",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B8AA3B6BDFDB4C55AB7583232FF139BD",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 289,
+"Time": "2020-05-14 09:53:15",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "1697F7E7B1114D938CE9F73C49D91DD7",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 290,
+"Time": "2020-05-14 09:53:16",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A58FC2C639DD4D4FB4128ADAEF45B1E9",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 291,
+"Time": "2020-05-14 09:53:16",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4CC6094FE61A4309AAA03C53C90EB909",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 292,
+"Time": "2020-05-14 09:53:17",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3D0322E2D784473D8F015F24C5D273FF",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 293,
+"Time": "2020-05-14 09:53:17",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A15DF19357534A0B882F7516EC1C25C9",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 294,
+"Time": "2020-05-14 09:53:18",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C30BDF2D7E33494E8A8D1C7997BA0017",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 295,
+"Time": "2020-05-14 09:53:18",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "CE0E6E734D5D4D6D964B1A2FF66649DD",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 296,
+"Time": "2020-05-14 09:53:19",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "BF412FD6A1DD4FC4A69353507CEE15A1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 297,
+"Time": "2020-05-14 09:53:19",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6D97D6B3392B4D2898004137995641CC",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 298,
+"Time": "2020-05-14 09:53:20",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9A812DE8033540EF9E78DF94804E1345",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 299,
+"Time": "2020-05-14 09:53:20",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "7203E83EC1AF4CC399106528E81BAD32",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 300,
+"Time": "2020-05-14 09:53:21",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B640A554B84C451CADB9BAA1B65EB1F3",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 301,
+"Time": "2020-05-14 09:53:21",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "73A51ACFC5074E5F9F021774C1D5085A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 302,
+"Time": "2020-05-14 09:53:22",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "F824429FDFD34AEB899A39714C82CE43",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 303,
+"Time": "2020-05-14 09:53:22",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "2DE1DBEC996F4836A36BE27DE22F03BE",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 304,
+"Time": "2020-05-14 09:53:22",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "71E9B8B8365E45CC854A1C2FFB9F0E3B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 305,
+"Time": "2020-05-14 09:53:22",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "2AA56A17E10241CB89C1ECCDE97FBA0E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 306,
+"Time": "2020-05-14 09:53:22",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "CA41BBA4434F438D8C69E48FCB0E74BA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 307,
+"Time": "2020-05-14 09:53:23",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "EDE303BCFE0D4F30B1B3EEAAA0445C83",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 308,
+"Time": "2020-05-14 09:53:23",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "021EA259E5BE47F3BC66FDB3B26ABEA4",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 309,
+"Time": "2020-05-14 09:53:23",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B2ACFA4D14AB4A46B35AAB510787D75A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 310,
+"Time": "2020-05-14 09:53:23",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AD22D73F3B84409B8824C2FD4B728A4E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 311,
+"Time": "2020-05-14 09:53:24",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "08700376DEB1468AB323F20A5DA90CB7",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 312,
+"Time": "2020-05-14 09:53:24",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C1A0D65BBE53473AA856C1D9B1889088",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 313,
+"Time": "2020-05-14 09:53:24",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "03A25272705240CFA0FF657222E1EE17",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 314,
+"Time": "2020-05-14 09:53:24",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8425C626FD0E4EB1AC4E4AC54AD4833A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 315,
+"Time": "2020-05-14 09:53:25",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "05AEBE6B6AA14463BD8E101B28F0930B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 316,
+"Time": "2020-05-14 09:53:25",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4BE04874787F4050B1D68A7EC08C3851",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 317,
+"Time": "2020-05-14 09:53:25",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E56CE352166748C5A7BE4F8FB83251E7",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 318,
+"Time": "2020-05-14 09:53:25",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C98DAEDADA95493ABA618EA2D3EBA04D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 319,
+"Time": "2020-05-14 09:53:26",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A3E2C6AEBA5142EA984D9B680C68596F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 320,
+"Time": "2020-05-14 09:53:26",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "732F5A16DBB44695BC241B69C1A77F90",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 321,
+"Time": "2020-05-14 09:53:26",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "184C2DA9A0064B59A3029F36617D29B3",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 322,
+"Time": "2020-05-14 09:53:27",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "64BDFBACE39145339C78EB642832E150",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 323,
+"Time": "2020-05-14 09:53:27",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "18D9BA254ED34484A9A20AF985353836",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 324,
+"Time": "2020-05-14 09:53:28",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "51AE638A6F734CB1B41C726C7A66EAA6",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 325,
+"Time": "2020-05-14 09:53:28",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "BD70A872320743269C2036ACC73A09C0",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 326,
+"Time": "2020-05-14 09:53:28",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "2D64FE69639E4329BD6310FEC01598E7",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 327,
+"Time": "2020-05-14 09:53:29",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "82C37E8AB95C469DA0086EAE6A0C9060",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 328,
+"Time": "2020-05-14 09:53:29",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9D9FE4EDF1E4413CA68AEA830688F77B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 329,
+"Time": "2020-05-14 09:53:29",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "26C3CFDA03344C839C0DB76E8163A325",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 330,
+"Time": "2020-05-14 09:53:30",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "54B4A29672FA4494A1C6188F47BF4AB5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 331,
+"Time": "2020-05-14 09:53:30",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "17C6007D891D4217BC7FDFF1F96572CC",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 332,
+"Time": "2020-05-14 09:53:30",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "BF9026559CE843489FDB98EA071E19DB",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 333,
+"Time": "2020-05-14 09:53:30",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D8E08CB37E4640D88A99589BD6B6D92D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 334,
+"Time": "2020-05-14 09:53:30",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A4D38908168140CDBD1E90874BD771E7",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 335,
+"Time": "2020-05-14 09:53:30",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "5D7734EB0CCD4E1D842E865F04785F59",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 336,
+"Time": "2020-05-14 09:53:31",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "33BF17F8B24B4100934821125FF8E473",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 337,
+"Time": "2020-05-14 09:53:31",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "36BDD3EC470340DCAC50FB5983A19A98",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 338,
+"Time": "2020-05-14 09:53:31",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "CED71EF908F84D5BB230C1DB2931AC0A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 339,
+"Time": "2020-05-14 09:53:31",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "0C638F73554442BABC03B8AD98495F65",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 340,
+"Time": "2020-05-14 09:53:31",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "82511C7B8B14428CA30D1FB435350C01",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 341,
+"Time": "2020-05-14 09:53:31",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "55D053EBB80C450CA596657B2EEFCE2A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 342,
+"Time": "2020-05-14 09:53:31",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "929889A9242B4D218F667659C6E8CAD2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 343,
+"Time": "2020-05-14 09:53:32",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "25080270D355480D885DC52CA0D133A2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 344,
+"Time": "2020-05-14 09:53:32",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "CE91FE2E5D5846AC88F6F287FD23DD8F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 345,
+"Time": "2020-05-14 09:53:32",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "15FB29B71C61412F8951A9746D614248",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 346,
+"Time": "2020-05-14 09:53:32",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "141E14ABB1594E239DFF3D4B38EF18ED",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 347,
+"Time": "2020-05-14 09:53:32",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "723188BD24634873B7A2F8F8C8839437",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 348,
+"Time": "2020-05-14 09:55:55",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "7E01065AA5FB463296E24FFC27C2BB83",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 349,
+"Time": "2020-05-14 09:55:55",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D723150472E4409E947014D98D19C107",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 350,
+"Time": "2020-05-14 09:55:55",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6F8E4660A86B434794546B852A0795B8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 351,
+"Time": "2020-05-14 09:55:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "27AD11351C1B4976BA01C6F670F518B2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 352,
+"Time": "2020-05-14 09:55:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3B20F247AE354376989C4F236EB1BCE2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 353,
+"Time": "2020-05-14 09:55:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "BE5E0F85FA43481B9C22A68BFC5F4211",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 354,
+"Time": "2020-05-14 09:55:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E84C5075A0894B28B6B39968BD212C97",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 355,
+"Time": "2020-05-14 09:55:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "EFEA03A2061B400FBAF1367EC0C6AF43",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 356,
+"Time": "2020-05-14 09:55:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C84A268C30794CCAAB6E354DBF51348C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 357,
+"Time": "2020-05-14 09:55:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B758E57690A04C18A77C7455580DB29A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 358,
+"Time": "2020-05-14 09:55:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "5CA91D03416B4AB5BBC0C0F0A746CB2B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 359,
+"Time": "2020-05-14 09:55:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "5305D8C350EC49998C0997F2B9099748",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 360,
+"Time": "2020-05-14 09:55:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B830619774F642A98DA95680F236EE95",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 361,
+"Time": "2020-05-14 09:55:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9A34EC456DAE4D40A11A123B0846F83A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 362,
+"Time": "2020-05-14 09:55:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D19D4AD0CD2C4BF7AB7C9490BC0DCA86",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 363,
+"Time": "2020-05-14 09:55:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3B4BFC991EE248E9B80B087625B842DC",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 364,
+"Time": "2020-05-14 09:55:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "BAE390A279724DD3B374E92F7A397B94",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 365,
+"Time": "2020-05-14 09:55:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D37274C6ED9A44708637D111259C38E3",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 366,
+"Time": "2020-05-14 09:55:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "0D216D8D43A54AE199519C899A553E6F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 367,
+"Time": "2020-05-14 09:55:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4AB21A7F09D04947835A119F4F1D680E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 368,
+"Time": "2020-05-14 09:55:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D03DDFE277D140078AAF45F2204194A5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 369,
+"Time": "2020-05-14 09:55:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3810D10211B14E28BD5057CACD35C21A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 370,
+"Time": "2020-05-14 09:55:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "7767A2C9E64149F2858DC0D3145E785D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 371,
+"Time": "2020-05-14 09:55:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "70881FE6A71B47218821A3B9F2BF8083",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 372,
+"Time": "2020-05-14 09:55:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "FD5727AE0A8B4CF189D289619B849FC0",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 373,
+"Time": "2020-05-14 09:55:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C49FB675D9B94C479AE4FF680D85B0E6",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 374,
+"Time": "2020-05-14 09:55:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E0FDCE97FBC647568C3EFDBE2925DF94",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 375,
+"Time": "2020-05-14 09:55:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8424BF0EA94244F9B230A3DDFDD91B23",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 376,
+"Time": "2020-05-14 09:55:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4791DACE9C0B4732B54A063A219811A7",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 377,
+"Time": "2020-05-14 09:55:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4FA4F2C1FD974D968E48BD1BE23087AF",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 378,
+"Time": "2020-05-14 09:55:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8225DE62952849A5A3751E74647FBE37",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 379,
+"Time": "2020-05-14 09:55:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "1E089BF658C2460284D7900063103D9D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 380,
+"Time": "2020-05-14 09:55:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4782BFB69E2E481D8A0AFCCDFC8A5025",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 381,
+"Time": "2020-05-14 09:56:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E7BE9026D4CB4F889CB5846D0DEDBD1D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 382,
+"Time": "2020-05-14 09:56:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "61235EAD347E4B48B4A6B73D98A41726",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 383,
+"Time": "2020-05-14 09:56:41",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4F9F3A25F8DE424A98C0E7F546A9BA05",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 384,
+"Time": "2020-05-14 09:56:41",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6E34AF7CCE79423B95575C705BACC821",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 385,
+"Time": "2020-05-14 09:56:41",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "550D888EAD8C46F0B1BD7D0B576E180B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 386,
+"Time": "2020-05-14 09:56:42",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "F815CB263F3E4D9CA9A6AF0EA73948F1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 387,
+"Time": "2020-05-14 09:56:45",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D61E532E6C784F0484B0F5BA0D8BED27",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 388,
+"Time": "2020-05-14 09:56:45",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "0A2C2E1D49414175AD9153F3379E18E1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 389,
+"Time": "2020-05-14 09:56:46",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "7B7C7D54BB3F4ECDB99CFAE7DD855AE8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 390,
+"Time": "2020-05-14 09:56:46",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "0DA30A44CC764BE2AC32C47BBB9E08FD",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 391,
+"Time": "2020-05-14 09:56:46",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "156109106FE44996BABAD565F2D56188",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 392,
+"Time": "2020-05-14 09:56:46",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A6E4EE900766405390F5EC137F23D693",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 393,
+"Time": "2020-05-14 09:56:49",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "58CF934A2CB044579B0CA3A9C0CA17AA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 394,
+"Time": "2020-05-14 09:56:49",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8E36D9EC3237444A841913019ED30489",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 395,
+"Time": "2020-05-14 09:56:49",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "FE152B0EC7044735A5FA40D83A372B64",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 396,
+"Time": "2020-05-14 09:56:49",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "F5EA4885AE974E9290F5F78D341E0AEA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 397,
+"Time": "2020-05-14 09:56:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AB1BDC2014BF452594AC621EEB7C6A23",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 398,
+"Time": "2020-05-14 09:56:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D52CDD480F4648F299BECAF65C78CD9C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 399,
+"Time": "2020-05-14 09:56:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "33F1D0D35DEE4616A192C528E9E47B33",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 400,
+"Time": "2020-05-14 09:56:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "EFA32F9E5C6645B28299F0CDF8B0DAEB",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 401,
+"Time": "2020-05-14 09:56:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "22C4B0A4B8B74B27882F004EC2D1B448",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 402,
+"Time": "2020-05-14 09:56:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "30CBFD07E02242ABA333102B043F258C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 403,
+"Time": "2020-05-14 09:56:50",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "0482877A7929418AA8BAEE65467D7AB6",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 404,
+"Time": "2020-05-14 09:56:51",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "ADAE0600B8A042039AF3DD2B0018CFD8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 405,
+"Time": "2020-05-14 09:56:51",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B7367B32DDA94100853BC3A7A3173F94",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 406,
+"Time": "2020-05-14 09:56:52",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E4DE61C424A74CF9919B8F7F09B27CBD",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 407,
+"Time": "2020-05-14 09:56:52",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D7F48067AE804D56A5467B0E95F10F21",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 408,
+"Time": "2020-05-14 09:56:53",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6593FC2053E245A8B52BD83C0CAE88AE",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 409,
+"Time": "2020-05-14 09:56:53",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AD027C932EB1401F82076E00714D38C8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 410,
+"Time": "2020-05-14 09:56:54",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "7DADE5D906834E2F9C32713D4983D0B8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 411,
+"Time": "2020-05-14 09:56:55",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "FEFA10F3C8DD42A7A3856436B093ADDA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 412,
+"Time": "2020-05-14 09:56:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "DB65554B45C54EBCAAABC39827B3862F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 413,
+"Time": "2020-05-14 09:56:56",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C3689825BC0A47209BB79AD78A0EC6DB",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 414,
+"Time": "2020-05-14 09:56:57",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AF052E3D44204CD7997EA7191AD3C110",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 415,
+"Time": "2020-05-14 09:56:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D63FC635EA0C4D54BFF042DFD4A26415",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 416,
+"Time": "2020-05-14 09:56:58",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "084E104D9AF2478A92D5A11EACE7EF38",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 417,
+"Time": "2020-05-14 09:56:59",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "2842D368919644E489B19B17EF64F171",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 418,
+"Time": "2020-05-14 09:57:00",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C5CEB9C37FA045DC9035583210AA314E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 419,
+"Time": "2020-05-14 09:57:01",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "EDFE5208406449B1B59D7A8430DF7446",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 420,
+"Time": "2020-05-14 09:57:01",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "09EE4D2E9AEB4BC99502218DA37916D8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 421,
+"Time": "2020-05-14 09:57:02",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "1C31E5BAE3A6433286F97362EFB1A399",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 422,
+"Time": "2020-05-14 09:57:03",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "97D2AC3575734BA1896AB1E902FD4574",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 423,
+"Time": "2020-05-14 09:57:03",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9D8A5BBF421D4CF1957EB1085F8DAF09",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 424,
+"Time": "2020-05-14 09:57:04",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4C77CFBF88484D3AA7899B5A3A29C827",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 425,
+"Time": "2020-05-14 09:57:05",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "5EEC275A1F7E4E26AEF669A7DEE159B6",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 426,
+"Time": "2020-05-14 09:57:05",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "20CB3440D6734B609A50F57D2F235796",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 427,
+"Time": "2020-05-14 09:57:06",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "59DE6279F73640899628429AE4F399F1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 428,
+"Time": "2020-05-14 09:57:07",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "438F82EDE9B34CDC9F7873A374940AC6",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 429,
+"Time": "2020-05-14 09:57:07",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "FD073F5ED64D40CDB38152B2EF041F1B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 430,
+"Time": "2020-05-14 09:57:08",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A98856B1FE9E40CEA0460C461BA86019",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 431,
+"Time": "2020-05-14 09:57:08",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "1F18887F19DE470F8B5A976EF472F997",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 432,
+"Time": "2020-05-14 09:57:08",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "5C62E5B78DA1424A9356FE39B728EFD5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 433,
+"Time": "2020-05-14 09:57:09",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C7E6E53B872D4B6BA24304FE2DC3CB2D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 434,
+"Time": "2020-05-14 09:57:09",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "170FA162F90B4C7880E26ADC6531AC1F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 435,
+"Time": "2020-05-14 09:57:09",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "34D4314015FE4D14A266E1217700F234",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 436,
+"Time": "2020-05-14 09:57:10",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "25A305DD813C4A06BE5EE74D3A217338",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 437,
+"Time": "2020-05-14 09:57:10",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4027D0BE84D14D0B9B661FE4B9D7C8F9",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 438,
+"Time": "2020-05-14 09:57:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "69FDA6838B9E4BED9927BCEF3D50BE39",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 439,
+"Time": "2020-05-14 09:57:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8978B268409A4B4CBF8B73AA1167124E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 440,
+"Time": "2020-05-14 09:57:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "1DEC9D5823154EB79F625DDA55656323",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 441,
+"Time": "2020-05-14 09:57:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "613CF92C695C47B7B6F93C6531E5E37B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 442,
+"Time": "2020-05-14 09:57:11",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "5E06FA3CEDCB4B7BA0FAC3EFFD6952D1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 443,
+"Time": "2020-05-14 09:57:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C11DE4128001402F97DC7D7DFB7C919B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 444,
+"Time": "2020-05-14 09:57:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8748B5AF01CB4F0C9A2C54B106B457E8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 445,
+"Time": "2020-05-14 09:57:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D615F804BF5D42239858779AA24B2762",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 446,
+"Time": "2020-05-14 09:57:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C57FE677F6CE4B6D8509E048C2CAD7C0",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 447,
+"Time": "2020-05-14 09:57:13",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "27C918274D91466D9A0D79E95E9A531A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 448,
+"Time": "2020-05-14 09:57:13",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4790C75CC3F3463F9DCDF7CBA3FBBB3D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 449,
+"Time": "2020-05-14 09:57:13",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AEDD30D1C2474723BE3922DE2AD409C6",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 450,
+"Time": "2020-05-14 09:57:13",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "1150939207374BD285DC9FC0CDE427C2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 451,
+"Time": "2020-05-14 09:57:14",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9067B99CA244448DA752B97AE0793573",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 452,
+"Time": "2020-05-14 09:57:14",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "BFF56471581A4E3C9AA1DF3AF6017C9E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 453,
+"Time": "2020-05-14 09:57:14",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "164F08937B1F43B1A2D8A72D8B2DA945",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 454,
+"Time": "2020-05-14 09:57:14",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "CA73EC2A206444D880CE9D2EF0B9F638",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 455,
+"Time": "2020-05-14 09:57:15",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "B0F207B72B304974A5A6A2A8DBA0F7BE",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 456,
+"Time": "2020-05-14 09:57:15",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3BE85B8F37A14F2EA851C9EEAC87CA38",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 457,
+"Time": "2020-05-14 09:57:15",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9E99D9D82D484A1DA4BA1CD515633951",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 458,
+"Time": "2020-05-14 09:57:16",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "F414AA2C2F98407498F7273E8CE619C2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 459,
+"Time": "2020-05-14 09:57:16",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "0ECB3AF7C4D148978D2C5863FB7A73F4",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 460,
+"Time": "2020-05-14 09:57:16",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "5700F542FBB343CE859B2C295B6A5F44",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 461,
+"Time": "2020-05-14 09:57:17",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "CB9ACA0327C04DDE8F9D16B8BC3A3287",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 462,
+"Time": "2020-05-14 09:57:17",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "A28282C1819646D6A7A4692547C62BC5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 463,
+"Time": "2020-05-14 09:57:18",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "0AEFEAAE2F78491D8953AD2792CCFB85",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 464,
+"Time": "2020-05-14 09:57:18",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E420C970BD65451F92B7C5B023CDD7FA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 465,
+"Time": "2020-05-14 09:57:19",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "80A1AEB20DC540F083EF90279227A66F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 466,
+"Time": "2020-05-14 09:57:20",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "8E58CDA060AF491F93DF2E4D3C87C509",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 467,
+"Time": "2020-05-14 09:57:21",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "878E88A1711640A3879FC69751CDCCE7",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 468,
+"Time": "2020-05-14 09:57:22",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3F55EE84D0F64FB49B28E437F5696EC5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 469,
+"Time": "2020-05-14 09:57:22",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "04B9D2436C714CFC9018DB9B0402E275",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 470,
+"Time": "2020-05-14 09:57:23",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "EC6909C3515F42AB9A1B10CBA255BEC3",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 471,
+"Time": "2020-05-14 09:58:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "F239F262B0BA46BFB73EF629F6017D85",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 472,
+"Time": "2020-05-14 09:58:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6A8FAD1851A2442791E1FFEA15491950",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 473,
+"Time": "2020-05-14 09:58:12",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "120DE3A8C46A4C24920B33BB4F12D384",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 474,
+"Time": "2020-05-14 09:58:13",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "ACC9B30B366A43B493D4FC84CF0584B8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 475,
+"Time": "2020-05-14 09:58:13",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "394AE79E825043E8AF340B64F7A480F8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 476,
+"Time": "2020-05-14 09:58:13",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "15256B7B216C40689980911C45191A92",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 477,
+"Time": "2020-05-14 09:58:13",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6BAE625C0A3D43A0A2C95385B993611F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 478,
+"Time": "2020-05-14 09:58:14",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "CA184B410D9A48EBB0E727E25E27EF42",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 479,
+"Time": "2020-05-14 09:58:14",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "2506521C8A2D4A92BC6F42D7119FF577",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 480,
+"Time": "2020-05-14 09:58:14",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "7A14242F44844D42AFE5EADEA9303595",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 481,
+"Time": "2020-05-14 09:58:14",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AE3937E2C7B34C6687147F46780266B6",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 482,
+"Time": "2020-05-14 09:58:15",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "E460FB950DBE445FBBB1675683FEEBFA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 483,
+"Time": "2020-05-14 09:58:15",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "6E4972BF0B9844A09199E4DCA8D2C2DB",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 484,
+"Time": "2020-05-14 09:58:16",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "767D5D7F5C9C4DBCA2309E0497559245",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 485,
+"Time": "2020-05-14 09:58:16",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "895C03E5F22143099769545F8FF08E22",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 486,
+"Time": "2020-05-14 09:58:26",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4A6A6E791B58461F860FFE4077B08946",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 487,
+"Time": "2020-05-14 09:59:26",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "CD74DD3227B6449E867E683F1B272514",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 488,
+"Time": "2020-05-14 09:59:31",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "C7652F7666744340A5ADF9FE91B5001F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 489,
+"Time": "2020-05-14 10:00:18",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "325A61FBE91148F8894F68FABE3006E8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 490,
+"Time": "2020-05-14 10:02:02",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "9004DFAF605B40519120E1270038702C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 491,
+"Time": "2020-05-14 10:02:02",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "D66A9B43F10B4DFE92D43923D5D93E92",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 492,
+"Time": "2020-05-14 10:02:03",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "3D3BB4D45682487BA0E461ED5E09756B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 493,
+"Time": "2020-05-14 10:02:03",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "AE3A8E12AC414A789F62EEA65A9DA8A3",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 494,
+"Time": "2020-05-14 10:02:03",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "37E658CBF1AD4A7D858E0C1B2B519802",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 495,
+"Time": "2020-05-14 10:02:04",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "4ECB9B2E007C4B4886123F23D9DB34A5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 496,
+"Time": "2020-05-14 10:02:04",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "BAEC7D117E2B4BA49027C1F66CD8C779",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 497,
+"Time": "2020-05-14 10:02:05",
+"Severity": "Warning",
+"Text": "Try updating the NetworkSettingsConfig.SecureProtocols option, so that they match SSL\/TLS settings on the target webserver."
+},
+{
+"DbId": "65657E15960E4D6AB79EE8C4BA0601AB",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 498,
+"Time": "2020-05-14 10:13:42",
+"Severity": "Info",
+"Text": "Performing Logout in session 'Authentication with Macro: ConsentManagementSystem.rec'"
+},
+{
+"DbId": "B9D3047F6EBD4411BF0D0635C16ABEEA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 499,
+"Time": "2020-05-14 10:13:42",
+"Severity": "Info",
+"Text": "Starting Second Stage of Scanning: Crawling and Attacking Links that Can Affect Login State"
+},
+{
+"DbId": "F3C110E9BDC7411892C00F37E943A091",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 500,
+"Time": "2020-05-14 10:24:21",
+"Severity": "Good",
+"Text": "Scanning Completed"
+},
+{
+"DbId": "D24E0EB87443406DB0E79277754C477C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 501,
+"Time": "2020-05-14 10:24:21",
+"Severity": "Info",
+"Text": "Applying global ignore Findings settings..."
+},
+{
+"DbId": "6DA7C2A9A5C54BB2ACE29C8DBC5C32B8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 502,
+"Time": "2020-05-14 10:24:22",
+"Severity": "Info",
+"Text": "Destroying accumulated temporary data."
+},
+{
+"DbId": "0E64142292554223A84486518E25FA69",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 503,
+"Time": "2020-05-14 10:24:23",
+"Severity": "Info",
+"Text": "Generating Report"
+},
+{
+"DbId": "0C825177B6DD4227AC5E8834D3026E0D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 504,
+"Time": "2020-05-14 10:24:23",
+"Severity": "Info",
+"Text": "Report generation interfaces successfully obtained... report proceeding."
+},
+{
+"DbId": "CB21C408D9B74227ACC691320C1F0635",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 505,
+"Time": "2020-05-14 10:24:23",
+"Severity": "Info",
+"Text": "Gathering statistics from database..."
+},
+{
+"DbId": "445A907F6CCE434684FC0E0DE330F160",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 506,
+"Time": "2020-05-14 10:25:56",
+"Severity": "Info",
+"Text": "Calculating various report structures..."
+},
+{
+"DbId": "2F5163890AE9478ABF514B9A054B735D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 507,
+"Time": "2020-05-14 10:25:56",
+"Severity": "Info",
+"Text": "******* GRAPHS\/IMAGES *******"
+},
+{
+"DbId": "1A57A7C728C14BA599C7CB62C1EC385A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 508,
+"Time": "2020-05-14 10:25:56",
+"Severity": "Info",
+"Text": "Generating static images..."
+},
+{
+"DbId": "26310D3EDC6B4736A85DCD7887571876",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 509,
+"Time": "2020-05-14 10:25:57",
+"Severity": "Info",
+"Text": "Generating technical summary trend graphs..."
+},
+{
+"DbId": "AC7C37703CB24F51B5161D2005E8DD4B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 510,
+"Time": "2020-05-14 10:25:57",
+"Severity": "Info",
+"Text": "Generating vulnerability graphs..."
+},
+{
+"DbId": "38AC4189C1E1460586FD58C84535BD43",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 511,
+"Time": "2020-05-14 10:25:58",
+"Severity": "Info",
+"Text": "Generating security status graphs..."
+},
+{
+"DbId": "F04FFAB6C5724FEAA88BA0221782804F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 512,
+"Time": "2020-05-14 10:25:58",
+"Severity": "Info",
+"Text": "Generating site analysis graphs..."
+},
+{
+"DbId": "B379D109245344EEA3E2F34FBC78A19F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 513,
+"Time": "2020-05-14 10:25:58",
+"Severity": "Info",
+"Text": "Generating executive summary graphs..."
+},
+{
+"DbId": "BBA18FD4B2D64416BB3E510ADA4D0092",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 514,
+"Time": "2020-05-14 10:25:58",
+"Severity": "Info",
+"Text": "Generating application threat modeling graphs..."
+},
+{
+"DbId": "8B987CEEC815470AAF794EAA09178F84",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 515,
+"Time": "2020-05-14 10:25:58",
+"Severity": "Info",
+"Text": "Generating technical summary graphs..."
+},
+{
+"DbId": "A0AC934D343546FB838A9CE4BFAE78E8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 516,
+"Time": "2020-05-14 10:26:00",
+"Severity": "Info",
+"Text": "******* HTML PAGES *******"
+},
+{
+"DbId": "B029821DFBF8487988215330A0BA8F9E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 517,
+"Time": "2020-05-14 10:26:00",
+"Severity": "Info",
+"Text": "Generating PCI31.html..."
+},
+{
+"DbId": "A033BFBC433F4E539A233CCBCA19A9E8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 518,
+"Time": "2020-05-14 10:26:00",
+"Severity": "Info",
+"Text": "Generating SOX.html..."
+},
+{
+"DbId": "1F303FD4E23045C7A713901070985B59",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 519,
+"Time": "2020-05-14 10:26:00",
+"Severity": "Info",
+"Text": "Generating HIPAA.html..."
+},
+{
+"DbId": "2A95345DF3CF4D9DB5403B9375262355",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 520,
+"Time": "2020-05-14 10:26:00",
+"Severity": "Info",
+"Text": "Generating DISASTIG.html..."
+},
+{
+"DbId": "D34681A9808B4D08BA57DE03CDA0A6A5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 521,
+"Time": "2020-05-14 10:26:01",
+"Severity": "Info",
+"Text": "Generating GLB.html..."
+},
+{
+"DbId": "9C288AA7C2BF4346A1F1B1119F8E9484",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 522,
+"Time": "2020-05-14 10:26:01",
+"Severity": "Info",
+"Text": "Generating OWASP2017.html..."
+},
+{
+"DbId": "1179C9CCBA9B4DEE86F4D7C86B2D5BAA",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 523,
+"Time": "2020-05-14 10:26:01",
+"Severity": "Info",
+"Text": "Generating GDPR.html..."
+},
+{
+"DbId": "61C5539DF53C49269567D71F345A5607",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 524,
+"Time": "2020-05-14 10:26:02",
+"Severity": "Info",
+"Text": "Generating FISMA.html..."
+},
+{
+"DbId": "6497F871FF3E4BE5B6F96409B6D5A725",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 525,
+"Time": "2020-05-14 10:26:02",
+"Severity": "Info",
+"Text": "Generating CWESANS.html..."
+},
+{
+"DbId": "062D958D0B2747FE9C35C9BE62EE7366",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 526,
+"Time": "2020-05-14 10:26:02",
+"Severity": "Info",
+"Text": "Generating Vulnerabilities.html..."
+},
+{
+"DbId": "E758005564DE4DF69E3D4D90E977C3F9",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 527,
+"Time": "2020-05-14 10:26:04",
+"Severity": "Info",
+"Text": "Generating BestPractices.html..."
+},
+{
+"DbId": "FAAE9F9F9BD64C00A0275555AFBCA8BE",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 528,
+"Time": "2020-05-14 10:26:06",
+"Severity": "Info",
+"Text": "Generating ExecutiveSummary.html..."
+},
+{
+"DbId": "6F201F2509F74F80A4452EF7F7AF227C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 529,
+"Time": "2020-05-14 10:26:06",
+"Severity": "Info",
+"Text": "Generating Index.html..."
+},
+{
+"DbId": "D1D38A4BFCA74A4CBDD96839212D0D55",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 530,
+"Time": "2020-05-14 10:26:06",
+"Severity": "Info",
+"Text": "Generating StatusAndConfig.html..."
+},
+{
+"DbId": "24009B97572B4FD79A241840106C6AFB",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 531,
+"Time": "2020-05-14 10:26:08",
+"Severity": "Info",
+"Text": "Generating SiteLinks.html..."
+},
+{
+"DbId": "AE24CAD4094A4A28B1ACA65F8EC9806E",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 532,
+"Time": "2020-05-14 10:26:08",
+"Severity": "Info",
+"Text": "Generating Reflection.html..."
+},
+{
+"DbId": "88A7DEC5C329483389C5C6F8550A8979",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 533,
+"Time": "2020-05-14 10:26:08",
+"Severity": "Info",
+"Text": "Generating RemediationSummary.html..."
+},
+{
+"DbId": "87F0E34A9BCD49A9BBD0FB55D2DC9696",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 534,
+"Time": "2020-05-14 10:26:08",
+"Severity": "Info",
+"Text": "Generating Application.html..."
+},
+{
+"DbId": "17681E1A900F4BA48C021FE019A817F8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 535,
+"Time": "2020-05-14 10:26:09",
+"Severity": "Info",
+"Text": "Generating ApplicationByUrl.html..."
+},
+{
+"DbId": "0BD2DC4A999743EA8B621173FF9B5028",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 536,
+"Time": "2020-05-14 10:26:11",
+"Severity": "Info",
+"Text": "Generating Server.html..."
+},
+{
+"DbId": "147394D6CD8A4EA7B086148B23DC6CC7",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 537,
+"Time": "2020-05-14 10:26:11",
+"Severity": "Info",
+"Text": "Generating Privacy.html..."
+},
+{
+"DbId": "A44C62C2ADD84DE4A8E3473B7D15B9E8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 538,
+"Time": "2020-05-14 10:26:11",
+"Severity": "Info",
+"Text": "Generating AllLinks.html..."
+},
+{
+"DbId": "495B2FB2C90D4A6A9029575C3B16D6B3",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"Index": 539,
+"Time": "2020-05-14 10:26:11",
+"Severity": "Info",
+"Text": "Generating AppThreatModeling.html..."
+}
+]
+}

@@ -1,0 +1,662 @@
+{
+"AttackVectorList":
+[
+{
+"DbId": "48F5C30F453B4854963B8E99834F5563",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/js\/site.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "0196890A6F714E78BAFBEC0EE324CBD9",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/css\/site.css",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "2DC9DE83DE974C50BE7704D7A06B0949",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/datatables\/dataTables.bootstrap4.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "7CFA5BC9D0404C42AADB687DF5E56295",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/css\/sb-admin-3.min.css",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "24AFFEA9AE544F9E8CF7455C38BEF866",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/js\/site.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "9199A3EA23C240DCA40BE002DB2F5AE0",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/Logo1.png",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "90DBA7DFE2344008A346A6A54EA00B7D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/css\/site.css",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "2128FC3BB48D498186DAA32E1799B671",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/datatables\/dataTables.bootstrap4.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "6FCE1D9B886C42A59B57F067462CBFAF",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/js\/sb-admin-2.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "692759BD120E46C19C2F4B63F59E7C4B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/Logo1.png",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "A5434FA409944D20861B208F946A4E15",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/css\/sb-admin-3.min.css",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "EA1C007DB12A42858A321CBD25FBE2D7",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/datatables\/jquery.dataTables.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "A60452B0F4C248009C9990EB01D7687C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/js\/sb-admin-2.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "CBBD68EAE25E4AABB674F9161C57D801",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/datatables\/jquery.dataTables.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "B88AB6632A954480B541323B7FF8D373",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/jquery\/jquery.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "53D1DAC94C294D55862EB4C17E74B62C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/jquery\/jquery.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "EB7E1DCD185B4233B68A3CBBEC5B404A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "611FD503B09240D48E8BEBDB0F10CEA4",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "BA4465A022A242CBBC34045431E5D893",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/datatables\/dataTables.bootstrap4.min.css",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "9A854324560B43EFB2CB47E747E00D50",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/jquery-easing\/jquery.easing.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "AE1FC93794CE472E96289D24D512F580",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/fontawesome-free\/webfonts\/fa-solid-900.woff",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "49222CAEBFF34E73B0191AF31C48423B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/lib\/bootstrap\/dist\/js\/bootstrap.bundle.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "D7D98A071B1E4D5E959992143EE6755B",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/fontawesome-free\/css\/all.min.css",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "18779393BB0745E7BAABF9160E36BC78",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/js\/demo\/datatables-demo.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "53E473BDFC554022B1F0E17E86862251",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/lib\/bootstrap\/dist\/css\/bootstrap.min.css",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "00485F33911943469AC1FE4B9F9468F4",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/bootstrap\/js\/bootstrap.bundle.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "6B34976B9262414CBF5F3DDCDA26371A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/lib\/jquery\/dist\/jquery.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "9B4B72BDB7E4423389CCF735D8BD6A63",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Home\/Dashboard",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "E222DD390DDC4272918EC03E759CADCB",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "D2DBCBD7856E4F96A19D18322B9FE9DC",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/lib\/jquery\/dist\/jquery.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "FE1A7F88B7024E12BB3EEB3259647FE1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Create",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "AB8719EE174644EAA3CFF6A9317EA623",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/fontawesome-free\/webfonts\/fa-solid-900.woff2",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "28039CCB3F2E44C7B3633C0E83F2135D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/List",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "POST"
+},
+{
+"DbId": "42884112227449ABAE61EE90A46FB43A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/ConsentManagement\/ConsentForm",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "F7338820AF0E4D92984961119173F73D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "6D6989FCFB5A477F9493B1A126BB1579",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "D2D55371CEF1445F93EB7A3E8BB36374",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/fontawesome-free\/webfonts\/fa-solid-900.ttf",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "607D4A56B58240FA846F8212A2CB7359",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "6D6989FCFB5A477F9493B1A126BB1579",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "AF7E0D3DE958452BB5DC901AF1348931",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/ConsentSaveResultPartial",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "POST"
+},
+{
+"DbId": "97E1CCD598694437918F9BAF21DFD4BF",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/ConsentFormSelectPartial",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "POST"
+},
+{
+"DbId": "5440C86813D44AC4968265B163A34C29",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/consentmanagementsystem\/500.htm",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "A4862621EA754727B13B917ED0373F67",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/ConsentManagement\/ShowConsentDetailPartial",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "POST"
+},
+{
+"DbId": "95912E411E3F404B9684F9199C7696A3",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/datatables\/dataTables.bootstrap4.min.css",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "034D303FEF0D4F5CB534D0A036FB3983",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/lib\/bootstrap\/dist\/js\/bootstrap.bundle.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "07C8A012523647C3992B1907CA5D06C2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/jquery-easing\/jquery.easing.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "9C4D996FBCD245F9AAA96697250A50DC",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/lib\/jquery\/dist\/jquery.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "90AE9A8533024D938BAA0FA16638F6B9",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "6D6989FCFB5A477F9493B1A126BB1579",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/phpinfo.php",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "45ED6329C4994187B92F63B1E792A621",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/bootstrap\/js\/bootstrap.bundle.min.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "EE2733CBA74B492EADCAC140427C408F",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/fontawesome-free\/css\/all.min.css",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "FEE70DA954174253830FD73157D55FED",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/js\/demo\/datatables-demo.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "CBC07C72B6274855BD8ADA6553A64D21",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/lib\/bootstrap\/dist\/css\/bootstrap.min.css",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "09F0E4D64F854043B880E5A9224E2590",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/lib\/jquery\/dist\/jquery.js",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "6831C727BB38412FBD435DDC2DECEC39",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/favicon.png",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "37FB9CB6EA704106B901E34AAC8A73C2",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/fontawesome-free\/webfonts\/fa-solid-900.woff",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "2A597CC3164F43ED987767F94A686AC0",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "A76124F9FEEC4345BAC235947DBDE4B5",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/List",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "POST"
+},
+{
+"DbId": "735CB7DAFEC24D53B3F19B60B0BA0CB8",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Create",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "9CF125904AA54C5C88B686D5653AEA77",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/ConsentFormSelectPartial",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "POST"
+},
+{
+"DbId": "FBB2DE24C10B439FA07F1A3B7598B03D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Home\/Dashboard",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "AA88828435C344BFA8D99F5831BB85C0",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/fontawesome-free\/webfonts\/fa-solid-900.ttf",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "A1F861A52B164BB497437155F0617186",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/ConsentSaveResultPartial",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "POST"
+},
+{
+"DbId": "E57EE3CE61C94CE7BF9BD12665F5CD76",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Content\/vendor\/fontawesome-free\/webfonts\/fa-solid-900.woff2",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "E55A42ED8C1D4CFAA66B2B81C3D6FD39",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/ConsentManagement\/ConsentForm",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "C6938D83CD7B4E99902C06952EC69F92",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Edit",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "POST"
+},
+{
+"DbId": "07E22DD214EF4270A6EAA5D27C022B0A",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/consentmanagementsystem\/500.htm",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "4CB0364F39CD4D459C131EE8580955EE",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/ConsentManagement\/ShowConsentDetailPartial",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "POST"
+},
+{
+"DbId": "77F2212351C5451694E94D5E8DF7BAA3",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Edit",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+},
+{
+"DbId": "BFD5BB9308F049799CA33874ADFD7B62",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "6D6989FCFB5A477F9493B1A126BB1579",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/phpinfo.php",
+"ParameterName": "Unnamed",
+"ParameterLocation": "Query",
+"Method": "GET"
+},
+{
+"DbId": "923CB919A024474C8F720DA27C8D760C",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/ConsentUpdateResultPartial",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "POST"
+},
+{
+"DbId": "81F32D9BCB684DDBB7056117B3A4F2B1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/ConsentUpdateResultPartial",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "POST"
+},
+{
+"DbId": "33ABC141D1D347B3994E163DA82830E1",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Login\/LogInProcess",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "POST"
+},
+{
+"DbId": "06FE241EC0964671A128192005A0A26D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Login\/LogInProcess",
+"ParameterName": "Set-Cookie: ASP.NET_SessionId",
+"ParameterLocation": "",
+"Method": "POST"
+},
+{
+"DbId": "D5F77F5943D74D2380C69D7CBAECE567",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/Login\/LogInProcess",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "POST"
+},
+{
+"DbId": "5914D9C12C3A4BCBB29653634DEE339D",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"WebSiteReference": "1E8B10C25442451FBCA107BDE3E1E824",
+"Path": "http:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/login\/logout",
+"ParameterName": "",
+"ParameterLocation": "",
+"Method": "GET"
+}
+]
+}

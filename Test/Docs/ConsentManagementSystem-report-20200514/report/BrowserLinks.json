@@ -1,0 +1,110 @@
+{
+"BrowserLinkList":
+[
+{
+"DbId": "CB315D438F6F4B35AE2A8F14E9BF0C2D",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem"
+},
+{
+"DbId": "C39A77CCB3E5413E9F3539379EC0B48E",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/"
+},
+{
+"DbId": "A3CC7C8A06AA4E0687EDFB8112858FFC",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/ConsentManagement\/ConsentForm"
+},
+{
+"DbId": "16082E9375A8431E8AD654FD50F93D65",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/List"
+},
+{
+"DbId": "D824AB94A7114BB59B18DA365EB0A49F",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Create"
+},
+{
+"DbId": "755DED15E0CC41C5AF353DBC844FC760",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Create?accountNo=20&ConsentForm=6c074227-be2c-4592-8775-26932aca5dde"
+},
+{
+"DbId": "8E3DEC4A972640FDA25D661CD49EEFD3",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystemundefined"
+},
+{
+"DbId": "DD2877B29DA8472280746733C76545F6",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem#"
+},
+{
+"DbId": "B260D3F439C44408A4B0ABA631CC7256",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Createundefined"
+},
+{
+"DbId": "79A5D61515A24BC9982B1A055F4EB064",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Create#"
+},
+{
+"DbId": "90F74A62C44F4811B1E16BDBF24DF620",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/undefined"
+},
+{
+"DbId": "716769505B0844A38299CAC822A15FCF",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/#"
+},
+{
+"DbId": "DEB64F49BD014758A6B3196DB43F46BE",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/ConsentManagement\/ConsentForm#"
+},
+{
+"DbId": "3CE202F8560842EBB2F5568F75EDCAB0",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/ConsentManagement\/ConsentFormundefined"
+},
+{
+"DbId": "1FBAD8E400C84EB8848871374DAA29D9",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/List#"
+},
+{
+"DbId": "5C7031D787024D66ADBCB33A301100C8",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Listundefined"
+},
+{
+"DbId": "C45799BB6F05404AA167E9FF4B6E4449",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Create?accountNo=20&ConsentForm=6c074227-be2c-4592-8775-26932aca5dde&consentFormIDStr=6c074227-be2c-4592-8775-26932aca5dde&consentIDStr=5d3e3ec1-9f06-4e33-81b1-b3485c443"
+},
+{
+"DbId": "9B67D899394549BCB0263975E0A9B554",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Edit"
+},
+{
+"DbId": "7A63C49D4EB3460FBB9857B2DA203357",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Editundefined"
+},
+{
+"DbId": "1FE72A92673B44B597015077C7771804",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/List?Order=5d3e3ec1-9f06-4e33-81b1-b3485c44335d&Order=40120a0e-9081-4fed-853a-dfda90e81542&Order=6dabe227-3a56-4fa7-bdfe-76c2be2844ea&Order=5548f26a-e91e-4564-a60f-4c957"
+},
+{
+"DbId": "EDB49A2A66C64340B577A07B3484D837",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"Link": "https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/List?accountNo=A2222&consentIDStr=5d3e3ec1-9f06-4e33-81b1-b3485c44335d%2C40120a0e-9081-4fed-853a-dfda90e81542%2C6dabe227-3a56-4fa7-bdfe-76c2be2844ea%2C5548f26a-e91e-4564"
+}
+]
+}

@@ -1,0 +1,317 @@
+{
+"WebSiteList":
+[
+{
+"DbId": "1E8B10C25442451FBCA107BDE3E1E824",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"WebServerType": "",
+"HostName": "backofficedev.asiaplus.co.th",
+"Protocol": "https",
+"IP": "172.28.8.31",
+"Port": 443,
+"LicenseApplied": 1,
+"AllowedToCrawl": 1,
+"HostIsReverseLookup": 0,
+"TechnologyTargets":
+{
+"DbId": "AAF606700A6945D4ABF1D33F06E464E9",
+"ParentDbId": "1E8B10C25442451FBCA107BDE3E1E824"
+},
+"P3PInfo":
+{
+"DbId": "FC5CBD0BE17C4E248EF9D9DA639B7461",
+"ParentDbId": "1E8B10C25442451FBCA107BDE3E1E824",
+"PolicyRef": "",
+"CP": ""
+}
+},
+{
+"DbId": "6D6989FCFB5A477F9493B1A126BB1579",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"WebServerType": "",
+"HostName": "backofficedev.asiaplus.co.th",
+"Protocol": "http",
+"IP": "172.28.8.31",
+"Port": 80,
+"LicenseApplied": 1,
+"AllowedToCrawl": 1,
+"HostIsReverseLookup": 0,
+"TechnologyTargets":
+{
+"DbId": "C4E6BF1110484AA98E54551C512E5D85",
+"ParentDbId": "6D6989FCFB5A477F9493B1A126BB1579"
+},
+"P3PInfo":
+{
+"DbId": "1A37242911AC4E5CAE781F43D1A9BDFC",
+"ParentDbId": "6D6989FCFB5A477F9493B1A126BB1579",
+"PolicyRef": "",
+"CP": ""
+}
+},
+{
+"DbId": "CC6687F97E084D489DC792FBCBC2C9C6",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"WebServerType": "",
+"HostName": "fonts.googleapis.com",
+"Protocol": "https",
+"IP": "172.217.166.138",
+"Port": 443,
+"LicenseApplied": 1,
+"AllowedToCrawl": 0,
+"HostIsReverseLookup": 0,
+"TechnologyTargets":
+{
+"DbId": "67075A6961E041A4A8A87E7E2D1B1B34",
+"ParentDbId": "CC6687F97E084D489DC792FBCBC2C9C6"
+},
+"P3PInfo":
+{
+"DbId": "B5B00C885A5740E3A11ADE6C4E2A4641",
+"ParentDbId": "CC6687F97E084D489DC792FBCBC2C9C6",
+"PolicyRef": "",
+"CP": ""
+}
+},
+{
+"DbId": "B3EBC6D079694A3EBD917F3DA46B2C79",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"WebServerType": "",
+"HostName": "github.com",
+"Protocol": "https",
+"IP": "0.0.0.0",
+"Port": 443,
+"LicenseApplied": 0,
+"AllowedToCrawl": 0,
+"HostIsReverseLookup": 0,
+"TechnologyTargets":
+{
+"DbId": "C7F3F2C27B4A4859AFF9ADE937F61621",
+"ParentDbId": "B3EBC6D079694A3EBD917F3DA46B2C79"
+},
+"P3PInfo":
+{
+"DbId": "3042FF236D4F4828A95FA00966554D2B",
+"ParentDbId": "B3EBC6D079694A3EBD917F3DA46B2C79",
+"PolicyRef": "",
+"CP": ""
+}
+},
+{
+"DbId": "29BF1157337A4525B2838220AE7A1C13",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"WebServerType": "",
+"HostName": "docs.microsoft.com",
+"Protocol": "https",
+"IP": "0.0.0.0",
+"Port": 443,
+"LicenseApplied": 0,
+"AllowedToCrawl": 0,
+"HostIsReverseLookup": 0,
+"TechnologyTargets":
+{
+"DbId": "10C2055A9AB0412181E36F210679CD62",
+"ParentDbId": "29BF1157337A4525B2838220AE7A1C13"
+},
+"P3PInfo":
+{
+"DbId": "34D245F245CB4A249206D672E28CA1BD",
+"ParentDbId": "29BF1157337A4525B2838220AE7A1C13",
+"PolicyRef": "",
+"CP": ""
+}
+},
+{
+"DbId": "8A1B9765E53A405596E3BB16CDE8E037",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"WebServerType": "",
+"HostName": "fontawesome.com",
+"Protocol": "https",
+"IP": "0.0.0.0",
+"Port": 443,
+"LicenseApplied": 0,
+"AllowedToCrawl": 0,
+"HostIsReverseLookup": 0,
+"TechnologyTargets":
+{
+"DbId": "1627B015FA104656BB61EC360885B44C",
+"ParentDbId": "8A1B9765E53A405596E3BB16CDE8E037"
+},
+"P3PInfo":
+{
+"DbId": "F5C11055B74C429FB7CE603394535C9E",
+"ParentDbId": "8A1B9765E53A405596E3BB16CDE8E037",
+"PolicyRef": "",
+"CP": ""
+}
+},
+{
+"DbId": "7A81892FFB3D4933ACFF256F9AB5DB80",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"WebServerType": "",
+"HostName": "startbootstrap.com",
+"Protocol": "https",
+"IP": "0.0.0.0",
+"Port": 443,
+"LicenseApplied": 0,
+"AllowedToCrawl": 0,
+"HostIsReverseLookup": 0,
+"TechnologyTargets":
+{
+"DbId": "DEAA8332550F4AE0B24DA7B93A59D421",
+"ParentDbId": "7A81892FFB3D4933ACFF256F9AB5DB80"
+},
+"P3PInfo":
+{
+"DbId": "DD9CE7201C02454FBFDD1020E4C8CD3F",
+"ParentDbId": "7A81892FFB3D4933ACFF256F9AB5DB80",
+"PolicyRef": "",
+"CP": ""
+}
+},
+{
+"DbId": "B66CA51389F745AB8E81BDBF01315B6E",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"WebServerType": "",
+"HostName": "jquery.org",
+"Protocol": "https",
+"IP": "0.0.0.0",
+"Port": 443,
+"LicenseApplied": 0,
+"AllowedToCrawl": 0,
+"HostIsReverseLookup": 0,
+"TechnologyTargets":
+{
+"DbId": "644D5855D4044F9E90DFB3054F9AD8C0",
+"ParentDbId": "B66CA51389F745AB8E81BDBF01315B6E"
+},
+"P3PInfo":
+{
+"DbId": "9FC85C2D7F7D443E806B1A265EA0A0C7",
+"ParentDbId": "B66CA51389F745AB8E81BDBF01315B6E",
+"PolicyRef": "",
+"CP": ""
+}
+},
+{
+"DbId": "B351EE6B8A8C446B8302DAA0A9DA0959",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"WebServerType": "",
+"HostName": "datatables.net",
+"Protocol": "http",
+"IP": "0.0.0.0",
+"Port": 80,
+"LicenseApplied": 0,
+"AllowedToCrawl": 0,
+"HostIsReverseLookup": 0,
+"TechnologyTargets":
+{
+"DbId": "9EF49C253DAA4404869729A6D425D8B8",
+"ParentDbId": "B351EE6B8A8C446B8302DAA0A9DA0959"
+},
+"P3PInfo":
+{
+"DbId": "E4FC1703677642CDBE4465F77D213332",
+"ParentDbId": "B351EE6B8A8C446B8302DAA0A9DA0959",
+"PolicyRef": "",
+"CP": ""
+}
+},
+{
+"DbId": "1457B6C4BF3F417283F830942E39F1C3",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"WebServerType": "",
+"HostName": "fonts.gstatic.com",
+"Protocol": "https",
+"IP": "0.0.0.0",
+"Port": 443,
+"LicenseApplied": 0,
+"AllowedToCrawl": 0,
+"HostIsReverseLookup": 0,
+"TechnologyTargets":
+{
+"DbId": "A3C914BFC0834CDEB915F964C188589B",
+"ParentDbId": "1457B6C4BF3F417283F830942E39F1C3"
+},
+"P3PInfo":
+{
+"DbId": "F2F51461B66E4ED789D4F87C6D62D769",
+"ParentDbId": "1457B6C4BF3F417283F830942E39F1C3",
+"PolicyRef": "",
+"CP": ""
+}
+},
+{
+"DbId": "72EF3684A21743C8A50CBCEE6CBBAF46",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"WebServerType": "",
+"HostName": "www.w3.org",
+"Protocol": "http",
+"IP": "0.0.0.0",
+"Port": 80,
+"LicenseApplied": 0,
+"AllowedToCrawl": 0,
+"HostIsReverseLookup": 0,
+"TechnologyTargets":
+{
+"DbId": "27287D3627A0485F8EE293B368034C94",
+"ParentDbId": "72EF3684A21743C8A50CBCEE6CBBAF46"
+},
+"P3PInfo":
+{
+"DbId": "91CB8A96B1A14E48AA1EED8DEBBCF4F1",
+"ParentDbId": "72EF3684A21743C8A50CBCEE6CBBAF46",
+"PolicyRef": "",
+"CP": ""
+}
+},
+{
+"DbId": "404C95D41CAA4B3190DF901E03309C8E",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"WebServerType": "",
+"HostName": "www.zend.com",
+"Protocol": "http",
+"IP": "0.0.0.0",
+"Port": 80,
+"LicenseApplied": 0,
+"AllowedToCrawl": 0,
+"HostIsReverseLookup": 0,
+"TechnologyTargets":
+{
+"DbId": "5E95A576AC234EE68B2E4EAA1B1E5ABB",
+"ParentDbId": "404C95D41CAA4B3190DF901E03309C8E"
+},
+"P3PInfo":
+{
+"DbId": "28A3D21A49814727AA1F6E780A16B45F",
+"ParentDbId": "404C95D41CAA4B3190DF901E03309C8E",
+"PolicyRef": "",
+"CP": ""
+}
+},
+{
+"DbId": "F83EA0F02C6E4FF49E4C85F892FB6D3E",
+"ParentDbId": "CC5D7FB689BA41349200622C3629CF83",
+"WebServerType": "",
+"HostName": "www.php.net",
+"Protocol": "http",
+"IP": "0.0.0.0",
+"Port": 80,
+"LicenseApplied": 0,
+"AllowedToCrawl": 0,
+"HostIsReverseLookup": 0,
+"TechnologyTargets":
+{
+"DbId": "CC7748F244FC473FB7547E048EA6C306",
+"ParentDbId": "F83EA0F02C6E4FF49E4C85F892FB6D3E"
+},
+"P3PInfo":
+{
+"DbId": "B3EC789E11DC452BB775F4F3FDEF4921",
+"ParentDbId": "F83EA0F02C6E4FF49E4C85F892FB6D3E",
+"PolicyRef": "",
+"CP": ""
+}
+}
+]
+}

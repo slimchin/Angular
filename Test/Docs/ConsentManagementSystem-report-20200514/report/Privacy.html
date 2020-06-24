@@ -1,0 +1,722 @@
+<html>
+	<head>
+		<meta http-equiv="NTORender-Type" content="html">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>AppSpider Report (Build 7.2.112.1)</title>
+		<link rel="stylesheet" type="text/css" href="images/report.css" title="Default">
+		<!--This report was generated with the .NET database processor.-->
+		<meta name="save" content="snapshot">
+		<style type="text/css">
+			.snapshot { behavior:url(#default#savesnapshot); }
+			.disableSnapshot { behavior: none; }
+		
+		    /* Tooltip container */
+            .tooltip {
+                position: relative;
+                display: inline-block;
+                background:none;
+                /* border-bottom: 1px dotted black;  If you want dots under the hoverable text */
+            }
+
+            /* Tooltip text */
+            .tooltip .tooltiptext {
+                visibility: hidden;
+                width: 120px;
+                background-color: #555;
+                color: #fff;
+                text-align: center;
+                padding: 5px 0;
+                border-radius: 6px;
+
+                /* Position the tooltip text */
+                position: absolute;
+                z-index: 1;
+                bottom: 125%;
+                left: 50%;
+                margin-left: -60px;
+
+                /* Fade in tooltip */
+                opacity: 0;
+                transition: opacity 1s;
+            }
+
+            /* Tooltip arrow */
+            .tooltip .tooltiptext::after {
+                content: "";
+                position: absolute;
+                top: 100%;
+                left: 50%;
+                margin-left: -5px;
+                border-width: 5px;
+                border-style: solid;
+                border-color: #555 transparent transparent transparent;
+            }
+
+            /* Show the tooltip text when you mouse over the tooltip container */
+            .tooltip:hover .tooltiptext {
+                visibility: visible;
+                opacity: 1;
+            }
+		
+		</style>
+        <script type="text/javascript" src="images/boilerplate.js"></script>
+		<script type="text/javascript"><!--
+
+		-->
+		</script>
+	</head>
+	<body onload="javscript: updateExpandAllText(); cursor_clear(); if (self.CheckValidateAppletCapability){ CheckValidateAppletCapability(); }">
+		
+		<SCRIPT type="text/javascript">
+			cursor_wait();
+		</SCRIPT>
+		<img id="image_plus" src="images/collapse_plus.png" style="display:none;">
+		<img id="image_plus_all" src="images/collapseall_plus.png" style="display:none;">
+		<img id="image_minus" src="images/collapse_minus.png" style="display:none;">
+		<img id="image_minus_all" src="images/collapseall_minus.png" style="display:none;">
+		
+		<a name="top"></a>
+		<a href="index.html">
+			<div class="report_banner">
+				<div id="report_banner_logo">
+					<img src="images/head_logo.png" height="77" border="0">
+				</div>
+			</div>
+		</a>
+
+		<div class="report_frame_1">
+			<div class="scan_header">
+				<h1>Privacy Report</h1>
+				<table cellpadding="0" cellspacing="0">
+					<tr>
+						<td style="width: 50%; vertical-align: top;">
+							<div style="padding:1px; text-align: center; vertical-align: middle;">
+								<table cellpadding="1" cellspacing="0">
+									<tr>
+										<td class="boldtext_grey" style="width: 50%; text-align: left; vertical-align: middle; font-size: 16;" nowrap>&nbsp;Scan Name:</td>
+										<td style="width: 50%; text-align: left; vertical-align: middle; font-size: 16;"><b>ConsentManagementSystem</b></td>
+									</tr>
+									<tr class="alternate_odd">
+										<td class="boldtext_grey" style="width: 50%; text-align: left; vertical-align: middle;">&nbsp;Date:</td>
+										<td style="width: 50%; text-align: left; vertical-align: middle;">14/05/2020 9:49:42 AM</td>
+									</tr>
+									<tr class="alternate_even">
+										<td class="boldtext_grey" style="width: 50%; text-align: left; vertical-align: middle;">&nbsp;Authenticated User:</td>
+										<td style="width: 50%; text-align: left; vertical-align: middle;">Authentication with Macro: ConsentManagementSystem.rec</td>
+									</tr>
+									<tr class="alternate_odd">
+										<td class="boldtext_grey" style="width: 50%; text-align: left; vertical-align: middle;">&nbsp;Total Links / Attackable Links:</td>
+										<td style="width: 50%; text-align: left; vertical-align: middle;">107 / 107</td>
+									</tr>
+									<tr class="alternate_even">
+										<td class="boldtext_grey" style="width: 20%; text-align: left; vertical-align: middle;">&nbsp;Target URL:</td>
+										<td style="width: 80%; text-align: left; vertical-align: middle;"><textarea rows="3" cols="50" readonly="1">https://backofficedev.asiaplus.co.th/ConsentManagementSystem&#10;http://backofficedev.asiaplus.co.th/ConsentManagementSystem</textarea></td>
+									</tr>
+									<tr class="alternate_odd">
+										<td class="boldtext_grey" style="width: 20%; text-align: left; vertical-align: top;">&nbsp;Reports:</td>
+										<td style="width: 80%; text-align: left; vertical-align: top;">
+											<form name="hostListForm">
+												<select name="hostlist" onChange="javascript: var gotourl = this.options[this.selectedIndex].value; this.selectedIndex = 0; top.location.href = gotourl;">
+													<option value="#">Select Report</option>
+													<option value="index.html">&nbsp;Scan Results Home</option>
+													<option value="ExecutiveSummary.html">&nbsp;Executive Summary</option>
+													<option value="RemediationSummary.html">&nbsp;Remediation Summary</option>
+													<option value="AppThreatModeling.html">&nbsp;Application Threat Modeling</option>
+<option value="Reflection.html">&nbsp;Reflection Report</option>
+
+<option value="Vulnerabilities.html">&nbsp;Vulnerabilities</option>
+
+													<optgroup label="Remediation Reports:">
+														<option value="Application.html">&nbsp;Application Developer</option>
+														<option value="ApplicationByUrl.html">&nbsp;Application Developer by URL</option>
+														<option value="Server.html">&nbsp;Server Administrator</option>
+													</optgroup>
+
+													<optgroup label="Best Practices and Compliance Reports:">
+														<option value="BestPractices.html">&nbsp;Best Practices</option>
+														<option value="Privacy.html">&nbsp;Privacy</option>
+														<option value="PCI31.html">&nbsp;PCI 3.2</option>
+														<option value="SOX.html">&nbsp;SOX</option>
+														<option value="HIPAA.html">&nbsp;HIPAA</option>
+														<option value="DISASTIG.html">&nbsp;DISA - STIG</option>
+														<option value="GLB.html">&nbsp;GLBA</option>
+														<option value="OWASP2017.html">&nbsp;OWASP Top Ten 2017</option>
+														<option value="GDPR.html">&nbsp;GDPR</option>
+														<option value="FISMA.html">&nbsp;FISMA</option>
+														<option value="CWESANS.html">&nbsp;CWESANS</option>
+													</optgroup>
+
+
+													<optgroup label="Extra Reports:">
+
+
+<option value="SiteLinks.html">&nbsp;Site Links &amp; Interdependencies</option>
+														<option value="AllLinks.html">&nbsp;All Links Report</option>
+														<option value="StatusAndConfig.html">&nbsp;Status and Configuration</option>
+													</optgroup>
+												</select>
+											</form>
+										</td>
+									</tr>
+								</table>
+							</div>
+						</td>
+						<td style="align: center; vertical-align: middle; width: 50%;">
+							<div style="padding:1px; text-align: center; vertical-align: middle;">
+								<div class="graph_box background_white" style="width: 95%;">
+									<a href="Vulnerabilities.html"><h4>Security Status - Partial</h4></a>
+									<div class="section_box_white">
+										<table cellpadding="0" cellspacing="0">
+											<tr>
+												<td style="width: 30%; text-align: center;"><span title="Link to Vulnerability Report"><a class="jewel" href="Vulnerabilities.html">Vulnerability<br/><img src="images/level_3-Med.png"></a></span></td>
+												<td style="width: 5%;"></td>
+												<td style="width: 30%; text-align: center;"><span title="Link to Best Practices report"><a href="BestPractices.html" class="jewel">Best Practice<br/><img src="images/level_2-Low.png"></a></span></td>
+												<td style="width: 5%;"></td>
+												<td style="width: 30%; text-align: center;"><span title="Link to Application Threat Modeling report"><a href="AppThreatModeling.html" class="jewel">Exposure<br/><img src="images/level_4-High.png"></a></span></td>
+											</tr>
+										</table>
+										<!--<br/>
+										<table cellpadding="0" cellspacing="0">
+											<tr>
+												<td style="width: 50%; text-align: center;"><span title="Vulnerability Trend"><b>Vulnerability Trend</b></span></td>
+												<td style="width: 50%; text-align: center;"><span title="Trending by Vuln"><img src="images/techsummary_trend_byvulns.png"></span></td>
+											</tr>
+										</table>-->
+									</div>
+								</div>
+							</div>
+						</td>
+					</tr>
+				</table>
+
+
+
+			</div>
+			<div id="ValidateAppletWrapper" name="ValidateAppletWrapper" style="display: block;"></div>
+
+
+
+			<div class="header3">
+				<h2>Summary</h2>
+			</div>
+			<br/>
+			<table cellpadding="0" cellspacing="0">
+				<tr height="2">
+					<td align="left" width="85%"></td>
+				</tr>
+				<tr>
+					<td align="left" width="85%" height="58">
+						<table cellpadding="0" cellspacing="0" align="center">
+							<tr>
+								<td class="graph_box">
+																		<table cellpadding="0" cellspacing="0" class="finding_type_table">
+										<tr>
+											<td style="width:70%;">
+												<h4 style="text-align: left;">Finding Type</h4>
+											</td>
+											<td nowrap style="width:20%;" colspan="3">
+												<h4>Root Causes</h4>
+											</td>
+											<td nowrap style="width:10%;" colspan="3">
+												<h4>Variances</h4>
+											</td>
+										</tr>
+											<tr>
+												<td class="boldtext" style="text-align: left; vertical-align: top;">
+													<a href="Privacy.html#SENSITIVEPERSONALINFORMATION_">Collecting Sensitive Personal Information</a>
+												</td>
+												<td>&nbsp;</td><td class="finding_type_table_row">3</td><td>&nbsp;</td>
+												<td>&nbsp;</td><td class="finding_type_table_row">5</td><td>&nbsp;</td>
+											</tr>
+											<tr>
+												<td class="boldtext" style="text-align: left; vertical-align: top;">
+													<a href="Privacy.html#EMAILADDRESS_">Email Address</a>
+												</td>
+												<td>&nbsp;</td><td class="finding_type_table_row">1</td><td>&nbsp;</td>
+												<td>&nbsp;</td><td class="finding_type_table_row">1</td><td>&nbsp;</td>
+											</tr>
+
+										<tr>
+											<td class="boldtext" style="text-align: right;">Total:</td>
+											<td>&nbsp;</td><td class="finding_type_table_row">4</td><td>&nbsp;</td>
+											<td>&nbsp;</td><td class="finding_type_table_row">6</td><td>&nbsp;</td>
+										</tr>
+									</table>
+
+								</td>
+								<td class="graph_box_divide"></td>
+								<td class="graph_box">
+									<h4>By Risk</h4>
+									<div class="section_box_white">
+										<table cellpadding="2" cellspacing="0" align="center">
+											<tr>
+												<td align="left" valign="middle" width="1%" class="boldtext_grey" nowrap>Variances: 6</td>
+												<td align="center" width="99%">
+													<img src="images/privacy.png">
+												</td>
+											</tr>
+										</table>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<table cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="100%" height="8"></td>
+				</tr>
+			</table>
+			<!-- <hr size="4" width="80%"> -->
+
+
+			<div class="header3">
+				<h2>Details</h2>
+			</div>
+			<div class="snapshot" id="PRIVACY_display" style="display:none; text-align: right; vertical-align: bottom;">
+				<span class="snapshot" id="PRIVACY_display_text">&nbsp;&nbsp;&nbsp;Collapse All</span>
+				<span>Attacks</span>
+				<a href="javascript: ExpandAllInReport('PRIVACY');"><img style="vertical-align: bottom;" class="snapshot" id="PRIVACY_icon" src="images/collapseall_minus.png" title="Collapse All" alt="Collapse All"></a>
+			</div>
+			<div class="snapshot" id="PRIVACY_undisplay">
+				<br/>
+			</div>
+			<a name="PRIVACY_1-Info"></a>
+			<script type="text/javascript">
+			//	<!---
+				addToExpandList("PRIVACY", "MID_15_0");
+			//	-->
+			</script>
+			<div class="border_lightgrey">
+				<a name="SENSITIVEPERSONALINFORMATION_"></a>
+				<table cellpadding="0" cellspacing="0" class="header4">
+					<tr>
+						<td align="left" width="*">
+							<h4 style="text-align: left;">
+							<a href="javascript: HideOrShowDivUpdateIcon('MID_15_0');" class="subheader"><img style="" class="snapshot" id="MID_15_0_icon" src="images/collapse_minus.png" title="Collapse" alt="Collapse"></a>
+						 	Collecting Sensitive Personal Information</h4>
+						</td>
+                        <td width="1%" align="right">
+                        
+                        <div class="tooltip"><img src="images/levelConf_4-High_text.png"/>
+                            <span class="tooltiptext">Confidence</span>
+                        </div></td>
+						<td width="148" align="right">
+                        <div class="tooltip"><img src="images/level_1-Info_text.png">
+                            <span class="tooltiptext">Severity</span>
+                        </div></td>
+					</tr>
+				</table>
+
+				<div class="snapshot" id="MID_15_0">
+					<span style="display:none;">some text</span>
+					<script type="text/javascript">
+					//	<!--
+						addToExpandList("PRIVACY", "WMID_0_15_0");
+					//	-->
+					</script>
+					<div class="border_lightgrey">
+						<h5>&nbsp;&nbsp;<a href="javascript: HideOrShowDivUpdateIcon('WMID_0_15_0');" class="subheader"><img style="" class="snapshot" id="WMID_0_15_0_icon" src="images/collapse_minus.png" title="Collapse" alt="Collapse"></a>&nbsp;Site: https://backofficedev.asiaplus.co.th:443</h5>
+						<div class="snapshot" id="WMID_0_15_0">
+							<a name="V_CC1BDA7B669748648EAAC771391F2BF1"></a>
+							<a name="PSI_18b_C6771DA4079843E491D11EF8E684CE84"></a>
+							<div class="border_lightgrey">
+								<table cellpadding="0" cellspacing="0" class="header6">
+									<tr class="background_finding">
+										<td width="*" height="19" class="subheader background_finding" style="font-size:12; text-align: left;"><span class="text_finding_light">URL: https://backofficedev.asiaplus.co.th/Cons<wbr/>entManagementSystem</span></td>
+										<td align="right" width="35%" class="background_finding"><span class="text"><span class="text_finding_dark">Root Cause #149:&nbsp;</span><span class="text_finding_light">(1 Attack Variance)&nbsp;</span></span></td>
+                                        <td align="right" width="128" height="19" class="subheader background_finding" style="color:#000000; font-size:12;">
+											<img src="images/levelConf_4-High_text.png"/>
+										</td>
+										<td align="right" width="148" height="19" class="subheader background_finding" style="color:#000000; font-size:12;">
+											<img src="images/level_1-Info_text.png">
+											<a href="javascript: HideOrShowDivUpdateIcon('GID_149_0');" class="subheader"><img style="" class="snapshot" id="GID_149_0_icon" src="images/collapse_plus.png" title="Expand" alt="Expand"></a>
+										</td>
+									</tr>
+									<tr><td colspan="3"></td></tr>
+								</table>
+								<div class="snapshot" id="GID_149_0" style="display:none;">
+									<table cellpadding="0" cellspacing="0">
+										<tr>
+											<td class="border_lightgrey background_light" style="width: 13%; vertical-align: top;"><b>Attack Type</b></td>
+											<td class="border_lightgrey background_light" style="width: 10%; vertical-align: top;"><b>Original Value</b></td>
+											<td class="border_lightgrey background_light" style="width: 12%; vertical-align: top;"><b>Attack Value</b></td>
+                                            <td class="border_lightgrey background_light" style="width: 30%; vertical-align: top;"><b>Error Description</b></td>
+											<td class="border_lightgrey background_light" style="width: 35%; vertical-align: top; text-align: left;" colspan="2"><b>Error</b></td>
+										</tr>
+														<tr>
+															<td class="border_lightgrey" style="width: 13%; vertical-align: top;">Customer Authentication Credential (Password)</td>
+															<td class="border_lightgrey" style="width: 10%; vertical-align: top;"></td>
+															<td class="border_lightgrey" style="width: 12%; vertical-align: top;"></td>
+                                                            <td class="border_lightgrey" style="width: 30%; vertical-align: top;"></td>
+															<td class="border_lightgrey" colspan="2" style="width: 35%; vertical-align: top; text-align: left;">&lt;input class="form-control form-control-user" id="inputPassword" type="password" placeholder="Password" &gt;</td>
+														</tr>
+
+														<tr>
+															<td nowrap="nowrap" colspan="1" align="right"></td>
+															<td style="width: 1%;" nowrap="nowrap" colspan="4" align="right">
+																<img src="images/button_validate.png" border="0" style="display: none;" alt="Validate" title="Validate" id="BUTTON_vuln_group_071ACB354E4D4A278D2BDF30E845701F" oncontextmenu="return false;" onmousedown="javascript: appletStart(event, 'raw', 'https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem', false, 'https', 443, '');">
+															</td>
+														</tr>
+														<tr>
+															<td colspan="5">
+																<table cellpadding="0" cellspacing="0" class="background_very_light">
+																	<tr>
+																		<td style="vertical-align: top;" align="right"><b>Original Traffic</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+																		<td width="1%" align="right"><img id="trafficdiv_478_icon" src="images/collapse_plus.png" title="Expand" alt="Expand" onClick="javascript: ShowTraffic('C6771DA4079843E491D11EF8E684CE84', 478);"></td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+														<tr>
+															<td colspan="5"><div id="trafficdiv_478" style="display:none;"><div></td>
+														</tr>
+
+
+									</table>
+								</div>
+							</div>
+							<a name="V_F4857CE4E75A425A8B07593143E0D699"></a>
+							<a name="PSI_18b_12633C5CDD67471B853AE900FCCE018D"></a>
+							<div class="border_lightgrey">
+								<table cellpadding="0" cellspacing="0" class="header6">
+									<tr class="background_finding">
+										<td width="*" height="19" class="subheader background_finding" style="font-size:12; text-align: left;"><span class="text_finding_light">URL: https://backofficedev.asiaplus.co.th/Cons<wbr/>entManagementSystem/</span></td>
+										<td align="right" width="35%" class="background_finding"><span class="text"><span class="text_finding_dark">Root Cause #150:&nbsp;</span><span class="text_finding_light">(1 Attack Variance)&nbsp;</span></span></td>
+                                        <td align="right" width="128" height="19" class="subheader background_finding" style="color:#000000; font-size:12;">
+											<img src="images/levelConf_4-High_text.png"/>
+										</td>
+										<td align="right" width="148" height="19" class="subheader background_finding" style="color:#000000; font-size:12;">
+											<img src="images/level_1-Info_text.png">
+											<a href="javascript: HideOrShowDivUpdateIcon('GID_150_0');" class="subheader"><img style="" class="snapshot" id="GID_150_0_icon" src="images/collapse_plus.png" title="Expand" alt="Expand"></a>
+										</td>
+									</tr>
+									<tr><td colspan="3"></td></tr>
+								</table>
+								<div class="snapshot" id="GID_150_0" style="display:none;">
+									<table cellpadding="0" cellspacing="0">
+										<tr>
+											<td class="border_lightgrey background_light" style="width: 13%; vertical-align: top;"><b>Attack Type</b></td>
+											<td class="border_lightgrey background_light" style="width: 10%; vertical-align: top;"><b>Original Value</b></td>
+											<td class="border_lightgrey background_light" style="width: 12%; vertical-align: top;"><b>Attack Value</b></td>
+                                            <td class="border_lightgrey background_light" style="width: 30%; vertical-align: top;"><b>Error Description</b></td>
+											<td class="border_lightgrey background_light" style="width: 35%; vertical-align: top; text-align: left;" colspan="2"><b>Error</b></td>
+										</tr>
+														<tr>
+															<td class="border_lightgrey" style="width: 13%; vertical-align: top;">Customer Authentication Credential (Password)</td>
+															<td class="border_lightgrey" style="width: 10%; vertical-align: top;"></td>
+															<td class="border_lightgrey" style="width: 12%; vertical-align: top;"></td>
+                                                            <td class="border_lightgrey" style="width: 30%; vertical-align: top;"></td>
+															<td class="border_lightgrey" colspan="2" style="width: 35%; vertical-align: top; text-align: left;">&lt;input class="form-control form-control-user" id="inputPassword" type="password" placeholder="Password" &gt;</td>
+														</tr>
+
+														<tr>
+															<td nowrap="nowrap" colspan="1" align="right"></td>
+															<td style="width: 1%;" nowrap="nowrap" colspan="4" align="right">
+																<img src="images/button_validate.png" border="0" style="display: none;" alt="Validate" title="Validate" id="BUTTON_vuln_group_FC28367E48D546178C58F6B17B266AAE" oncontextmenu="return false;" onmousedown="javascript: appletStart(event, 'raw', 'https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/', false, 'https', 443, '');">
+															</td>
+														</tr>
+														<tr>
+															<td colspan="5">
+																<table cellpadding="0" cellspacing="0" class="background_very_light">
+																	<tr>
+																		<td style="vertical-align: top;" align="right"><b>Original Traffic</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+																		<td width="1%" align="right"><img id="trafficdiv_479_icon" src="images/collapse_plus.png" title="Expand" alt="Expand" onClick="javascript: ShowTraffic('12633C5CDD67471B853AE900FCCE018D', 479);"></td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+														<tr>
+															<td colspan="5"><div id="trafficdiv_479" style="display:none;"><div></td>
+														</tr>
+
+
+									</table>
+								</div>
+							</div>
+							<a name="V_A7AA1C37E29E492FB8ADC70C1086C370"></a>
+							<a name="PSI_17_A5018B462AF3490E85777971012BACF3"></a>
+							<div class="border_lightgrey">
+								<table cellpadding="0" cellspacing="0" class="header6">
+									<tr class="background_finding">
+										<td width="*" height="19" class="subheader background_finding" style="font-size:12; text-align: left;"><span class="text_finding_light">URL: https://backofficedev.asiaplus.co.th/Cons<wbr/>entManagementSystem/CustomerAcceptedConsen<wbr/>ts/Create</span></td>
+										<td align="right" width="35%" class="background_finding"><span class="text"><span class="text_finding_dark">Root Cause #151:&nbsp;</span><span class="text_finding_light">(3 Attack Variances)&nbsp;</span></span></td>
+                                        <td align="right" width="128" height="19" class="subheader background_finding" style="color:#000000; font-size:12;">
+											<img src="images/levelConf_4-High_text.png"/>
+										</td>
+										<td align="right" width="148" height="19" class="subheader background_finding" style="color:#000000; font-size:12;">
+											<img src="images/level_1-Info_text.png">
+											<a href="javascript: HideOrShowDivUpdateIcon('GID_151_0');" class="subheader"><img style="" class="snapshot" id="GID_151_0_icon" src="images/collapse_plus.png" title="Expand" alt="Expand"></a>
+										</td>
+									</tr>
+									<tr><td colspan="3"></td></tr>
+								</table>
+								<div class="snapshot" id="GID_151_0" style="display:none;">
+									<table cellpadding="0" cellspacing="0">
+										<tr>
+											<td class="border_lightgrey background_light" style="width: 13%; vertical-align: top;"><b>Attack Type</b></td>
+											<td class="border_lightgrey background_light" style="width: 10%; vertical-align: top;"><b>Original Value</b></td>
+											<td class="border_lightgrey background_light" style="width: 12%; vertical-align: top;"><b>Attack Value</b></td>
+                                            <td class="border_lightgrey background_light" style="width: 30%; vertical-align: top;"><b>Error Description</b></td>
+											<td class="border_lightgrey background_light" style="width: 35%; vertical-align: top; text-align: left;" colspan="2"><b>Error</b></td>
+										</tr>
+														<tr>
+															<td class="border_lightgrey" style="width: 13%; vertical-align: top;">Bank Account Number</td>
+															<td class="border_lightgrey" style="width: 10%; vertical-align: top;"></td>
+															<td class="border_lightgrey" style="width: 12%; vertical-align: top;"></td>
+                                                            <td class="border_lightgrey" style="width: 30%; vertical-align: top;"></td>
+															<td class="border_lightgrey" colspan="2" style="width: 35%; vertical-align: top; text-align: left;">&lt;input name="accountNo" id="accountNo" class="form-control" placeholder="เลขที่บัญชีลูกค้า 5 หลัก" maxlength="5" style="width:400px"&gt;</td>
+														</tr>
+
+														<tr>
+															<td nowrap="nowrap" colspan="1" align="right"></td>
+															<td style="width: 1%;" nowrap="nowrap" colspan="4" align="right">
+																<img src="images/button_validate.png" border="0" style="display: none;" alt="Validate" title="Validate" id="BUTTON_vuln_group_5F44565B178E4D15BD211255B3BB9C47" oncontextmenu="return false;" onmousedown="javascript: appletStart(event, 'raw', 'https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Create', false, 'https', 443, '');">
+															</td>
+														</tr>
+														<tr>
+															<td colspan="5">
+																<table cellpadding="0" cellspacing="0" class="background_very_light">
+																	<tr>
+																		<td style="vertical-align: top;" align="right"><b>Original Traffic</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+																		<td width="1%" align="right"><img id="trafficdiv_480_icon" src="images/collapse_plus.png" title="Expand" alt="Expand" onClick="javascript: ShowTraffic('A43B2A8A265B4E43B0DA1E8B83185540', 480);"></td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+														<tr>
+															<td colspan="5"><div id="trafficdiv_480" style="display:none;"><div></td>
+														</tr>
+
+														<tr>
+															<td class="border_lightgrey" style="width: 13%; vertical-align: top;">Bank Account Number</td>
+															<td class="border_lightgrey" style="width: 10%; vertical-align: top;"></td>
+															<td class="border_lightgrey" style="width: 12%; vertical-align: top;"></td>
+                                                            <td class="border_lightgrey" style="width: 30%; vertical-align: top;"></td>
+															<td class="border_lightgrey" colspan="2" style="width: 35%; vertical-align: top; text-align: left;">&lt;input name="accountNo" id="accountNo" class="form-control" placeholder="เลขที่บัญชีลูกค้า 5 หลัก" maxlength="5" style="width:400px"&gt;</td>
+														</tr>
+
+														<tr>
+															<td nowrap="nowrap" colspan="1" align="right"></td>
+															<td style="width: 1%;" nowrap="nowrap" colspan="4" align="right">
+																<img src="images/button_validate.png" border="0" style="display: none;" alt="Validate" title="Validate" id="BUTTON_vuln_group_5E47DDF094704B00A21D010235EECD66" oncontextmenu="return false;" onmousedown="javascript: appletStart(event, 'raw', 'https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Create', false, 'https', 443, '');">
+															</td>
+														</tr>
+														<tr>
+															<td colspan="5">
+																<table cellpadding="0" cellspacing="0" class="background_very_light">
+																	<tr>
+																		<td style="vertical-align: top;" align="right"><b>Original Traffic</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+																		<td width="1%" align="right"><img id="trafficdiv_481_icon" src="images/collapse_plus.png" title="Expand" alt="Expand" onClick="javascript: ShowTraffic('60111F83A6BD44D6AFB85A7A6D752441', 481);"></td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+														<tr>
+															<td colspan="5"><div id="trafficdiv_481" style="display:none;"><div></td>
+														</tr>
+
+														<tr>
+															<td class="border_lightgrey" style="width: 13%; vertical-align: top;">Bank Account Number</td>
+															<td class="border_lightgrey" style="width: 10%; vertical-align: top;"></td>
+															<td class="border_lightgrey" style="width: 12%; vertical-align: top;"></td>
+                                                            <td class="border_lightgrey" style="width: 30%; vertical-align: top;"></td>
+															<td class="border_lightgrey" colspan="2" style="width: 35%; vertical-align: top; text-align: left;">&lt;input name="accountNo" id="accountNo" class="form-control" placeholder="เลขที่บัญชีลูกค้า 5 หลัก" maxlength="5" style="width:400px"&gt;</td>
+														</tr>
+
+														<tr>
+															<td nowrap="nowrap" colspan="1" align="right"></td>
+															<td style="width: 1%;" nowrap="nowrap" colspan="4" align="right">
+																<img src="images/button_validate.png" border="0" style="display: none;" alt="Validate" title="Validate" id="BUTTON_vuln_group_4A633F417DE04F1E99EFDEE36D19DCCD" oncontextmenu="return false;" onmousedown="javascript: appletStart(event, 'raw', 'https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/CustomerAcceptedConsents\/Create', false, 'https', 443, '');">
+															</td>
+														</tr>
+														<tr>
+															<td colspan="5">
+																<table cellpadding="0" cellspacing="0" class="background_very_light">
+																	<tr>
+																		<td style="vertical-align: top;" align="right"><b>Original Traffic</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+																		<td width="1%" align="right"><img id="trafficdiv_482_icon" src="images/collapse_plus.png" title="Expand" alt="Expand" onClick="javascript: ShowTraffic('A5018B462AF3490E85777971012BACF3', 482);"></td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+														<tr>
+															<td colspan="5"><div id="trafficdiv_482" style="display:none;"><div></td>
+														</tr>
+
+
+									</table>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br/>
+					<div class="border_lightgrey">
+						<table cellpadding="0" cellspacing="0">
+							<tr>
+
+							</tr>
+						</table>
+					</div>
+					<div class="border_lightgrey">
+						<table cellpadding="0" cellspacing="0">
+							<tr>
+								<td align="left" valign="top" width="10%" class="background_light"><b>Description: </b>&nbsp;</td>
+								<td align="left" width="*" style="padding:4px;" class="background_light">
+									<p>Web form collects personal information.</p><br/>
+								</td>
+							</tr>
+							<tr>
+								<td align="left" valign="top" width="10%"><b>Recommendations: </b>&nbsp;</td>
+								<td align="left" width="*" style="padding:4px;">
+									<p>If the collection of personal information is not required and violates a policy directive, do not collect it.</p><br/>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+			<a name="PRIVACY_1-Info"></a>
+			<script type="text/javascript">
+			//	<!---
+				addToExpandList("PRIVACY", "MID_21_0");
+			//	-->
+			</script>
+			<div class="border_lightgrey">
+				<a name="EMAILADDRESS_"></a>
+				<table cellpadding="0" cellspacing="0" class="header4">
+					<tr>
+						<td align="left" width="*">
+							<h4 style="text-align: left;">
+							<a href="javascript: HideOrShowDivUpdateIcon('MID_21_0');" class="subheader"><img style="" class="snapshot" id="MID_21_0_icon" src="images/collapse_minus.png" title="Collapse" alt="Collapse"></a>
+						 	Email Address</h4>
+						</td>
+                        <td width="1%" align="right">
+                        
+                        <div class="tooltip"><img src="images/levelConf_4-High_text.png"/>
+                            <span class="tooltiptext">Confidence</span>
+                        </div></td>
+						<td width="148" align="right">
+                        <div class="tooltip"><img src="images/level_1-Info_text.png">
+                            <span class="tooltiptext">Severity</span>
+                        </div></td>
+					</tr>
+				</table>
+
+				<div class="snapshot" id="MID_21_0">
+					<span style="display:none;">some text</span>
+					<script type="text/javascript">
+					//	<!--
+						addToExpandList("PRIVACY", "WMID_1_21_0");
+					//	-->
+					</script>
+					<div class="border_lightgrey">
+						<h5>&nbsp;&nbsp;<a href="javascript: HideOrShowDivUpdateIcon('WMID_1_21_0');" class="subheader"><img style="" class="snapshot" id="WMID_1_21_0_icon" src="images/collapse_minus.png" title="Collapse" alt="Collapse"></a>&nbsp;Site: http://backofficedev.asiaplus.co.th:80</h5>
+						<div class="snapshot" id="WMID_1_21_0">
+							<a name="V_5B8F82E43A72461D832D773B2C7D4AD6"></a>
+							<a name="EmailAddress_AEF2257FD7FD45B18E68E359A5F82F7D"></a>
+							<div class="border_lightgrey">
+								<table cellpadding="0" cellspacing="0" class="header6">
+									<tr class="background_finding">
+										<td width="*" height="19" class="subheader background_finding" style="font-size:12; text-align: left;"><span class="text_finding_light">URL: http://backofficedev.asiaplus.co.th/phpin<wbr/>fo.php</span></td>
+										<td align="right" width="35%" class="background_finding"><span class="text"><span class="text_finding_dark">Root Cause #152:&nbsp;</span><span class="text_finding_light">(1 Attack Variance)&nbsp;</span></span></td>
+                                        <td align="right" width="128" height="19" class="subheader background_finding" style="color:#000000; font-size:12;">
+											<img src="images/levelConf_4-High_text.png"/>
+										</td>
+										<td align="right" width="148" height="19" class="subheader background_finding" style="color:#000000; font-size:12;">
+											<img src="images/level_1-Info_text.png">
+											<a href="javascript: HideOrShowDivUpdateIcon('GID_152_0');" class="subheader"><img style="" class="snapshot" id="GID_152_0_icon" src="images/collapse_plus.png" title="Expand" alt="Expand"></a>
+										</td>
+									</tr>
+									<tr><td colspan="3"></td></tr>
+								</table>
+								<div class="snapshot" id="GID_152_0" style="display:none;">
+									<table cellpadding="0" cellspacing="0">
+										<tr>
+											<td class="border_lightgrey background_light" style="width: 13%; vertical-align: top;"><b>Attack Type</b></td>
+											<td class="border_lightgrey background_light" style="width: 10%; vertical-align: top;"><b>Original Value</b></td>
+											<td class="border_lightgrey background_light" style="width: 12%; vertical-align: top;"><b>Attack Value</b></td>
+                                            <td class="border_lightgrey background_light" style="width: 30%; vertical-align: top;"><b>Error Description</b></td>
+											<td class="border_lightgrey background_light" style="width: 35%; vertical-align: top; text-align: left;" colspan="2"><b>Error</b></td>
+										</tr>
+														<tr>
+															<td class="border_lightgrey" style="width: 13%; vertical-align: top;">Email address</td>
+															<td class="border_lightgrey" style="width: 10%; vertical-align: top;"></td>
+															<td class="border_lightgrey" style="width: 12%; vertical-align: top;"></td>
+                                                            <td class="border_lightgrey" style="width: 30%; vertical-align: top;"></td>
+															<td class="border_lightgrey" colspan="2" style="width: 35%; vertical-align: top; text-align: left;">license@php.net</td>
+														</tr>
+
+														<tr>
+															<td nowrap="nowrap" colspan="1" align="right"></td>
+															<td style="width: 1%;" nowrap="nowrap" colspan="4" align="right">
+																<img src="images/button_validate.png" border="0" style="display: none;" alt="Validate" title="Validate" id="BUTTON_vuln_group_310777D0AEEE420A9BC9BBDBA73A2370" oncontextmenu="return false;" onmousedown="javascript: appletStart(event, 'raw', 'http:\/\/backofficedev.asiaplus.co.th\/phpinfo.php', false, 'http', 80, '');">
+															</td>
+														</tr>
+														<tr>
+															<td colspan="5">
+																<table cellpadding="0" cellspacing="0" class="background_very_light">
+																	<tr>
+																		<td style="vertical-align: top;" align="right"><b>Original Traffic</b>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+																		<td width="1%" align="right"><img id="trafficdiv_483_icon" src="images/collapse_plus.png" title="Expand" alt="Expand" onClick="javascript: ShowTraffic('AEF2257FD7FD45B18E68E359A5F82F7D', 483);"></td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+														<tr>
+															<td colspan="5"><div id="trafficdiv_483" style="display:none;"><div></td>
+														</tr>
+
+
+									</table>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br/>
+					<div class="border_lightgrey">
+						<table cellpadding="0" cellspacing="0">
+							<tr>
+<td><a target="_new" href="http://iase.disa.mil/stigs/">DISSA_ASC-APP3620</td>
+<td><a target="_new" href="http://www.owasp.org/index.php/Top_10_2007-A8">OWASP2007-A8</td>
+<td><a target="_new" href="http://www.owasp.org/index.php/Top_10_2010-A7">OWASP2010-A7</td>
+<td><a target="_new" href="http://www.owasp.org/index.php/Top_10_2013-A6">OWASP2013-A6</td>
+<td><a target="_new" href="https://www.owasp.org/index.php/Top_10_2017-A3">OWASP2017-A3</td>
+<td><a target="_new" href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679">GDPR12200</td>
+
+							</tr>
+						</table>
+					</div>
+					<div class="border_lightgrey">
+						<table cellpadding="0" cellspacing="0">
+							<tr>
+								<td align="left" valign="top" width="10%" class="background_light"><b>Description: </b>&nbsp;</td>
+								<td align="left" width="*" style="padding:4px;" class="background_light">
+									<p>An email link was found on the page. This can give an attacker clues as to who works at your company which can be used for guessing authentication credentials or otherwise getting a toehold into the organization.</p><br/>
+								</td>
+							</tr>
+							<tr>
+								<td align="left" valign="top" width="10%"><b>Recommendations: </b>&nbsp;</td>
+								<td align="left" width="*" style="padding:4px;">
+									<p>Avoid exposing user private data.</p><br/>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+		<a href="http://www.rapid7.com">
+			<div class="report_footer">
+				<div id="report_footer_logo">
+					<img src="images/footer_logo.png" height="30" border="0">
+				</div>
+			</div>
+		</a>
+
+	</body>
+</html>
+

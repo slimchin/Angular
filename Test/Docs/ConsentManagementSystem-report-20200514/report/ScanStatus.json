@@ -1,0 +1,6247 @@
+{
+"DbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"ParentDbId": "F1441124F49A4DDAA0D152909E90D17F",
+"ScanStarted": "2020-05-14 09:49:42",
+"ScanDuration": "0:34:39",
+"ScanTimeLeft": 0,
+"ScanEnded": "2020-05-14 10:24:21",
+"UTCOffset": 7,
+"Cancelled": 0,
+"ScanFailed": 0,
+"ScanFailure": "None",
+"ScanFailureDescription": "None",
+"CompletedTasks": 11439,
+"TasksLeft": 0,
+"Stage": 0,
+"StageSecondsLeft": -1,
+"StagePercentComplete": 0,
+"CurrentTask": "Recrawling resource https:\/\/backofficedev.asiaplus.co.th\/ConsentManagementSystem\/login\/logout, looking for persistent reflection",
+"CurrentTaskPercentComplete": 0,
+"CrawlerStatus":
+{
+"DbId": "EFE305ACB9AE4BA28AED3B6CCEE34DA1",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"ResourcesInQueue": 0,
+"ResourcesCrawled": 109,
+"DOMCrawlingStatus":
+{
+"DbId": "70A2BE0AD06148418BFC917254DA9A83",
+"ParentDbId": "EFE305ACB9AE4BA28AED3B6CCEE34DA1",
+"CrawlDOMTaskCount": 210,
+"CrawlDOMTasksExecuted": 210,
+"CrawlDOMTasksFailed": 21,
+"DiscoveredNewRequests": 3
+}
+},
+"FindingStatus":
+{
+"DbId": "DF06E3734D3740F7AADB740A91508B01",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"TotalFindingsCount": 153,
+"FindingsCountHigh": 0,
+"FindingsCountMedium": 2,
+"FindingsCountLow": 85,
+"FindingsCountInfo": 65,
+"FindingsCountSafe": 1
+},
+"ActiveAttackStatus":
+{
+"DbId": "05855400AB674110AD846048D2B10F57",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 11439,
+"SkippedAttacks": 0,
+"FoundVulns": 47,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "D0EC91AF658B4600BA6411FE4065498E",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 17344,
+"SkippedAttacks": 0,
+"FoundVulns": 106,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"NetworkStatus":
+{
+"DbId": "00A5F79B1B814331A09E5AE87071CFDC",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"NumberOfRequests": 16650,
+"NumberOfFailedRequests": 679,
+"AverageNetworkSpeed": 390,
+"AverageRequestsPerSecond": 1,
+"AverageResponseTime": 14,
+"AverageDripDelay": 0
+},
+"SessionStatusList":
+[
+{
+"DbId": "13CD1894B47B49CE9DB2BC37DB2A26F8",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"SessionName": "Authentication with Macro: ConsentManagementSystem.rec",
+"Authenticated": 0,
+"TimesLoggedIn": 1,
+"TimesLoggedOut": 1
+}
+],
+"AttackModuleStatusList":
+[
+{
+"DbId": "8D335A9B826A467984EE05EC33178BD3",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "881B35A841414BBAA05084A2A8CE7904",
+"ActiveAttackStatus":
+{
+"DbId": "4A0778849194402BBE9BF02B761CAE8A",
+"ParentDbId": "8D335A9B826A467984EE05EC33178BD3",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 165,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "B5EF404B684F4F6280CB3FF5C2A98808",
+"ParentDbId": "8D335A9B826A467984EE05EC33178BD3",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "29E5DE63668C4F6AAE85304EBDFAA635",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "FD28B5D41E064D37B5543CE22BBC6306",
+"ActiveAttackStatus":
+{
+"DbId": "D4B3A1C34AF94438B39749C3DCB039D7",
+"ParentDbId": "29E5DE63668C4F6AAE85304EBDFAA635",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "185CE5894952441BABA6330E2BB4D0A4",
+"ParentDbId": "29E5DE63668C4F6AAE85304EBDFAA635",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 254,
+"SkippedAttacks": 0,
+"FoundVulns": 2,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "D5C5A40D48944B0F825BE373E1FCC5FB",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "FFBF4640C8A4475E93E099018951B409",
+"ActiveAttackStatus":
+{
+"DbId": "B78F7BC1F4094565AADFF2ECF4656B03",
+"ParentDbId": "D5C5A40D48944B0F825BE373E1FCC5FB",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 280,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "76118859093B452FB9CA3E1415553733",
+"ParentDbId": "D5C5A40D48944B0F825BE373E1FCC5FB",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "E5780D94DB624D90BF9CD533B2B69ADD",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "9F6600FB2E7840E48B156790FEFAC10A",
+"ActiveAttackStatus":
+{
+"DbId": "180C54930B374E88974457596CD62D33",
+"ParentDbId": "E5780D94DB624D90BF9CD533B2B69ADD",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "3E930F23101B4946B6CAF43BC01D06F2",
+"ParentDbId": "E5780D94DB624D90BF9CD533B2B69ADD",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 122,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "144C3239E87D471EA3CDAF7E9A6F9BFB",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "6CEF426D33514825B50741616DB2120B",
+"ActiveAttackStatus":
+{
+"DbId": "99A497197CB34B08B767B68AA387E1AA",
+"ParentDbId": "144C3239E87D471EA3CDAF7E9A6F9BFB",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "464F2ED2220043D29119C6864EEE9500",
+"ParentDbId": "144C3239E87D471EA3CDAF7E9A6F9BFB",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 75,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "A2B13ED4D1BE49AAAA4AD78A8024C2C6",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "B7CEE386C7C64618A510F3F8FED5400B",
+"ActiveAttackStatus":
+{
+"DbId": "2C995D3481824D3692360968B6DDD7A1",
+"ParentDbId": "A2B13ED4D1BE49AAAA4AD78A8024C2C6",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "F6F6785D1ED04D38AEC85E218F91BB95",
+"ParentDbId": "A2B13ED4D1BE49AAAA4AD78A8024C2C6",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "B59A11F20EE54D6587CE46994BA29DBF",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "2227AE47A2AA40A6B6B1328AC13A6F0C",
+"ActiveAttackStatus":
+{
+"DbId": "6CB70B965F1240D2ABFC8A1BD5706834",
+"ParentDbId": "B59A11F20EE54D6587CE46994BA29DBF",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "ED614BCDF3A04624AB3D26BC70E00F2D",
+"ParentDbId": "B59A11F20EE54D6587CE46994BA29DBF",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 10,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "923BCB96220D4597B373867B773D6DE1",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "C5805272001249A095A48F2E56240C10",
+"ActiveAttackStatus":
+{
+"DbId": "C148735EC7A94FC1811555C7C2B8003F",
+"ParentDbId": "923BCB96220D4597B373867B773D6DE1",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 7,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "82B1C6281A814AEBB53F0C949D86235D",
+"ParentDbId": "923BCB96220D4597B373867B773D6DE1",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "94C3A9E4672D47D69622EE9CE676F5D9",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "E617D008F7534C808064D2B1A4BFE81A",
+"ActiveAttackStatus":
+{
+"DbId": "D9773CBB28574AB28B09D2E441022D17",
+"ParentDbId": "94C3A9E4672D47D69622EE9CE676F5D9",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "4FCE973B88EB4299AC0E40F87BE86C3E",
+"ParentDbId": "94C3A9E4672D47D69622EE9CE676F5D9",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 3848,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "4E1ADDF6A3B04EB6B4FFCB5B925684CC",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "7A7B3239AB8146839A8AEF170807ED1E",
+"ActiveAttackStatus":
+{
+"DbId": "78BDB74187504303BC8FB2503A30D777",
+"ParentDbId": "4E1ADDF6A3B04EB6B4FFCB5B925684CC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "958289BD280E415BBFF51C71876FF8EC",
+"ParentDbId": "4E1ADDF6A3B04EB6B4FFCB5B925684CC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "D3D999B0F99F4138B2BE493A917F74C4",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "466E4CC294D94A11AFD50FD01D56261F",
+"ActiveAttackStatus":
+{
+"DbId": "2BF93006F1584AD089E48DFC2303B708",
+"ParentDbId": "D3D999B0F99F4138B2BE493A917F74C4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 6,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "E691A6FAB05A4F73B8DB15867548571A",
+"ParentDbId": "D3D999B0F99F4138B2BE493A917F74C4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 75,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "0FC8EE1B8EEE44AC897CC22BC5DB41DA",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "1712CD453B074C78A8A561E0ED66DD1F",
+"ActiveAttackStatus":
+{
+"DbId": "3A65DEF9FCFC457B8717454DD18F5CF2",
+"ParentDbId": "0FC8EE1B8EEE44AC897CC22BC5DB41DA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 105,
+"SkippedAttacks": 0,
+"FoundVulns": 35,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "8C1378495951439BAED34B061844294C",
+"ParentDbId": "0FC8EE1B8EEE44AC897CC22BC5DB41DA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 127,
+"SkippedAttacks": 0,
+"FoundVulns": 2,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "0AE5D36699984DC8B899035B5A4E8EBA",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "A8AB603EABC04875A5B2320CF6990C24",
+"ActiveAttackStatus":
+{
+"DbId": "0EB5B90424914F2593E813D2848A0BC2",
+"ParentDbId": "0AE5D36699984DC8B899035B5A4E8EBA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 283,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "E661D14488634BA9829CA0BD04632676",
+"ParentDbId": "0AE5D36699984DC8B899035B5A4E8EBA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "8460EC09FD9B4DF98062FC37FE1CF77D",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "C35E7D79DD6F4DA489BBF6BC1D9D012B",
+"ActiveAttackStatus":
+{
+"DbId": "C414D5D0E2C74A2DA11EADD8FA051F40",
+"ParentDbId": "8460EC09FD9B4DF98062FC37FE1CF77D",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "D013DF8D4C5E4AC3BA1DDA9E6AADCB6B",
+"ParentDbId": "8460EC09FD9B4DF98062FC37FE1CF77D",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 432,
+"SkippedAttacks": 0,
+"FoundVulns": 7,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "9D78C29F21F64105957FC63CD594F38C",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "34A0F038EFA248B594E7F17447F4CF2E",
+"ActiveAttackStatus":
+{
+"DbId": "6A3BC6E88484487A9C1D6FC47842E4CE",
+"ParentDbId": "9D78C29F21F64105957FC63CD594F38C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 2,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "59E7CDA5978C4774AAE66E4E4E257A02",
+"ParentDbId": "9D78C29F21F64105957FC63CD594F38C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 58,
+"SkippedAttacks": 0,
+"FoundVulns": 2,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "B9E8C6D4C9E84E51991207A9658CE367",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "2CE90A403F704F80961E381BE19CCA2F",
+"ActiveAttackStatus":
+{
+"DbId": "CDF5F3B1448C4349923A93544BB9F90D",
+"ParentDbId": "B9E8C6D4C9E84E51991207A9658CE367",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 29,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "4C7AB0E150C5426BBAAD75F90B57B839",
+"ParentDbId": "B9E8C6D4C9E84E51991207A9658CE367",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "051BCDCCCA6D45FF8B9BC7D60FA72726",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "7B61BD81D278490C9B1A7B0568E94E30",
+"ActiveAttackStatus":
+{
+"DbId": "A7AF19B5DDFA4872933EFAAA554252E7",
+"ParentDbId": "051BCDCCCA6D45FF8B9BC7D60FA72726",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "9C8CA800E51341FBBFA77D720387D021",
+"ParentDbId": "051BCDCCCA6D45FF8B9BC7D60FA72726",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "361D69F510364C29A5475DB3654D29D3",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "2C7D393BABA44517B0A37DC8ADCF9630",
+"ActiveAttackStatus":
+{
+"DbId": "17103DA7B1F5486BAFA2D37110C06D61",
+"ParentDbId": "361D69F510364C29A5475DB3654D29D3",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "8C896BEA2641470F9DD60B04EC8B6F77",
+"ParentDbId": "361D69F510364C29A5475DB3654D29D3",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 321,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "C623EF9030B54D9D996C5654AE44725B",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "A41D5AC842594BF086E9A96DD3353333",
+"ActiveAttackStatus":
+{
+"DbId": "5D4955014A9A426BA1C86234D7874F23",
+"ParentDbId": "C623EF9030B54D9D996C5654AE44725B",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "78D71EBCEC594CB2923422EF702C13E3",
+"ParentDbId": "C623EF9030B54D9D996C5654AE44725B",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 74,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "7DA593D674A4450B9FF2BC58D3478921",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "A418163442A54BB9BB0F1E591881A835",
+"ActiveAttackStatus":
+{
+"DbId": "DF16E44A4A3D41C3B8760C9C19CAAB19",
+"ParentDbId": "7DA593D674A4450B9FF2BC58D3478921",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 4,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "61F71334A8EB43EBA37FC6E754AFFD98",
+"ParentDbId": "7DA593D674A4450B9FF2BC58D3478921",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "C23DF939F9EB4D35AD4D414BB056BCC0",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "5032DAF0D8FE4294B23F0D1DAA4C0337",
+"ActiveAttackStatus":
+{
+"DbId": "33435B767ACE4E71B821C17852037FDF",
+"ParentDbId": "C23DF939F9EB4D35AD4D414BB056BCC0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 16,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "263A978B0F6A4CD3971EBF146FA16F34",
+"ParentDbId": "C23DF939F9EB4D35AD4D414BB056BCC0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "19331FC6BEE64517A87FDBB167814659",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "9A22444AC7C642ABBC598CBCA4738C3B",
+"ActiveAttackStatus":
+{
+"DbId": "14CD993603DB4DAC8CE5FF5AC1EBD0A0",
+"ParentDbId": "19331FC6BEE64517A87FDBB167814659",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 308,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "C3528DEBD63547899338518523518D4B",
+"ParentDbId": "19331FC6BEE64517A87FDBB167814659",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "D9AFB828C06844E780568C931E25144A",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "6B1B2812012D41249BDEE83FFAEB523D",
+"ActiveAttackStatus":
+{
+"DbId": "612E49166A3C484FB6CC1B654610B519",
+"ParentDbId": "D9AFB828C06844E780568C931E25144A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "18F1BF3195DA422EADC4AD6726F25DA4",
+"ParentDbId": "D9AFB828C06844E780568C931E25144A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "AD47AF92F6B543ACB4870ACD7CF00433",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "D07D5C8EF8664392A0CC1509A6DE5940",
+"ActiveAttackStatus":
+{
+"DbId": "8B8BCF719605452D93D0914BA67BB428",
+"ParentDbId": "AD47AF92F6B543ACB4870ACD7CF00433",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 6,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "5D90F249A23B4D7FBA2F3E867625DFFF",
+"ParentDbId": "AD47AF92F6B543ACB4870ACD7CF00433",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "F13A6098B52C43678EF0677A9B92AB02",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "9B62D146FF00456388F9822A76F95841",
+"ActiveAttackStatus":
+{
+"DbId": "110EA43D5FF548FF9B46B98E95D4119F",
+"ParentDbId": "F13A6098B52C43678EF0677A9B92AB02",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "D97D43FD4CE84F88928F441F7ACE5CFF",
+"ParentDbId": "F13A6098B52C43678EF0677A9B92AB02",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "7A2EA3E4A285410B923887AA10AB4F08",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "D8741C7560B8431A9AE74E9B4FEB4F45",
+"ActiveAttackStatus":
+{
+"DbId": "1D0B1C5294F547F1B32D5B779D2CB6B2",
+"ParentDbId": "7A2EA3E4A285410B923887AA10AB4F08",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1853,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "EB38E6A7C225405CBDAF6008BD795E68",
+"ParentDbId": "7A2EA3E4A285410B923887AA10AB4F08",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "0D8BAD7EF8F148AF8F91DCAE29AE308E",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "615D72F401BC447AB4A2139654BC9945",
+"ActiveAttackStatus":
+{
+"DbId": "E216F45F33DC4F0AB5255B11798A68B0",
+"ParentDbId": "0D8BAD7EF8F148AF8F91DCAE29AE308E",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "3E68C2621B91401F8F53AA670A63FB2C",
+"ParentDbId": "0D8BAD7EF8F148AF8F91DCAE29AE308E",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 8,
+"SkippedAttacks": 0,
+"FoundVulns": 5,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "69E9298BD88A4180AFD85D1E3C38B9FA",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "748E90FC47AB4B438C3A49660989B44A",
+"ActiveAttackStatus":
+{
+"DbId": "E37FA3ADEE73411C90F48B4635EB5AC1",
+"ParentDbId": "69E9298BD88A4180AFD85D1E3C38B9FA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 2,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "C5D618C9C803400184F8CD2A31E4D171",
+"ParentDbId": "69E9298BD88A4180AFD85D1E3C38B9FA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "A72CA040B46F4E3BAC2F266AAB69E8F0",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "63430695B68941DF99BF242F5AE1674B",
+"ActiveAttackStatus":
+{
+"DbId": "D163F454BE1C433B9B078F00B79B9CB1",
+"ParentDbId": "A72CA040B46F4E3BAC2F266AAB69E8F0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 31,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "5E7E48665C3A4B41AC0ACBDB14F59B5E",
+"ParentDbId": "A72CA040B46F4E3BAC2F266AAB69E8F0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "9D808EBFECE84877A0FBCD5CBD1C9146",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "8CB2F93CE7F243B98D3C83A9A3E6EA4B",
+"ActiveAttackStatus":
+{
+"DbId": "1D2A3AE160354321B46AA50F6574CC7A",
+"ParentDbId": "9D808EBFECE84877A0FBCD5CBD1C9146",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1434,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "AD525AE68ECB4E66ADF8C4D66EB5A6AA",
+"ParentDbId": "9D808EBFECE84877A0FBCD5CBD1C9146",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "8BD858BDC4B34F1DB2A54698D5F2F57F",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "DB1340E1857540219DF84A6A9DC0494C",
+"ActiveAttackStatus":
+{
+"DbId": "2C2987ACA5BF41529F6A3B6B06C8E35B",
+"ParentDbId": "8BD858BDC4B34F1DB2A54698D5F2F57F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "6F60B6A89AF044B997239D2E140BE3F7",
+"ParentDbId": "8BD858BDC4B34F1DB2A54698D5F2F57F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "56848D6CCE8942C28E53F91205CE83F1",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "BBE9F36A88A944ECB837D5193D356E4C",
+"ActiveAttackStatus":
+{
+"DbId": "3765BF0CAE36431D852FAE30F9BBFF22",
+"ParentDbId": "56848D6CCE8942C28E53F91205CE83F1",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 283,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "FA2D382D33044F808977D33DCCD1004B",
+"ParentDbId": "56848D6CCE8942C28E53F91205CE83F1",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "54F8DD69473246BDAF88B85E13E8607C",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "377030BFE58A4F01A112295D32A0744C",
+"ActiveAttackStatus":
+{
+"DbId": "EE77A9E07531435298D7B96A8F67DD63",
+"ParentDbId": "54F8DD69473246BDAF88B85E13E8607C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "1ACD7A45014349488E6D91FD9506A538",
+"ParentDbId": "54F8DD69473246BDAF88B85E13E8607C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "3E402565AA1A4E39B35B4F76B0172498",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "EBEE6CA2515F4FBEB8B7EC0197C5A74F",
+"ActiveAttackStatus":
+{
+"DbId": "AEB71BAF75B84207A33E46FCE099C7EA",
+"ParentDbId": "3E402565AA1A4E39B35B4F76B0172498",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "6D0BBBF2ADC6451BA00A62170861D455",
+"ParentDbId": "3E402565AA1A4E39B35B4F76B0172498",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 8,
+"SkippedAttacks": 0,
+"FoundVulns": 4,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "C535AC5B2365470FB03D93FCA37DF3C0",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "050ABD8CF99F4EE4AA18C12F06FA3051",
+"ActiveAttackStatus":
+{
+"DbId": "394181AFC24F48A8B36E80F246FCB2C1",
+"ParentDbId": "C535AC5B2365470FB03D93FCA37DF3C0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "0E75C011BF4A46619FFF7952E3DBD27C",
+"ParentDbId": "C535AC5B2365470FB03D93FCA37DF3C0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "FC08046FC40043A69CC4B3442940F42F",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "38354857D10048B68A34CD2E3EBC3B52",
+"ActiveAttackStatus":
+{
+"DbId": "AB6C67A295A64D1689A01E6CD4FEC811",
+"ParentDbId": "FC08046FC40043A69CC4B3442940F42F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 6,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "7710AB1EDE2C42768013037AAAC283E3",
+"ParentDbId": "FC08046FC40043A69CC4B3442940F42F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "64CCFFACF9714FE3B423CA1FFE2904C8",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "DC8E0D09314B44D39915AAF8439B4F53",
+"ActiveAttackStatus":
+{
+"DbId": "40665CA2E95C4E2C9719374C025C9EEE",
+"ParentDbId": "64CCFFACF9714FE3B423CA1FFE2904C8",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 33,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "3C8387363A9343609D2151716E4CD35F",
+"ParentDbId": "64CCFFACF9714FE3B423CA1FFE2904C8",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "064FB1391EB542639DDB4150776AFFED",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "F25AF6387E8A429F8E664F31E2974054",
+"ActiveAttackStatus":
+{
+"DbId": "0DD99C0F388440AD921DEB5536E2A754",
+"ParentDbId": "064FB1391EB542639DDB4150776AFFED",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "6380F55825B148ACBDFA5A25322AB6C9",
+"ParentDbId": "064FB1391EB542639DDB4150776AFFED",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 254,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "58630753E63E4A4ABEC3400106909D0A",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "0F5408AB9FF94320AA58FCFE80EDEF59",
+"ActiveAttackStatus":
+{
+"DbId": "56872A09AE354793BF7565245165EDFA",
+"ParentDbId": "58630753E63E4A4ABEC3400106909D0A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 109,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "268A0FB86FD644DCA5207D12A4540AD8",
+"ParentDbId": "58630753E63E4A4ABEC3400106909D0A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "D20C02C80559485386D6772A71CBBB8A",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "22E85EEA6883403982D8C298AEBC935A",
+"ActiveAttackStatus":
+{
+"DbId": "AF7B0C47028B4174B1EAB4F489BF7141",
+"ParentDbId": "D20C02C80559485386D6772A71CBBB8A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1585,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "4D575CEBC2B045278B5B2D7D62324A05",
+"ParentDbId": "D20C02C80559485386D6772A71CBBB8A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "725D65B7116C42EE890D568B6C0B9B7F",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "FCD9A41AD39247C0B45A8D42FF7A4E5E",
+"ActiveAttackStatus":
+{
+"DbId": "375914909B0D4ACC881EC4A8670E0371",
+"ParentDbId": "725D65B7116C42EE890D568B6C0B9B7F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "29AD9E9DCE7B4444ABFDA70F9FC21468",
+"ParentDbId": "725D65B7116C42EE890D568B6C0B9B7F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 144,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "1948AF208C7343B3A3E09B4CE10301B8",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "31E0A650FB944E689DF46B7A98F35A5F",
+"ActiveAttackStatus":
+{
+"DbId": "AFBD0298DD784185B1BAFBB6A4931A41",
+"ParentDbId": "1948AF208C7343B3A3E09B4CE10301B8",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "C871F3F68DFA48AFA83DC58A1B1B0537",
+"ParentDbId": "1948AF208C7343B3A3E09B4CE10301B8",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 315,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "45A864291A60433EA6ECA2BC91A19D45",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "1CBEA71A88844A11A4CD6ABAA2FD7F62",
+"ActiveAttackStatus":
+{
+"DbId": "C78B428A843045A39FA62DF57477B1C9",
+"ParentDbId": "45A864291A60433EA6ECA2BC91A19D45",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "15F31CFF20104B3CBC1A9506E9BB19CE",
+"ParentDbId": "45A864291A60433EA6ECA2BC91A19D45",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 232,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "2BE73B66F089402D81B5DBE7E5869663",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "3E2E60F7D0E04D8596918C2D1F639064",
+"ActiveAttackStatus":
+{
+"DbId": "B23EE007C21948E29BBD861C8CD1B326",
+"ParentDbId": "2BE73B66F089402D81B5DBE7E5869663",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "A3F1F5C0D79D408885ABEE4A6006D573",
+"ParentDbId": "2BE73B66F089402D81B5DBE7E5869663",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 15,
+"SkippedAttacks": 0,
+"FoundVulns": 10,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "0AE6B07B8D6F47C0AC0B044AA114D36B",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "13B4C758BA174200885A29CBA7346165",
+"ActiveAttackStatus":
+{
+"DbId": "43703D519E844CC8977349EF29034FF4",
+"ParentDbId": "0AE6B07B8D6F47C0AC0B044AA114D36B",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "2398BC0F37B04FDE8889831F94B3D547",
+"ParentDbId": "0AE6B07B8D6F47C0AC0B044AA114D36B",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 152,
+"SkippedAttacks": 0,
+"FoundVulns": 16,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "FC82F672BCA1499C9CB9451BF8D47E28",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "5D9A66E5961B4644AAF5EC655E18EE66",
+"ActiveAttackStatus":
+{
+"DbId": "D483E9B5D29749359D84439A3FDDEE7C",
+"ParentDbId": "FC82F672BCA1499C9CB9451BF8D47E28",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 178,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "40225973095E4D0AB089DDD4C5E07E76",
+"ParentDbId": "FC82F672BCA1499C9CB9451BF8D47E28",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "36F86A79B5BE4A159F6C2BB304E2EFC0",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "F8A0814584594965B0AF68B4E190F566",
+"ActiveAttackStatus":
+{
+"DbId": "6DE0493C53A4496AB1DE8E7EDB847C27",
+"ParentDbId": "36F86A79B5BE4A159F6C2BB304E2EFC0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "DE4334DCC3AE4C6DA7FA6D8959AF4487",
+"ParentDbId": "36F86A79B5BE4A159F6C2BB304E2EFC0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 232,
+"SkippedAttacks": 0,
+"FoundVulns": 2,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "9587971DE9084C628993AE6E4EAF3DD4",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "243C315A46A14C92A2717A29A4290167",
+"ActiveAttackStatus":
+{
+"DbId": "6ED72B5F0E6443FC9D201527C15F9966",
+"ParentDbId": "9587971DE9084C628993AE6E4EAF3DD4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "4D7438F86F734F97BC97795E553D0E15",
+"ParentDbId": "9587971DE9084C628993AE6E4EAF3DD4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 3596,
+"SkippedAttacks": 0,
+"FoundVulns": 3,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "29E75AC9859F4F2B9ADEBF0AD14679F8",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "865E5CE0E5144D3E899B825EC8603969",
+"ActiveAttackStatus":
+{
+"DbId": "13501E50678D48FD97735BCD7E3A536B",
+"ParentDbId": "29E75AC9859F4F2B9ADEBF0AD14679F8",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "412FE9A2BE2344099BCBF71487F4B22E",
+"ParentDbId": "29E75AC9859F4F2B9ADEBF0AD14679F8",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 366,
+"SkippedAttacks": 0,
+"FoundVulns": 3,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "D645025916F54A3EB75C5EA341382896",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "8399FA8EDF5C41BC9D3CF85DC23DC26B",
+"ActiveAttackStatus":
+{
+"DbId": "F2E6A349651940A394912A1E2DEE9628",
+"ParentDbId": "D645025916F54A3EB75C5EA341382896",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "0EF82FF1CBDE41EDBB6CC055B96071C2",
+"ParentDbId": "D645025916F54A3EB75C5EA341382896",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 8,
+"SkippedAttacks": 0,
+"FoundVulns": 5,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "BBE2BA98F24A461998ACC06B044B392F",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "FAC53175FF1E4478AA6D3E2DD4D66B6D",
+"ActiveAttackStatus":
+{
+"DbId": "CEA729D1B56E4DBEBA6931DCF6DEE77B",
+"ParentDbId": "BBE2BA98F24A461998ACC06B044B392F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "C4C92352E36D46B69B932F5B689E4C29",
+"ParentDbId": "BBE2BA98F24A461998ACC06B044B392F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 74,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "369334E57A574681A13BA7FD0F5F7FAB",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "E33B272027B844D5BBB8EDE541983474",
+"ActiveAttackStatus":
+{
+"DbId": "A3408AFC9836427D9E625909D5FCB5E8",
+"ParentDbId": "369334E57A574681A13BA7FD0F5F7FAB",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "BFB932E9EBDB4A7C9BEF3E7683CBE1D0",
+"ParentDbId": "369334E57A574681A13BA7FD0F5F7FAB",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 95,
+"SkippedAttacks": 0,
+"FoundVulns": 13,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "DD02CA35C3834412A65AA1FC7B4D5DDA",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "59646365E0E44520BE4297C3ABAA7E75",
+"ActiveAttackStatus":
+{
+"DbId": "35960BA2267C4B72A9AAF993AE7E8A3C",
+"ParentDbId": "DD02CA35C3834412A65AA1FC7B4D5DDA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "3655DE07A85C4295BAA4C02AAD8F2DB8",
+"ParentDbId": "DD02CA35C3834412A65AA1FC7B4D5DDA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1952,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "A3A970FFE5134680BA0A14918DC6F65B",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "ABEB2E590AA24A39BB6FE7DBD6338277",
+"ActiveAttackStatus":
+{
+"DbId": "EEA5ED027E784971A034FC64EBB93F51",
+"ParentDbId": "A3A970FFE5134680BA0A14918DC6F65B",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 151,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "652BDCE0AEE446BABFC8C15B57106248",
+"ParentDbId": "A3A970FFE5134680BA0A14918DC6F65B",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "DED77655CBFE41B68F9497A576D93092",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "433C43A54C714F08B822B7932D410A78",
+"ActiveAttackStatus":
+{
+"DbId": "A40AAFF1957A46E0AB5F241A4E282C0F",
+"ParentDbId": "DED77655CBFE41B68F9497A576D93092",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 43,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "CBF7C33689F44B0287D38C8C2870D582",
+"ParentDbId": "DED77655CBFE41B68F9497A576D93092",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 75,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "9BC2676A351148A7BCA93F9BAF6E3817",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "A62D1481CB394632B06C0C54FCDD0579",
+"ActiveAttackStatus":
+{
+"DbId": "F7FC30B845014F018916749AC1853508",
+"ParentDbId": "9BC2676A351148A7BCA93F9BAF6E3817",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 280,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "65A2161B665842B0983AD0EDCE358424",
+"ParentDbId": "9BC2676A351148A7BCA93F9BAF6E3817",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "E39C0EB585E747E08C92DA1E4902F3FC",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "4DE84100F31849A7B845FE5F62D2FD7A",
+"ActiveAttackStatus":
+{
+"DbId": "3CD243F7A04E4644BE9A00F1A5BF94D8",
+"ParentDbId": "E39C0EB585E747E08C92DA1E4902F3FC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "95BA01890EAE4BBAB702031F3F6D78EE",
+"ParentDbId": "E39C0EB585E747E08C92DA1E4902F3FC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 124,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "1ECB58116CE340A3AA11B74675586027",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "81C9D7ED0E33447899D5CD20B978617B",
+"ActiveAttackStatus":
+{
+"DbId": "1F46A3CC5F8948EB9FC76932F56B0D0B",
+"ParentDbId": "1ECB58116CE340A3AA11B74675586027",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 18,
+"SkippedAttacks": 0,
+"FoundVulns": 7,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "01A8209815964EDB968354F9739B21B2",
+"ParentDbId": "1ECB58116CE340A3AA11B74675586027",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "7650E58A68014C4DA26901EAE38009AC",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "0496353D92704F2E942BFE1B575D9B7C",
+"ActiveAttackStatus":
+{
+"DbId": "B0268A8D81BC420BB27E823367A7AE4A",
+"ParentDbId": "7650E58A68014C4DA26901EAE38009AC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "74ABFF20CCCD4035B1552E53E58AAC65",
+"ParentDbId": "7650E58A68014C4DA26901EAE38009AC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "E9A5037563C14E9495C6693ED3F78ADF",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "929E08F60E084936B12C984ED0F5F47C",
+"ActiveAttackStatus":
+{
+"DbId": "CE13037EA5CD44608888A682A2E4B007",
+"ParentDbId": "E9A5037563C14E9495C6693ED3F78ADF",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "60140088459143B689B57057B1CB4CEB",
+"ParentDbId": "E9A5037563C14E9495C6693ED3F78ADF",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "E22C2C7EC3DC4143AD85362A6E20A42A",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "B7FD0D454CB246AC85A29AF53C27157F",
+"ActiveAttackStatus":
+{
+"DbId": "80F3DC3B76794B8495CBF827151CB3BF",
+"ParentDbId": "E22C2C7EC3DC4143AD85362A6E20A42A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 308,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "681FBB6A217E4F1691B9BE1942BA7DAE",
+"ParentDbId": "E22C2C7EC3DC4143AD85362A6E20A42A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "ABB3A643659248EFB9AECC71092F85FB",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "07BD211A580944E591F78B40FF3F3489",
+"ActiveAttackStatus":
+{
+"DbId": "511A918252E046A7972219DC1616AF28",
+"ParentDbId": "ABB3A643659248EFB9AECC71092F85FB",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "93AF527223EC40D6A091AB14F4DBAD04",
+"ParentDbId": "ABB3A643659248EFB9AECC71092F85FB",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 254,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "E218AC39366E400C8A4EBF46E5120D9D",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "B86A3A67D710456898A9009DBF6A4989",
+"ActiveAttackStatus":
+{
+"DbId": "6574B12FBE3A4D4F90E8EC0CFFA5B753",
+"ParentDbId": "E218AC39366E400C8A4EBF46E5120D9D",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "B53FA0A47A45438DA3B1139BC8DE128C",
+"ParentDbId": "E218AC39366E400C8A4EBF46E5120D9D",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "B0048FFB26794B0CB62C425DF8B1BB60",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "62AA6A08FA764E209551B4A4C479F08D",
+"ActiveAttackStatus":
+{
+"DbId": "C9695723875B4B18AE8EFD683786B4C1",
+"ParentDbId": "B0048FFB26794B0CB62C425DF8B1BB60",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "775B8967834A4D47B56B8FED3D666D7A",
+"ParentDbId": "B0048FFB26794B0CB62C425DF8B1BB60",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 72,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "21F75FD2AC154D9981108B516810DC28",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "719FF94DEF014D29B16234909941E48E",
+"ActiveAttackStatus":
+{
+"DbId": "5FC511469D2A405CBF0DEAA0F2F738BD",
+"ParentDbId": "21F75FD2AC154D9981108B516810DC28",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 29,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "0B74F9A2A3F0472AABF13151423116FC",
+"ParentDbId": "21F75FD2AC154D9981108B516810DC28",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "9A84462F648A43D2A719B05DB0A80CC8",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "FD1C760270CE493D92F50C347C79218F",
+"ActiveAttackStatus":
+{
+"DbId": "FFBA0CEFE6494E9DBEDEDA3746969F36",
+"ParentDbId": "9A84462F648A43D2A719B05DB0A80CC8",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 58,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "21AD19A6A06748DFAE8AF9D89B8D7650",
+"ParentDbId": "9A84462F648A43D2A719B05DB0A80CC8",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "0B2021211ABA4C76896998F1A71890F1",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "0AE25E41D6F44F29900104EF86B04191",
+"ActiveAttackStatus":
+{
+"DbId": "44F32AF9E4E948D5A2CC2BA391BAE9E1",
+"ParentDbId": "0B2021211ABA4C76896998F1A71890F1",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 35,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "CAB299A748C944BD818554BCCE9E439C",
+"ParentDbId": "0B2021211ABA4C76896998F1A71890F1",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "A103ED707002489BA25DD6E55D2A00CE",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "BD57F92E956A493DA39ADDF215B29D96",
+"ActiveAttackStatus":
+{
+"DbId": "914ADA02B4C34C02ABB4CDD80DA03559",
+"ParentDbId": "A103ED707002489BA25DD6E55D2A00CE",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 50,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "85123D3C2B184507A94DAB3893B94C7D",
+"ParentDbId": "A103ED707002489BA25DD6E55D2A00CE",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "6AF37AFA287C4E9BBB67567E47D4BCF3",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "C0B05B9C334341B180D2494235FF8F99",
+"ActiveAttackStatus":
+{
+"DbId": "445D38A89CB44516B40F8ADA022AF707",
+"ParentDbId": "6AF37AFA287C4E9BBB67567E47D4BCF3",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 4,
+"SkippedAttacks": 0,
+"FoundVulns": 2,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "39771A7EA72749118377923DFB90A229",
+"ParentDbId": "6AF37AFA287C4E9BBB67567E47D4BCF3",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "D9EE5F123680461CACF97DD8BE729EF4",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "667629EC1FDC4C6D98B5F4031717BB9B",
+"ActiveAttackStatus":
+{
+"DbId": "418A0E3AF34E437A86F6CBE843EDADD5",
+"ParentDbId": "D9EE5F123680461CACF97DD8BE729EF4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 87,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "E8AE8F15217740FDA3EEA9211096A4B1",
+"ParentDbId": "D9EE5F123680461CACF97DD8BE729EF4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "ABDE00DB362D44D6B364CEC59FC9165B",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "0BE4C251F44C4CF1924104ADFD86289C",
+"ActiveAttackStatus":
+{
+"DbId": "C7064B79A8CD4FA485186FF66CCD414B",
+"ParentDbId": "ABDE00DB362D44D6B364CEC59FC9165B",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "B5FC280D417B4B4A9C7C3627FBBF9900",
+"ParentDbId": "ABDE00DB362D44D6B364CEC59FC9165B",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "8283172E9D1242358A2075AF21985B2D",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "74FB936F2BBA499F8D0AF3B7A29B4F9E",
+"ActiveAttackStatus":
+{
+"DbId": "9DEE20628195472D8C3479ECCBD68AA3",
+"ParentDbId": "8283172E9D1242358A2075AF21985B2D",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 2,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "67F051F1AF6E4FCEBECD597A821B9D40",
+"ParentDbId": "8283172E9D1242358A2075AF21985B2D",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "DE15A91658EB433EB7E6F1F15BBCA7F4",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "13623AA162FA4488852116B7EC0DE49E",
+"ActiveAttackStatus":
+{
+"DbId": "74067DCEF2154794AE2234A0F530A5BB",
+"ParentDbId": "DE15A91658EB433EB7E6F1F15BBCA7F4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "39C8A8B17561407DA4FE1C2A755F3F25",
+"ParentDbId": "DE15A91658EB433EB7E6F1F15BBCA7F4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "0BF8CBEF73924BFF90997C994A23E1A2",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "7D06B46D915644E9870F4A6B903FC09F",
+"ActiveAttackStatus":
+{
+"DbId": "72626FA98EAC4DBF960EF11A79C69FF7",
+"ParentDbId": "0BF8CBEF73924BFF90997C994A23E1A2",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 45,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "60704CB4A41C4FB5976B726BF83DE60B",
+"ParentDbId": "0BF8CBEF73924BFF90997C994A23E1A2",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "574A45E46050445F89F2CCBD46390CFD",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "B6F559D374B5451EB424A1C1FB264FA6",
+"ActiveAttackStatus":
+{
+"DbId": "221FDE8BE11F4D05B1D6853BE13746EF",
+"ParentDbId": "574A45E46050445F89F2CCBD46390CFD",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1373,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "9FD21978929D4F13BECEF66AD46DC09A",
+"ParentDbId": "574A45E46050445F89F2CCBD46390CFD",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "22056B9BAA01431CB098670CEEE45F09",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "2934BC76771C4016BD3524B432CEBCA8",
+"ActiveAttackStatus":
+{
+"DbId": "BDC74241C4D6490CB7DAF70D530B0F5B",
+"ParentDbId": "22056B9BAA01431CB098670CEEE45F09",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "E1343DAABCBE4C1D8F98A34BE5C8AF7B",
+"ParentDbId": "22056B9BAA01431CB098670CEEE45F09",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "2946FE35943D4BBE945DF26D73088987",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "B97A29683AEE4AA2B94FC26BFC2694A9",
+"ActiveAttackStatus":
+{
+"DbId": "A76D3ECE225A4EA69FE18365B45B89A1",
+"ParentDbId": "2946FE35943D4BBE945DF26D73088987",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 34,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "10F8B20093C74A22946E64D757FEB017",
+"ParentDbId": "2946FE35943D4BBE945DF26D73088987",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "FC9235DD453847A588E9A4CCFC45F72A",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "7F61DDD522C5439B9EAB4FC17B2F47AA",
+"ActiveAttackStatus":
+{
+"DbId": "026303A99F7947558F97F33DA3C73C01",
+"ParentDbId": "FC9235DD453847A588E9A4CCFC45F72A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "395DA6D0C9A44B43AAFCDAED34095404",
+"ParentDbId": "FC9235DD453847A588E9A4CCFC45F72A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "91BEF293CDD840948B50F7082ECE2336",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "F729A70998064A1F99A8BEA8512D31AE",
+"ActiveAttackStatus":
+{
+"DbId": "096C355DF5A8407EA923C1627B11FD47",
+"ParentDbId": "91BEF293CDD840948B50F7082ECE2336",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "14780238C628413E9BCAFD7418D93ABF",
+"ParentDbId": "91BEF293CDD840948B50F7082ECE2336",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "0C8E26C9DB4F4BBC9C6C08A62370A289",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "60B0D57597EF4542A15FCB8D907669B0",
+"ActiveAttackStatus":
+{
+"DbId": "E74486FA019F4673B1E2F6A60B1B2AC9",
+"ParentDbId": "0C8E26C9DB4F4BBC9C6C08A62370A289",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 52,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "6288982F47E647C992F723304756E34C",
+"ParentDbId": "0C8E26C9DB4F4BBC9C6C08A62370A289",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "293E5F0772AF4E4A9A067EAA48F9C090",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "CEB40EE490564D60B4F9B3CE79C009B5",
+"ActiveAttackStatus":
+{
+"DbId": "E34FDF78DD354AEEA619BBE4B201999B",
+"ParentDbId": "293E5F0772AF4E4A9A067EAA48F9C090",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "3C7B80C57B89427EB1E87DC50A028A3E",
+"ParentDbId": "293E5F0772AF4E4A9A067EAA48F9C090",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 237,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "FD19FFDA43FA499F95086107A02BC901",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "6A609D0096124619842EE23FA7C989B5",
+"ActiveAttackStatus":
+{
+"DbId": "55722938798F42148C6731CC3F78DD78",
+"ParentDbId": "FD19FFDA43FA499F95086107A02BC901",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "B7666D3225D54BF782EA7DC8006C71EB",
+"ParentDbId": "FD19FFDA43FA499F95086107A02BC901",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 518,
+"SkippedAttacks": 0,
+"FoundVulns": 8,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "BB8765AB4CBC4B04BEAC14020C695F05",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "59597A25A9504D5AAD20B74A4DCCABB7",
+"ActiveAttackStatus":
+{
+"DbId": "8FEC3FF4BB1E4082882BF7A347809839",
+"ParentDbId": "BB8765AB4CBC4B04BEAC14020C695F05",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 45,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "199A0CD2D22C4163B15671BFDC8745C9",
+"ParentDbId": "BB8765AB4CBC4B04BEAC14020C695F05",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "A6F697D167804363B8B1EE7C73FBE889",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "ED2E98EFF9A14BF7ACA06A7B28FF97BE",
+"ActiveAttackStatus":
+{
+"DbId": "DCE64C54FAD149479720048D6F2C040B",
+"ParentDbId": "A6F697D167804363B8B1EE7C73FBE889",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "0BB800FE16F942AFA65222B126DCEF98",
+"ParentDbId": "A6F697D167804363B8B1EE7C73FBE889",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 233,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "647EB72D2A62460AB11A31F7BB9ADC2C",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "240EBB4A72024BA585833EB1F1AB4EC0",
+"ActiveAttackStatus":
+{
+"DbId": "C646CEE00D4840DABAE553CF47B18B42",
+"ParentDbId": "647EB72D2A62460AB11A31F7BB9ADC2C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "7ABDF3ACAB61439190022D5B3B643090",
+"ParentDbId": "647EB72D2A62460AB11A31F7BB9ADC2C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 74,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "29E8566B27B5444E87BD339EEE3EDFDC",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "A8091DB7769C49ED9E844B9F19529AC1",
+"ActiveAttackStatus":
+{
+"DbId": "6F93B857BDD049FCB51B89D17D459055",
+"ParentDbId": "29E8566B27B5444E87BD339EEE3EDFDC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "53E1A24B8D7C4B90914424892CA6A2BB",
+"ParentDbId": "29E8566B27B5444E87BD339EEE3EDFDC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "C46676C1FB0E4D74883A6AC4385FB19D",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "B69E83831D26496BB2CC0C0D70181EC3",
+"ActiveAttackStatus":
+{
+"DbId": "9AD378C35CF74D929D3184C4F0165103",
+"ParentDbId": "C46676C1FB0E4D74883A6AC4385FB19D",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "DDDF6C7CE5BC4326BB148535FCC41F3E",
+"ParentDbId": "C46676C1FB0E4D74883A6AC4385FB19D",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 150,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "09B56399CE6D49BB9C80A67390632FC5",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "99E5E4DD1B734047B95402FB7C76BEC3",
+"ActiveAttackStatus":
+{
+"DbId": "A6733FF39F47400C81DC0C7C84C1E225",
+"ParentDbId": "09B56399CE6D49BB9C80A67390632FC5",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1474,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "885B5BB1ADF74CC4A153FF20C66CFFC9",
+"ParentDbId": "09B56399CE6D49BB9C80A67390632FC5",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "D43A974D933B4A0995E745ED5EF5A1FF",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "46A8FE469F6C44BFB9946C021A2BCDC8",
+"ActiveAttackStatus":
+{
+"DbId": "B4911B6F1ECF454BB69AA40E4BF899EB",
+"ParentDbId": "D43A974D933B4A0995E745ED5EF5A1FF",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "778E61F5DD394C88AF721A26A8901425",
+"ParentDbId": "D43A974D933B4A0995E745ED5EF5A1FF",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 288,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "381C448A65A34007A87A50258919D040",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "0DB2C1311DA74B80A153A8733C74D6CC",
+"ActiveAttackStatus":
+{
+"DbId": "2654C89B95774A9FB3FADE57D5FEFB1C",
+"ParentDbId": "381C448A65A34007A87A50258919D040",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "9D75706EBE294E1AB9AFADEFA729B8E0",
+"ParentDbId": "381C448A65A34007A87A50258919D040",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 73,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "2C177B8D10D345E793D6B044E80B3832",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "DE08B6DDD872440E91347969D514CFD6",
+"ActiveAttackStatus":
+{
+"DbId": "7B7A8DB4470540ECB190D957B50FCBF6",
+"ParentDbId": "2C177B8D10D345E793D6B044E80B3832",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 318,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "FCE2EEDACCD343E4B2DADED734D6EE9E",
+"ParentDbId": "2C177B8D10D345E793D6B044E80B3832",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "7C532A03A93845029E769AF2FD09B276",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "F74CCB3314134B21A3B5D5D78BECEADB",
+"ActiveAttackStatus":
+{
+"DbId": "12647E90C0CC47EFA68FF220378FCBFD",
+"ParentDbId": "7C532A03A93845029E769AF2FD09B276",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 304,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "BF0F66A90529416E8FA264E636DE30BF",
+"ParentDbId": "7C532A03A93845029E769AF2FD09B276",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "6EB502EC51DE418CB5A4E20E6FCB1A0F",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "55D76EB20CE54C01856E43223232E3DD",
+"ActiveAttackStatus":
+{
+"DbId": "5C623E015F2D48F7A63D9CAFB30CE576",
+"ParentDbId": "6EB502EC51DE418CB5A4E20E6FCB1A0F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "169CA0FB5D084DCE99A5F2C94ACB392D",
+"ParentDbId": "6EB502EC51DE418CB5A4E20E6FCB1A0F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 248,
+"SkippedAttacks": 0,
+"FoundVulns": 19,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "4A8FA303ABD74EE484F9B4A1DDAA18CF",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "BBFCB66779ED4E7292C08F19E9BB45DF",
+"ActiveAttackStatus":
+{
+"DbId": "3C0C65034CA644518DB1B39C170D9BA5",
+"ParentDbId": "4A8FA303ABD74EE484F9B4A1DDAA18CF",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "559D13DF94784D9386894ECCEA35FA70",
+"ParentDbId": "4A8FA303ABD74EE484F9B4A1DDAA18CF",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 366,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "B9359138A20E419F9270F952AC8A82B4",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "ABFA075919804435A25A22A8CAC191DF",
+"ActiveAttackStatus":
+{
+"DbId": "3F9C416A58E347C38F0DD5BCC91DE7B0",
+"ParentDbId": "B9359138A20E419F9270F952AC8A82B4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "BE1A3BE3F40647E9B9CF2C93695DE82B",
+"ParentDbId": "B9359138A20E419F9270F952AC8A82B4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "028B4103744D4F279CCC2C197F0ABCF4",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "AFF041E38E444889B271CDE1B24378EA",
+"ActiveAttackStatus":
+{
+"DbId": "33498D1622FA4752A4E2603C88D83237",
+"ParentDbId": "028B4103744D4F279CCC2C197F0ABCF4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "2AF3C0C78C5B4578B59E9F0ABE42B2CB",
+"ParentDbId": "028B4103744D4F279CCC2C197F0ABCF4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1503,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "649F2C5FAD7D4D16A3176FC548B9569F",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "FF01402DB70848D88ACB0736B6E4BCF5",
+"ActiveAttackStatus":
+{
+"DbId": "56A0FAFEE1104F64B0871B121BAF90C8",
+"ParentDbId": "649F2C5FAD7D4D16A3176FC548B9569F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "ED87A83FE8B04CBAA2E77411B255E087",
+"ParentDbId": "649F2C5FAD7D4D16A3176FC548B9569F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "D87385861BDD4AE2BF22952469D89AE1",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"Module": "F10ACEB0A6804D0F93516428E64B46FD",
+"ActiveAttackStatus":
+{
+"DbId": "50B8D7905657483C8C4A34D2FDAF7D01",
+"ParentDbId": "D87385861BDD4AE2BF22952469D89AE1",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "AD780B1EAD0D467D805CC16E21D5DCBE",
+"ParentDbId": "D87385861BDD4AE2BF22952469D89AE1",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 282,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+}
+],
+"AttackTypeStatusList":
+[
+{
+"DbId": "CCA0BFB58F1944DE9EE61486AABF9508",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "AnonymousAccessType",
+"ActiveAttackStatus":
+{
+"DbId": "A6FD372590BD4A8DB34E2A9B0D3EA012",
+"ParentDbId": "CCA0BFB58F1944DE9EE61486AABF9508",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 4,
+"SkippedAttacks": 0,
+"FoundVulns": 2,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "B64D10F006CF46A382147A683A6150E8",
+"ParentDbId": "CCA0BFB58F1944DE9EE61486AABF9508",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "4DDE1FEB044D414982DB6B92C60E5F04",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "Apache Struts 2 Framework Checks",
+"ActiveAttackStatus":
+{
+"DbId": "EF10B243A0CF4B81940D953F07868182",
+"ParentDbId": "4DDE1FEB044D414982DB6B92C60E5F04",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 45,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "44ED12B3994341BA9FD8A84AEB086E2A",
+"ParentDbId": "4DDE1FEB044D414982DB6B92C60E5F04",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "CEECFB556829482085FFD32F5F0108B0",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "Apache Struts Detection",
+"ActiveAttackStatus":
+{
+"DbId": "9F9A909C61394328864F3CA4E298A89F",
+"ParentDbId": "CEECFB556829482085FFD32F5F0108B0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "5D3CDDC7E8434D3EA33A1366B2624511",
+"ParentDbId": "CEECFB556829482085FFD32F5F0108B0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 122,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "A0171EE90CD64D3BBFCCBC87DE053F97",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "AspNetMisconfiguration",
+"ActiveAttackStatus":
+{
+"DbId": "2BEDF6F32095492B890744F228E82699",
+"ParentDbId": "A0171EE90CD64D3BBFCCBC87DE053F97",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 29,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "AF53922B9A304F91AD204EBD4B486983",
+"ParentDbId": "A0171EE90CD64D3BBFCCBC87DE053F97",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "B3B8078CB22443318B231D458AB46971",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "AspNetSerialization",
+"ActiveAttackStatus":
+{
+"DbId": "6A2159E9A23D4E7B9ED8F1EDF1875C08",
+"ParentDbId": "B3B8078CB22443318B231D458AB46971",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "92D60AFDE3274F9BAF6CEE092FC6C724",
+"ParentDbId": "B3B8078CB22443318B231D458AB46971",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "F4A47DCAA2AE4C8DB7B176BF919B6DED",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "AutocompleteAttributeCheck",
+"ActiveAttackStatus":
+{
+"DbId": "5EE4B015784C4D42A5BFFD5C1B430A8D",
+"ParentDbId": "F4A47DCAA2AE4C8DB7B176BF919B6DED",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "D1593B8BC7A44FF9B1B4196AF112142D",
+"ParentDbId": "F4A47DCAA2AE4C8DB7B176BF919B6DED",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 366,
+"SkippedAttacks": 0,
+"FoundVulns": 3,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "3B970C5CE78949ACA144A7763161A2C1",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "BSQLInjection",
+"ActiveAttackStatus":
+{
+"DbId": "2950C707117446569E75D5BE30A36C93",
+"ParentDbId": "3B970C5CE78949ACA144A7763161A2C1",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1585,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "CA8C9A41549B4A2099EFEFB3D99E6F6D",
+"ParentDbId": "3B970C5CE78949ACA144A7763161A2C1",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "738E6710F0D4465191DACB5024902F30",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "Blind LDAP Injection",
+"ActiveAttackStatus":
+{
+"DbId": "2C01774D44754DDEA99153A982E20601",
+"ParentDbId": "738E6710F0D4465191DACB5024902F30",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 6,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "202ED17E108B4887B6511E90E38AE99F",
+"ParentDbId": "738E6710F0D4465191DACB5024902F30",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "F0A84E74D9234F7590CFB4570A9C31BA",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "BrowserCacheCheck",
+"ActiveAttackStatus":
+{
+"DbId": "3E78B99EA8C74CC9906B6197E2D21FE3",
+"ParentDbId": "F0A84E74D9234F7590CFB4570A9C31BA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "0CE29478A2B94094BAB16FCCAAC3F741",
+"ParentDbId": "F0A84E74D9234F7590CFB4570A9C31BA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 95,
+"SkippedAttacks": 0,
+"FoundVulns": 13,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "534BD31C06A64FB1AC30A96DCA2FCC22",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "BrowserCacheInfoCheck",
+"ActiveAttackStatus":
+{
+"DbId": "5163D3B57BD6459A8A7BC40BCE779236",
+"ParentDbId": "534BD31C06A64FB1AC30A96DCA2FCC22",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "1227F1BFCD704A0FB8797A39CDFA78C8",
+"ParentDbId": "534BD31C06A64FB1AC30A96DCA2FCC22",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 152,
+"SkippedAttacks": 0,
+"FoundVulns": 16,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "EA49E8D7C90C455EA0851A186D2926F4",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "BufferOverflow",
+"ActiveAttackStatus":
+{
+"DbId": "F4A53BFD7D3C401B98AF586E0D7741C7",
+"ParentDbId": "EA49E8D7C90C455EA0851A186D2926F4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 88,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "F2950B8259474D88BBE1EDA5D1263BE8",
+"ParentDbId": "EA49E8D7C90C455EA0851A186D2926F4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "C21D0D12E68B473A88F48601132F9DFC",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "CORS",
+"ActiveAttackStatus":
+{
+"DbId": "5F3D20723E9B4419A67F6762D0DE9211",
+"ParentDbId": "C21D0D12E68B473A88F48601132F9DFC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "2998CDA3122D4344AFC7D15435E134AF",
+"ParentDbId": "C21D0D12E68B473A88F48601132F9DFC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 10,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "6F78063B7AE1498B9E3659F829FF9FC3",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "CSPHeaders",
+"ActiveAttackStatus":
+{
+"DbId": "634AC66A09804AD2A1B889EF92A93FD9",
+"ParentDbId": "6F78063B7AE1498B9E3659F829FF9FC3",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "4B68EFBD79874DE1AD9A734A6BFB34D7",
+"ParentDbId": "6F78063B7AE1498B9E3659F829FF9FC3",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 432,
+"SkippedAttacks": 0,
+"FoundVulns": 7,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "BA495E529F0D4B17814E08E6AE5A2985",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "CSRF",
+"ActiveAttackStatus":
+{
+"DbId": "6B660814BF6C4BDEB3E264D93D91E20D",
+"ParentDbId": "BA495E529F0D4B17814E08E6AE5A2985",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 18,
+"SkippedAttacks": 0,
+"FoundVulns": 7,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "9AE98D247C22403B816BF0963FFA6BCC",
+"ParentDbId": "BA495E529F0D4B17814E08E6AE5A2985",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "0C20CB469E434526A866A39AC28F1C2A",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "Cleartext Credentials",
+"ActiveAttackStatus":
+{
+"DbId": "4D17876B52CF4F54A1CD18BAE8BA93C9",
+"ParentDbId": "0C20CB469E434526A866A39AC28F1C2A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "BBA7E8FFD79D42F096F9BE071856DFC6",
+"ParentDbId": "0C20CB469E434526A866A39AC28F1C2A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 74,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "3E3D1F61D8F74C2AAA8DFC605B6AB004",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "Clients Cross-Domain Policy",
+"ActiveAttackStatus":
+{
+"DbId": "AB78A2C658A34D499494689724D355FD",
+"ParentDbId": "3E3D1F61D8F74C2AAA8DFC605B6AB004",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 58,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "69E03BBDCF2F4720A772E731D76209A7",
+"ParentDbId": "3E3D1F61D8F74C2AAA8DFC605B6AB004",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "53EF989575A740088E7F86918261ED3C",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "Credentials Over Un Encrypted Channel",
+"ActiveAttackStatus":
+{
+"DbId": "4F29D67C45A64C72B1C7E97A9DEEBE95",
+"ParentDbId": "53EF989575A740088E7F86918261ED3C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "FA5D28AEEE34487A81B32E0C29C69125",
+"ParentDbId": "53EF989575A740088E7F86918261ED3C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 116,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "9AF4290263524D38A4FC1929C59A58CA",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "Credentials sent with GET method",
+"ActiveAttackStatus":
+{
+"DbId": "6E77F6905F62446C81DB240FF43CE5BE",
+"ParentDbId": "9AF4290263524D38A4FC1929C59A58CA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "FCEC8CDC167C4EFBB509F43F1F7C7787",
+"ParentDbId": "9AF4290263524D38A4FC1929C59A58CA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 116,
+"SkippedAttacks": 0,
+"FoundVulns": 2,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "5091A7E498B84BF9AB16079A26B48676",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "CreditCardNumber",
+"ActiveAttackStatus":
+{
+"DbId": "3887C3F2E8CB487189D96FC31B0AE33D",
+"ParentDbId": "5091A7E498B84BF9AB16079A26B48676",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "79C243B8E7AD4FE9B6F98B853C276D9D",
+"ParentDbId": "5091A7E498B84BF9AB16079A26B48676",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 730,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "B243DE70B6E64A82BDDF7A9F0ECD1EBC",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "CreditCardType",
+"ActiveAttackStatus":
+{
+"DbId": "EFD9447D70B84ACAAFE022169D785AAA",
+"ParentDbId": "B243DE70B6E64A82BDDF7A9F0ECD1EBC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "BEC16343AFAC4BE98EDFDEB39308E7D0",
+"ParentDbId": "B243DE70B6E64A82BDDF7A9F0ECD1EBC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 73,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "C0FA69CE6B0B4979938F490682E09C0B",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "DirectoryIndexing",
+"ActiveAttackStatus":
+{
+"DbId": "9E518F275B15479EB7B7F0DB0314B3FE",
+"ParentDbId": "C0FA69CE6B0B4979938F490682E09C0B",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 29,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "269F7C9972A844D0B322C6E3CEB28026",
+"ParentDbId": "C0FA69CE6B0B4979938F490682E09C0B",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "949553ED8002405FAFCCE9CAF49906F0",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "EmailAddress",
+"ActiveAttackStatus":
+{
+"DbId": "2C26BE273F0947FB9B8942D65D23817D",
+"ParentDbId": "949553ED8002405FAFCCE9CAF49906F0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "63913903FC21460BB861EF6AC43071AD",
+"ParentDbId": "949553ED8002405FAFCCE9CAF49906F0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 149,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "5E295FF4C16D44B3A74CF3413E9815B7",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "ExpressionLanguageInjection",
+"ActiveAttackStatus":
+{
+"DbId": "8DC7E5966A8D43669EB7DB9551A7738B",
+"ParentDbId": "5E295FF4C16D44B3A74CF3413E9815B7",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "B496DA2C42B0451E9AD90C50C411C7EE",
+"ParentDbId": "5E295FF4C16D44B3A74CF3413E9815B7",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "62928D2843D5433881F5DDB6C65B5E69",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "ForcedBrowsing",
+"ActiveAttackStatus":
+{
+"DbId": "8179A13B1B8444D89DD7DA434A20D2DA",
+"ParentDbId": "62928D2843D5433881F5DDB6C65B5E69",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 6,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "EB27FDFD7A804324891408B049C31D1A",
+"ParentDbId": "62928D2843D5433881F5DDB6C65B5E69",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "BF8BB8D756F44197BFAAAC9F9EDA9B66",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "FormBruteForce",
+"ActiveAttackStatus":
+{
+"DbId": "94768EF6C30944DD8BFE798DA43D9782",
+"ParentDbId": "BF8BB8D756F44197BFAAAC9F9EDA9B66",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "35349B6BD38043CAB887E14BA78FE257",
+"ParentDbId": "BF8BB8D756F44197BFAAAC9F9EDA9B66",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "1DF1CC6BAB754F21B76C2056834EEE2C",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "FormReSubmission",
+"ActiveAttackStatus":
+{
+"DbId": "8B333D871F534F35B8B621098EB7C234",
+"ParentDbId": "1DF1CC6BAB754F21B76C2056834EEE2C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "79DF619A60634F70901018BEA6E61E0B",
+"ParentDbId": "1DF1CC6BAB754F21B76C2056834EEE2C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 22,
+"SkippedAttacks": 0,
+"FoundVulns": 2,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "50D74E5330474B6B8DD6CB25517CC12C",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "FormSessionStrength",
+"ActiveAttackStatus":
+{
+"DbId": "7865D52DA8CA459381A4BC59F5F3A010",
+"ParentDbId": "50D74E5330474B6B8DD6CB25517CC12C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "4BDA02B4F420419F89CEEAC359B11ACC",
+"ParentDbId": "50D74E5330474B6B8DD6CB25517CC12C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "7BE2355F850942768C1942FA152FE086",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "FrontPageChecks",
+"ActiveAttackStatus":
+{
+"DbId": "D2393443B15F4BC5AD5D35B7F6D187BA",
+"ParentDbId": "7BE2355F850942768C1942FA152FE086",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 16,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "A8DAA66410A54F66BE4B5969899C46A2",
+"ParentDbId": "7BE2355F850942768C1942FA152FE086",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "954167BF31AC45649D8016FC39CDD7FC",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "HTTP Strict Transport Security",
+"ActiveAttackStatus":
+{
+"DbId": "A236DEBF6E4C44C08779BC4D4009E691",
+"ParentDbId": "954167BF31AC45649D8016FC39CDD7FC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "F5FC646D4E354220B26E8F7A40F9D673",
+"ParentDbId": "954167BF31AC45649D8016FC39CDD7FC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 8,
+"SkippedAttacks": 0,
+"FoundVulns": 4,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "388C398C017443D1B5E08204CC38CBCF",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "HTTPAuthentication",
+"ActiveAttackStatus":
+{
+"DbId": "995578CB4FF544448A48A0E8E41F0785",
+"ParentDbId": "388C398C017443D1B5E08204CC38CBCF",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "FBD64A3D88FC4E47B8AB4BA8B1699989",
+"ParentDbId": "388C398C017443D1B5E08204CC38CBCF",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 254,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "D8F466CC64234B32A44DC26873D4D54D",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "HTTPBruteForce",
+"ActiveAttackStatus":
+{
+"DbId": "7AE3D088BDAD43588CA0665CBAAB5293",
+"ParentDbId": "D8F466CC64234B32A44DC26873D4D54D",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "479981ED9C1A47D48F04C184A32E43CC",
+"ParentDbId": "D8F466CC64234B32A44DC26873D4D54D",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "57ACEAF12ADC484EBFB798BC281266CE",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "HTTPHeaders",
+"ActiveAttackStatus":
+{
+"DbId": "A13DD632DAEA465891D12DBF989CE21D",
+"ParentDbId": "57ACEAF12ADC484EBFB798BC281266CE",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "EFDD6BA4663845BC8742248F6D8D3A62",
+"ParentDbId": "57ACEAF12ADC484EBFB798BC281266CE",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 248,
+"SkippedAttacks": 0,
+"FoundVulns": 19,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "4761729C58A84FA2AE96B6A40703E071",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "HTTPQuerySessionCheck",
+"ActiveAttackStatus":
+{
+"DbId": "091FDDDDCAFF4995AFAA64B9EF2AB9B5",
+"ParentDbId": "4761729C58A84FA2AE96B6A40703E071",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "15CEB73D1CF04A67B35A095FF7F9F137",
+"ParentDbId": "4761729C58A84FA2AE96B6A40703E071",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "A0199887A72F4E5CA5D39B1B937EE069",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "HTTPSDowngrade",
+"ActiveAttackStatus":
+{
+"DbId": "9795818369FF48B898D77B4A6291602A",
+"ParentDbId": "A0199887A72F4E5CA5D39B1B937EE069",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 52,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "D775D45632AE481C9515FBA44A3B27BA",
+"ParentDbId": "A0199887A72F4E5CA5D39B1B937EE069",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "14ECA11CB794417BB40FF4EB49470E8F",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "HTTPSEverywhere",
+"ActiveAttackStatus":
+{
+"DbId": "CCAB0C23AA9747C7B700DFBF457BA0D0",
+"ParentDbId": "14ECA11CB794417BB40FF4EB49470E8F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 105,
+"SkippedAttacks": 0,
+"FoundVulns": 35,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "DC840FE08E904C7AA1886E02D5BC3E60",
+"ParentDbId": "14ECA11CB794417BB40FF4EB49470E8F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 127,
+"SkippedAttacks": 0,
+"FoundVulns": 2,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "C8E1A9BDFC6F4FD08AE9FD3910387A57",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "HTTPUserAgent",
+"ActiveAttackStatus":
+{
+"DbId": "63AFA5CD83F84EDE9BB11480D2D1D5EB",
+"ParentDbId": "C8E1A9BDFC6F4FD08AE9FD3910387A57",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 165,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "065EA21C54CE4C70AA054E7230F05F67",
+"ParentDbId": "C8E1A9BDFC6F4FD08AE9FD3910387A57",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "923D836B916B4F99857529A0C4FFA1E0",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "HardCodedPassword",
+"ActiveAttackStatus":
+{
+"DbId": "23A88B38C21A4C0A941FE1303D210A68",
+"ParentDbId": "923D836B916B4F99857529A0C4FFA1E0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "6DB2071FBAC947ACAC17569F152E40F6",
+"ParentDbId": "923D836B916B4F99857529A0C4FFA1E0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 329,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "54348374E9EC4E7EB8060BB8A940ED0F",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "HeartbleedCheck",
+"ActiveAttackStatus":
+{
+"DbId": "657528D19D604E30B5397F488FAEA54E",
+"ParentDbId": "54348374E9EC4E7EB8060BB8A940ED0F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 2,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "4560FA51B7744835868FCFCA95EA79CC",
+"ParentDbId": "54348374E9EC4E7EB8060BB8A940ED0F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "402F3BD186A94867826415DA4C19F170",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "HtmlPrivacyCheck",
+"ActiveAttackStatus":
+{
+"DbId": "D83F3F66791C45A29123FE95729FF901",
+"ParentDbId": "402F3BD186A94867826415DA4C19F170",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "B8D0294AF41A4F358CAD4B8FC5F6DD26",
+"ParentDbId": "402F3BD186A94867826415DA4C19F170",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "E092A9EAFDE24629AC5175E04912A14C",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "HttpOnlyAttribute",
+"ActiveAttackStatus":
+{
+"DbId": "D83A414717D64B868B3E967251EF57EB",
+"ParentDbId": "E092A9EAFDE24629AC5175E04912A14C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "2DDFFCC176EA47ADBA32AE4E9B4D610B",
+"ParentDbId": "E092A9EAFDE24629AC5175E04912A14C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 122,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "74632BDA99D342119598F5FAE206F920",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "HttpResponseSplitting",
+"ActiveAttackStatus":
+{
+"DbId": "9E34905D3AE643EAB1517E23FE9B2D10",
+"ParentDbId": "74632BDA99D342119598F5FAE206F920",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 318,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "FA95366EDA5A40258D2249CC440FDFBA",
+"ParentDbId": "74632BDA99D342119598F5FAE206F920",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "25868A8C855B491A82FA9E40B525EC76",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "IPAddress",
+"ActiveAttackStatus":
+{
+"DbId": "B4D4D91472554E7987E024A053156F67",
+"ParentDbId": "25868A8C855B491A82FA9E40B525EC76",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "0A7891923B844E3A802E553F4C78EC4F",
+"ParentDbId": "25868A8C855B491A82FA9E40B525EC76",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 362,
+"SkippedAttacks": 0,
+"FoundVulns": 7,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "87489CAA5E5F41BB9261ECA0632F9EA2",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "InformationDisclosure",
+"ActiveAttackStatus":
+{
+"DbId": "160AA2A60F35402A97871105FA5BFA31",
+"ParentDbId": "87489CAA5E5F41BB9261ECA0632F9EA2",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "17E3E9F99EBF492D8E6944C656A10B22",
+"ParentDbId": "87489CAA5E5F41BB9261ECA0632F9EA2",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 296,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "6A79A07F4CC8477FB8FA35AA5DF43A5A",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "InformationLeakage",
+"ActiveAttackStatus":
+{
+"DbId": "A0FF88D59CBA491AB646CB2D87185C90",
+"ParentDbId": "6A79A07F4CC8477FB8FA35AA5DF43A5A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "1DD54ADC158740CAB33620818EFC4B55",
+"ParentDbId": "6A79A07F4CC8477FB8FA35AA5DF43A5A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 3774,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "D097C1B51147470BAE400C6ED2AA0875",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "IntegerOverflow",
+"ActiveAttackStatus":
+{
+"DbId": "361379DEE289480D89D0377D01FFF7B2",
+"ParentDbId": "D097C1B51147470BAE400C6ED2AA0875",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 12,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "061F450DC2AE4FF39C7735B862D89396",
+"ParentDbId": "D097C1B51147470BAE400C6ED2AA0875",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "DF94427FB50C43B6BAAA0E4311567E89",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "JavaGrinder",
+"ActiveAttackStatus":
+{
+"DbId": "FCBE50EA805D4EF79636476F498B7110",
+"ParentDbId": "DF94427FB50C43B6BAAA0E4311567E89",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "34FBC8C66014404095E55C926EB00A77",
+"ParentDbId": "DF94427FB50C43B6BAAA0E4311567E89",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "8DD2FC124D6047D89AD025A978E0CFAA",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "JavaScriptLeaks",
+"ActiveAttackStatus":
+{
+"DbId": "16B10CF82F4445218FDBE15B8E22D0C0",
+"ParentDbId": "8DD2FC124D6047D89AD025A978E0CFAA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "6876D76A43264391BBFAF3CE8CD20C53",
+"ParentDbId": "8DD2FC124D6047D89AD025A978E0CFAA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 282,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "E2740323A3A54EA38C21CB91C52C86FE",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "LDAPInjection",
+"ActiveAttackStatus":
+{
+"DbId": "0E0DEF29BBC445078A229102C05D6D02",
+"ParentDbId": "E2740323A3A54EA38C21CB91C52C86FE",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 308,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "05F925F4E96D4BD7994C6BC77AE57385",
+"ParentDbId": "E2740323A3A54EA38C21CB91C52C86FE",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "6184BA98E96243708DA7737AAECC4A20",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "LocalFileInclude",
+"ActiveAttackStatus":
+{
+"DbId": "0BD4437C37294EFAB55A0EABC1282B88",
+"ParentDbId": "6184BA98E96243708DA7737AAECC4A20",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 98,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "360ACA8D786246AEBAFE3242E6720E19",
+"ParentDbId": "6184BA98E96243708DA7737AAECC4A20",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "05752485D65543019EC8C072054E163C",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "LocalStorageUsage",
+"ActiveAttackStatus":
+{
+"DbId": "CA892DF6296F4D6B8F72424C32C27032",
+"ParentDbId": "05752485D65543019EC8C072054E163C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "CDA045D778804EC2BC4CABBB2EC996B0",
+"ParentDbId": "05752485D65543019EC8C072054E163C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 144,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "862D86A049634909A045A89CF5A3A475",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "LogicAttack",
+"ActiveAttackStatus":
+{
+"DbId": "7F282D3A040D4992A27C0AA814AF5789",
+"ParentDbId": "862D86A049634909A045A89CF5A3A475",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 6,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "905DBD027DCC4EFAA55FC04ABA27BC73",
+"ParentDbId": "862D86A049634909A045A89CF5A3A475",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 75,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "BE2618A833234A8D821E694F1826A8DD",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "NullCode",
+"ActiveAttackStatus":
+{
+"DbId": "F853A716169A4832B6D2BD4BDA58F0F2",
+"ParentDbId": "BE2618A833234A8D821E694F1826A8DD",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 45,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "EF466FAE87A64584A4A938D5111B0B2A",
+"ParentDbId": "BE2618A833234A8D821E694F1826A8DD",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "B4542AE83C6A4496B789BAB1055C6141",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "OSCommanding",
+"ActiveAttackStatus":
+{
+"DbId": "26E1E75334194EB0AAF62DF94751A68E",
+"ParentDbId": "B4542AE83C6A4496B789BAB1055C6141",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1474,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "E32E5DBDA5E94135A060AACEAAB5FE13",
+"ParentDbId": "B4542AE83C6A4496B789BAB1055C6141",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "3199213CA940425984967C653529D343",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "OutOfBandStoredXSS",
+"ActiveAttackStatus":
+{
+"DbId": "059687B0BD3E43709B1F3FC01FD76801",
+"ParentDbId": "3199213CA940425984967C653529D343",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "01B5347FFB834B2E828681EE0CD27070",
+"ParentDbId": "3199213CA940425984967C653529D343",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "8879B5AFB64A4B16ABE7D11140ED22C1",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "OutOfBandXSS",
+"ActiveAttackStatus":
+{
+"DbId": "9ECBB65A82D246E8B2DBD0B67242253E",
+"ParentDbId": "8879B5AFB64A4B16ABE7D11140ED22C1",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 280,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "9A9232430AED4DB095ACBBC63909192D",
+"ParentDbId": "8879B5AFB64A4B16ABE7D11140ED22C1",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "7F2DDFBB73AE4775855C5040106F9BF0",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "PHPCodeExecution",
+"ActiveAttackStatus":
+{
+"DbId": "8675AC76B1004455931E4B41F4B206BE",
+"ParentDbId": "7F2DDFBB73AE4775855C5040106F9BF0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 34,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "D6A8B8DB81ED4978BF1CFF1175BCE682",
+"ParentDbId": "7F2DDFBB73AE4775855C5040106F9BF0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "7BFC20B2779140DA84A67D88A46292EA",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "ParameterFuzzing",
+"ActiveAttackStatus":
+{
+"DbId": "AAF0AF6C471F4F4F9FD22FF0F095111A",
+"ParentDbId": "7BFC20B2779140DA84A67D88A46292EA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 183,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "3B6CCAB6AB63411CAC42D4F3A934A47A",
+"ParentDbId": "7BFC20B2779140DA84A67D88A46292EA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "AF02238E4CF942A59A4C0CA04F45C75C",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "PhoneNumber",
+"ActiveAttackStatus":
+{
+"DbId": "3CA22299C0844908A88CF5403D0B3055",
+"ParentDbId": "AF02238E4CF942A59A4C0CA04F45C75C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "041D4EF1EAD14D0EB64D9DD546731F97",
+"ParentDbId": "AF02238E4CF942A59A4C0CA04F45C75C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 552,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "D5152DA541764239B6AB82EE9A716C97",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "PrivilegeEscalation",
+"ActiveAttackStatus":
+{
+"DbId": "1D51694B8CA748EC8689BE43053459E5",
+"ParentDbId": "D5152DA541764239B6AB82EE9A716C97",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 43,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "D94355E1CBC941698C3C9308505C6EC7",
+"ParentDbId": "D5152DA541764239B6AB82EE9A716C97",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 75,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "1BFE52DB2C0249D695350FCC31E57E4C",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "Profanity",
+"ActiveAttackStatus":
+{
+"DbId": "F6A6EF0B43AC4A25AAB1ED83C8528226",
+"ParentDbId": "1BFE52DB2C0249D695350FCC31E57E4C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "13BB1785884149B7BD86337AA3DF0EF2",
+"ParentDbId": "1BFE52DB2C0249D695350FCC31E57E4C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 233,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "3A977BFE40A04FBC9C187C996ADCCE08",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "Reflection",
+"ActiveAttackStatus":
+{
+"DbId": "983259E651D74A53BCB7F45B8DBF1125",
+"ParentDbId": "3A977BFE40A04FBC9C187C996ADCCE08",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 35,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "996D5642F0224D2A9F0E7C2AC41A9847",
+"ParentDbId": "3A977BFE40A04FBC9C187C996ADCCE08",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "D495FC3964A1423798EE5993F5A2D790",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "RemoteFileInclude",
+"ActiveAttackStatus":
+{
+"DbId": "D50C99E762A145C7A4CB7E090F10550F",
+"ParentDbId": "D495FC3964A1423798EE5993F5A2D790",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1336,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "F1758C0560E54E4496256CC686B9E82E",
+"ParentDbId": "D495FC3964A1423798EE5993F5A2D790",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "FAB35EDB4A9C421EA53ABFAC23B68F41",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "RequestMethodModification",
+"ActiveAttackStatus":
+{
+"DbId": "97B0A64C098F4E6F86CA0CDD5967D170",
+"ParentDbId": "FAB35EDB4A9C421EA53ABFAC23B68F41",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 31,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "B4E6360672D74FC389F6353EC5204C06",
+"ParentDbId": "FAB35EDB4A9C421EA53ABFAC23B68F41",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "E12E04A2A43D4B67B7E136297ED07068",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "ResourceFinder",
+"ActiveAttackStatus":
+{
+"DbId": "8E08B178AAB3418DB710D6D456B4048E",
+"ParentDbId": "E12E04A2A43D4B67B7E136297ED07068",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1853,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "FA08DB7958064DE2A70B740383AD3E66",
+"ParentDbId": "E12E04A2A43D4B67B7E136297ED07068",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "8A0DABE52C9C4512A970A5E70CD196D6",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "ReverseClickjacking",
+"ActiveAttackStatus":
+{
+"DbId": "BF338381D96E447EB80913AEDE9699BE",
+"ParentDbId": "8A0DABE52C9C4512A970A5E70CD196D6",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "C5E8DBBBCD5D423C92383EFB39632741",
+"ParentDbId": "8A0DABE52C9C4512A970A5E70CD196D6",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "03DB354A841A420EB08D415F19D7831A",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "ReverseProxy",
+"ActiveAttackStatus":
+{
+"DbId": "7A07EF4604514648BFF1D778186A3786",
+"ParentDbId": "03DB354A841A420EB08D415F19D7831A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 4,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "CB9B95E34A8C4D578699E873A1BCB2DF",
+"ParentDbId": "03DB354A841A420EB08D415F19D7831A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "169C79FAA76D40F79C0F76A5D2A7B026",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SQLInformationLeakage",
+"ActiveAttackStatus":
+{
+"DbId": "A023EF9AB6CE4B6CA5EA4F8F98257A9A",
+"ParentDbId": "169C79FAA76D40F79C0F76A5D2A7B026",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "0BB22246FDF6450CBF011ECA6844A4C0",
+"ParentDbId": "169C79FAA76D40F79C0F76A5D2A7B026",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1952,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "AAD0822673D146F38D3266863E80C383",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SQLInjection",
+"ActiveAttackStatus":
+{
+"DbId": "82F6652D049C4937A74D042214939DFE",
+"ParentDbId": "AAD0822673D146F38D3266863E80C383",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1373,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "5248342405FF401B937559A3CE1EAF06",
+"ParentDbId": "AAD0822673D146F38D3266863E80C383",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "7D75B0209F0F48A799271D3B61B2071E",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SQLInjectionAuth",
+"ActiveAttackStatus":
+{
+"DbId": "1C1891E8009B4D6B906DD25B3BA6D858",
+"ParentDbId": "7D75B0209F0F48A799271D3B61B2071E",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "2A039C47AFAB4D04839631A8E902549D",
+"ParentDbId": "7D75B0209F0F48A799271D3B61B2071E",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "437718D0D4F74E5F9CDEBAB2810D139A",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SQLParameterCheck",
+"ActiveAttackStatus":
+{
+"DbId": "F99F3D3F02A640D1A0BE3FAD2B4CF4A1",
+"ParentDbId": "437718D0D4F74E5F9CDEBAB2810D139A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "85EA530E96F94405A011577FEBBEE80A",
+"ParentDbId": "437718D0D4F74E5F9CDEBAB2810D139A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 237,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "8E06BDEF6944405BABE9B591823B395F",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SSI",
+"ActiveAttackStatus":
+{
+"DbId": "7A5FC7D659FC40CDBD198BEDA6F93799",
+"ParentDbId": "8E06BDEF6944405BABE9B591823B395F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 33,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "C903E85F3743408B915F848FBA1400F9",
+"ParentDbId": "8E06BDEF6944405BABE9B591823B395F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "E2AC22CD5EE046E5B869BBC2AEA6A192",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SSLCertDomainMismatch",
+"ActiveAttackStatus":
+{
+"DbId": "CAD02F32CC3C4777863E5513167AB7D6",
+"ParentDbId": "E2AC22CD5EE046E5B869BBC2AEA6A192",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "7C1EED28F92D4878BADA6F725C9A400A",
+"ParentDbId": "E2AC22CD5EE046E5B869BBC2AEA6A192",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "9EEE2C4C232B48B2BD62149DB05173DA",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SSLCertExpiration",
+"ActiveAttackStatus":
+{
+"DbId": "0144F2AAD51B405DB4E724BECB12BBE4",
+"ParentDbId": "9EEE2C4C232B48B2BD62149DB05173DA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "06237152116E4D65986B3DB4586F171B",
+"ParentDbId": "9EEE2C4C232B48B2BD62149DB05173DA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "FD012136A3CA46C3AF6A3A285E720765",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SSLCertSelfSigned",
+"ActiveAttackStatus":
+{
+"DbId": "3470A23505B24B829EB70BBFA2148DF3",
+"ParentDbId": "FD012136A3CA46C3AF6A3A285E720765",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "FA320CE18FC54508B2F5012C2FC1E31B",
+"ParentDbId": "FD012136A3CA46C3AF6A3A285E720765",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "37D9807CA5664429A76FF5074C5EB7FB",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SSLRenegotiation",
+"ActiveAttackStatus":
+{
+"DbId": "FE2D30F5AED04A09934640AD173B1B67",
+"ParentDbId": "37D9807CA5664429A76FF5074C5EB7FB",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "6A3388361A3A43AE9D6AF27828E914CC",
+"ParentDbId": "37D9807CA5664429A76FF5074C5EB7FB",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "C636A9E8598E42879F39989CEE4619F3",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SSLStrength",
+"ActiveAttackStatus":
+{
+"DbId": "205E9C0219B9478FA5F26823BF56FE9B",
+"ParentDbId": "C636A9E8598E42879F39989CEE4619F3",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "805E3842F67B4791B63C7AEA3B50B95E",
+"ParentDbId": "C636A9E8598E42879F39989CEE4619F3",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "A95031DC286C4B5BB147C572AD1ABCF4",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SSLTLSv10",
+"ActiveAttackStatus":
+{
+"DbId": "88985C67578044EC98A6D02B8E1738D4",
+"ParentDbId": "A95031DC286C4B5BB147C572AD1ABCF4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "29378ACFD5E24C1C957C3E27D81C4E25",
+"ParentDbId": "A95031DC286C4B5BB147C572AD1ABCF4",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "291A7C7A9B5D439C8BDF9BE0D7BD3763",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SSLv2v3",
+"ActiveAttackStatus":
+{
+"DbId": "7AA0B5826E6D4332A6D2BECA8D0FDBF7",
+"ParentDbId": "291A7C7A9B5D439C8BDF9BE0D7BD3763",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "C053A0C8A32747CFA239AB6FDF5DD08D",
+"ParentDbId": "291A7C7A9B5D439C8BDF9BE0D7BD3763",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "25234634633846AFB75FBED1DBA15958",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SSTInjection",
+"ActiveAttackStatus":
+{
+"DbId": "B10E8A776DBE4C7F8B36058004EC4A18",
+"ParentDbId": "25234634633846AFB75FBED1DBA15958",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 109,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "B0EFBBA08B3D4293A075FE6B60B3AB06",
+"ParentDbId": "25234634633846AFB75FBED1DBA15958",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "65F1624A7DA14721933FFDDC1B2D2632",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SameSiteAttribute",
+"ActiveAttackStatus":
+{
+"DbId": "36B9E18D019F40B4B2969A9AFF6DF11A",
+"ParentDbId": "65F1624A7DA14721933FFDDC1B2D2632",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "4E9147A85BFC4218910B2C0AD8CFDB27",
+"ParentDbId": "65F1624A7DA14721933FFDDC1B2D2632",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 122,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "9ED39C1EEE7C43BA9027FB2761E7FA0C",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SecureAttribute",
+"ActiveAttackStatus":
+{
+"DbId": "0FBDE27E73C147C68D23CC579568DB12",
+"ParentDbId": "9ED39C1EEE7C43BA9027FB2761E7FA0C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "3F65882383A648ABBA05281985CEC077",
+"ParentDbId": "9ED39C1EEE7C43BA9027FB2761E7FA0C",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 122,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "54548BF728734FD1BB8E026CD89960C3",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SecureContentMix",
+"ActiveAttackStatus":
+{
+"DbId": "BE4AE1AAF7784CE79FB21A30CD5C1FE1",
+"ParentDbId": "54548BF728734FD1BB8E026CD89960C3",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "FB4F34093CC243088601A050E333B03D",
+"ParentDbId": "54548BF728734FD1BB8E026CD89960C3",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 254,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "3A6BCB2DC8D74EB1BDE237479D671F46",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "Sensitive Data Over Un Encrypted Channel",
+"ActiveAttackStatus":
+{
+"DbId": "33ECB5C306404557B02214D6F90B106D",
+"ParentDbId": "3A6BCB2DC8D74EB1BDE237479D671F46",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "34828D0DA188450FA8C39E125696FBF4",
+"ParentDbId": "3A6BCB2DC8D74EB1BDE237479D671F46",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 116,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "618A35E595BA4C1A8EEE6EC2A1AF36C8",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "Sensitive Information sent with GET method",
+"ActiveAttackStatus":
+{
+"DbId": "187DF0BD147A448D8834E874FF8D7D74",
+"ParentDbId": "618A35E595BA4C1A8EEE6EC2A1AF36C8",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "1A82AAEE63074CA0ADAE8FA279FB02DA",
+"ParentDbId": "618A35E595BA4C1A8EEE6EC2A1AF36C8",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 116,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "51A24C8FD3AC452790A28126CC8D7CE2",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SensitiveDataInURL",
+"ActiveAttackStatus":
+{
+"DbId": "B8EA011F7DC744B79D4B76FF89208B0B",
+"ParentDbId": "51A24C8FD3AC452790A28126CC8D7CE2",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "83DDF5B7828841CD96B280C2CE311BBF",
+"ParentDbId": "51A24C8FD3AC452790A28126CC8D7CE2",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 116,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "D98934B1302543C09AF5CAD3DF0EA2DA",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SensitivePersonalInformation",
+"ActiveAttackStatus":
+{
+"DbId": "DA951FA11F7945658BACC55BF95F5CDE",
+"ParentDbId": "D98934B1302543C09AF5CAD3DF0EA2DA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "51B3A676CFB3421A89ABDE48962B787B",
+"ParentDbId": "D98934B1302543C09AF5CAD3DF0EA2DA",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 3596,
+"SkippedAttacks": 0,
+"FoundVulns": 3,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "9C4DC4DFCE40443D9BAC9FD80E4347CC",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "ServerSideRequestForgery",
+"ActiveAttackStatus":
+{
+"DbId": "084BAF11426E4F4AA7BBEA5ACDCF517A",
+"ParentDbId": "9C4DC4DFCE40443D9BAC9FD80E4347CC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 304,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "50A80B33DBCB4BED8A6610B495E90313",
+"ParentDbId": "9C4DC4DFCE40443D9BAC9FD80E4347CC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "637C00C5F88F430099FCB1A33E2A7512",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "ServerTypeDisclosure",
+"ActiveAttackStatus":
+{
+"DbId": "2F5DA2FC3A9E4C04B728C7EBA1DBD703",
+"ParentDbId": "637C00C5F88F430099FCB1A33E2A7512",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 2,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "9CF3E76F0BE848DDA37B563272C699B0",
+"ParentDbId": "637C00C5F88F430099FCB1A33E2A7512",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 58,
+"SkippedAttacks": 0,
+"FoundVulns": 2,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "BA444FA1C9C146F083F6EBBBB2916A01",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SessionFixation",
+"ActiveAttackStatus":
+{
+"DbId": "E0BCE06325A745DDB79EEBFD7934D024",
+"ParentDbId": "BA444FA1C9C146F083F6EBBBB2916A01",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "07ACF807FC4E434FADD13C7460F16595",
+"ParentDbId": "BA444FA1C9C146F083F6EBBBB2916A01",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "530AEABFE9DB48D39470F02DCD1BF45A",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SessionStrength",
+"ActiveAttackStatus":
+{
+"DbId": "D64828F65DC542B8B420839E2BEBF216",
+"ParentDbId": "530AEABFE9DB48D39470F02DCD1BF45A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "DBA98E69334542C0A203B64520EF7977",
+"ParentDbId": "530AEABFE9DB48D39470F02DCD1BF45A",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "AFCBC358725540228188EAA758CBE8B9",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SessionUpgrade",
+"ActiveAttackStatus":
+{
+"DbId": "37426C2E79B743218FE4BCA5B725397E",
+"ParentDbId": "AFCBC358725540228188EAA758CBE8B9",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "018EF19F21A64DCFBA2D5F3DA0F4CAF3",
+"ParentDbId": "AFCBC358725540228188EAA758CBE8B9",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 73,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "FA912B833C9A49A48DB324ACCBFA0E2F",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SocialSecurityNumber",
+"ActiveAttackStatus":
+{
+"DbId": "F4CBAE69E3E149078F9E3AD5B8FC0B57",
+"ParentDbId": "FA912B833C9A49A48DB324ACCBFA0E2F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "7ECA461656E04639801F0EB49189E338",
+"ParentDbId": "FA912B833C9A49A48DB324ACCBFA0E2F",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 73,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "189BAA53E0C842E1925CEC43606C9712",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SourceCodeDisclosure",
+"ActiveAttackStatus":
+{
+"DbId": "D748C012ADF94CF69BA8A85CD318FEDE",
+"ParentDbId": "189BAA53E0C842E1925CEC43606C9712",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "4178177A38034826A0871F62DF298F3B",
+"ParentDbId": "189BAA53E0C842E1925CEC43606C9712",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "CAC9D2ED82D74BD388063F3B23146C52",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "Subdomain",
+"ActiveAttackStatus":
+{
+"DbId": "E0552BCA9D0A40E9A6598EFA4F39C5E5",
+"ParentDbId": "CAC9D2ED82D74BD388063F3B23146C52",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 178,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "A1DC28851ADB48AB8EBFE369AD8C7C0C",
+"ParentDbId": "CAC9D2ED82D74BD388063F3B23146C52",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "785F581AEE964DE18198D125597EF0E7",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "SubresourceIntegrity",
+"ActiveAttackStatus":
+{
+"DbId": "A602FEBC64554CB380DCFEF22788E4DC",
+"ParentDbId": "785F581AEE964DE18198D125597EF0E7",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "25003AFEA816419EB2294B3F227449E7",
+"ParentDbId": "785F581AEE964DE18198D125597EF0E7",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 315,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "6F1D79BEC0DB475A9BD4D50EA0B240A1",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "URLRewriting",
+"ActiveAttackStatus":
+{
+"DbId": "278FA8D88E5D4A3A9646D94E3778E07B",
+"ParentDbId": "6F1D79BEC0DB475A9BD4D50EA0B240A1",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "7AEC16A3D8094A5D968C011358F1090C",
+"ParentDbId": "6F1D79BEC0DB475A9BD4D50EA0B240A1",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 150,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "C6DD57C893584DF4B2B86FF0471BD3B0",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "UnrestrictedFileUpload",
+"ActiveAttackStatus":
+{
+"DbId": "2DE52C83638F4735812B088B5241FD31",
+"ParentDbId": "C6DD57C893584DF4B2B86FF0471BD3B0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "D626646B754B4EA699403B24ECBA08B0",
+"ParentDbId": "C6DD57C893584DF4B2B86FF0471BD3B0",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "A248D077C88A43FCBC0A2E56B24A1192",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "UnsecureDataTransmission",
+"ActiveAttackStatus":
+{
+"DbId": "D7CCB0AD8E144623BA55FBA5C8966625",
+"ParentDbId": "A248D077C88A43FCBC0A2E56B24A1192",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "C6C034FA132C4B8DAE70E42653E2E280",
+"ParentDbId": "A248D077C88A43FCBC0A2E56B24A1192",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 116,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "1F91EFF03FD140BFAD5A123DFA9D5595",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "UnvalidatedURLRedirect",
+"ActiveAttackStatus":
+{
+"DbId": "D4CA5D64CFE44FB896AA13CF5310F21D",
+"ParentDbId": "1F91EFF03FD140BFAD5A123DFA9D5595",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 308,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "B23EBCAA8DBA47A5A78F01985955BFE9",
+"ParentDbId": "1F91EFF03FD140BFAD5A123DFA9D5595",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "BA8DF5F19C93465681C5AB8808819C3E",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "ViewStateCheck",
+"ActiveAttackStatus":
+{
+"DbId": "B733C1DDF3724294A611B655CE059185",
+"ParentDbId": "BA8DF5F19C93465681C5AB8808819C3E",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "0B8C5832357D4E9DAE55F9132D291EA3",
+"ParentDbId": "BA8DF5F19C93465681C5AB8808819C3E",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 124,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "B3F1BCF8B0A145F588273EC8F97AB2F3",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "WebBeacon",
+"ActiveAttackStatus":
+{
+"DbId": "598A4C4E82B44949995B51D7C9FE9202",
+"ParentDbId": "B3F1BCF8B0A145F588273EC8F97AB2F3",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 1,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "55E032B8F6584DA58009110EFB84F409",
+"ParentDbId": "B3F1BCF8B0A145F588273EC8F97AB2F3",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "13F2A885E62F4F77AC2492C37905B808",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "WebDAV",
+"ActiveAttackStatus":
+{
+"DbId": "99BA77D86C384FED917F414C20575B85",
+"ParentDbId": "13F2A885E62F4F77AC2492C37905B808",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 87,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "B5C6DB08332D438FA5AE0F717993CEDF",
+"ParentDbId": "13F2A885E62F4F77AC2492C37905B808",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "E6FD490527794C5593F882ED275A16E8",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "WebMethod",
+"ActiveAttackStatus":
+{
+"DbId": "FD87AEACA97C42F8A00F651291AF1CEE",
+"ParentDbId": "E6FD490527794C5593F882ED275A16E8",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 2,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "E323738E4FC0413B908445B27743A2D2",
+"ParentDbId": "E6FD490527794C5593F882ED275A16E8",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "20A5F8F750FA479DB8A3E4EF6DCD3A8B",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "WebServiceParameterFuzzing",
+"ActiveAttackStatus":
+{
+"DbId": "D874E2467C9A494AAF1FE5B58A7D245E",
+"ParentDbId": "20A5F8F750FA479DB8A3E4EF6DCD3A8B",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "7FA4EF63CD7641E2AFE0AE9B54327C7A",
+"ParentDbId": "20A5F8F750FA479DB8A3E4EF6DCD3A8B",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "25E36CD914BA42C2ADF6F15106F4C46E",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "X-Content-Type-Options",
+"ActiveAttackStatus":
+{
+"DbId": "42D3B1267C5F4831B573DD233CE8C051",
+"ParentDbId": "25E36CD914BA42C2ADF6F15106F4C46E",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "F9CAC4F553E84CD89EE481A59BD32CDF",
+"ParentDbId": "25E36CD914BA42C2ADF6F15106F4C46E",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 8,
+"SkippedAttacks": 0,
+"FoundVulns": 5,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "606E41E3B5474D7D9D6368DA9BF7A3AB",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "X-Frame-Options",
+"ActiveAttackStatus":
+{
+"DbId": "D838EFCF5F944DC298F1615126F0B5D9",
+"ParentDbId": "606E41E3B5474D7D9D6368DA9BF7A3AB",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "C41BE3984CCB416EA368929F89CA338A",
+"ParentDbId": "606E41E3B5474D7D9D6368DA9BF7A3AB",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 15,
+"SkippedAttacks": 0,
+"FoundVulns": 10,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "1FCE290CC721440C9CEB539204BB3E28",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "X-XSS-Protection",
+"ActiveAttackStatus":
+{
+"DbId": "A0D9ACDD45E0467184CEABE4121D2B62",
+"ParentDbId": "1FCE290CC721440C9CEB539204BB3E28",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "AE3B48D67EC74F5AADCD44B004419664",
+"ParentDbId": "1FCE290CC721440C9CEB539204BB3E28",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 8,
+"SkippedAttacks": 0,
+"FoundVulns": 5,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "A9C9F625CD0C4E37AEDB0FF1E0CA0F33",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "XMLExternalEntity",
+"ActiveAttackStatus":
+{
+"DbId": "893D11506512412E9315545A7B5EF17F",
+"ParentDbId": "A9C9F625CD0C4E37AEDB0FF1E0CA0F33",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "F78F3483831A494FADDDB187C0040D0C",
+"ParentDbId": "A9C9F625CD0C4E37AEDB0FF1E0CA0F33",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "01AFBFA8C3CA420599FF286D9E040B19",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "XPathInjection",
+"ActiveAttackStatus":
+{
+"DbId": "52FABAB58BF74496927FB4337774B2AB",
+"ParentDbId": "01AFBFA8C3CA420599FF286D9E040B19",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 283,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "57FDC9A965C64B8B81FA6631B7A6D5D9",
+"ParentDbId": "01AFBFA8C3CA420599FF286D9E040B19",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "4DB8D91AC13B47228A05340F51F2FDF5",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "XPoweredByHeader",
+"ActiveAttackStatus":
+{
+"DbId": "04A7D6098EF0466A9D199784B781D646",
+"ParentDbId": "4DB8D91AC13B47228A05340F51F2FDF5",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "2C07AD690997461AA7BC29953D6CBB42",
+"ParentDbId": "4DB8D91AC13B47228A05340F51F2FDF5",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 75,
+"SkippedAttacks": 0,
+"FoundVulns": 1,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "3F1742FC52E340A397787114FB530288",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "XSS",
+"ActiveAttackStatus":
+{
+"DbId": "642A7157E9914294B3D91DEA8D105E1C",
+"ParentDbId": "3F1742FC52E340A397787114FB530288",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 431,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "B48D4E5A58C84409BD631DD1C440D4A4",
+"ParentDbId": "3F1742FC52E340A397787114FB530288",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "FE4C3D782F464B8C9ACEBECB7B579D49",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "XSS_DOM",
+"ActiveAttackStatus":
+{
+"DbId": "739A8EDE74A746EA92EC131428E2B498",
+"ParentDbId": "FE4C3D782F464B8C9ACEBECB7B579D49",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "8172F21B5B1743C78B1AF03009998C50",
+"ParentDbId": "FE4C3D782F464B8C9ACEBECB7B579D49",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 288,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "A4440C825A994F0B96893D43174281E6",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "XSS_DOM_EX",
+"ActiveAttackStatus":
+{
+"DbId": "186C827FA0FF435B892733677061064F",
+"ParentDbId": "A4440C825A994F0B96893D43174281E6",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 50,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "BD81E66E204A4CDBBBED52B055F4052B",
+"ParentDbId": "A4440C825A994F0B96893D43174281E6",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+},
+{
+"DbId": "4374618A2E874505BACB48FDCE312FDC",
+"ParentDbId": "6EA226FABBDC4FB5943E1E797D198AEF",
+"AttackType": "XSS_PERSISTENT",
+"ActiveAttackStatus":
+{
+"DbId": "84C68D1999564D82A9C1BCFECBC485A3",
+"ParentDbId": "4374618A2E874505BACB48FDCE312FDC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 0,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+},
+"PassiveAttackStatus":
+{
+"DbId": "0B2B3038FEA94AB89DE61268DD5A4662",
+"ParentDbId": "4374618A2E874505BACB48FDCE312FDC",
+"ScheduledAttacks": 0,
+"PerformedAttacks": 72,
+"SkippedAttacks": 0,
+"FoundVulns": 0,
+"RequestCount": 0,
+"RequestPercentage": 0,
+"CPUUsagePercentage": 0
+}
+}
+]
+}
