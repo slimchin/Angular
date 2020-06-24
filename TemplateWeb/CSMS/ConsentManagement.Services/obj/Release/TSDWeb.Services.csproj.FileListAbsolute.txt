@@ -1,7 +1,0 @@
-E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Services\bin\Release\TSDWeb.Services.dll
-E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Services\bin\Release\TSDWeb.Services.pdb
-E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Services\bin\Release\TSDWeb.Models.dll
-E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Services\bin\Release\TSDWeb.Models.pdb
-E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Services\obj\Release\TSDWeb.Services.csprojResolveAssemblyReference.cache
-E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Services\obj\Release\TSDWeb.Services.dll
-E:\SuchinBackup\MVC\TSDWeb\TSDWeb.Services\obj\Release\TSDWeb.Services.pdb
